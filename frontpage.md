@@ -21,6 +21,7 @@ E: jonas@trocavn.eu
 
 
 Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.
+Vandaag zaterdag 27/12 zijn we gesloten.
 ---------------------------------------------------------------------------------------------------------------------------
 
 
