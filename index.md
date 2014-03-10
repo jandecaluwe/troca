@@ -6,5 +6,6 @@ content:
     - ref: jacques
       title: Jacques
     - wijnen
+    - agenda
     - contact
 ---
