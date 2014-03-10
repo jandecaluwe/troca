@@ -1,3 +1,23 @@
+.bulles {
+  color: #F7E7CE;
+}
+
+.wit { 
+  color: #E4D96F;
+}
+
+.zoet {
+  color: #FFFF00;
+}
+
+.ox { 
+  color: #FFD700;
+}
+
+.rood {
+  color: #9F1D35;
+}
+
 /*
 .navbar {
     min-height: 50px;
@@ -139,5 +159,6 @@ h3[id]:before{
     width: 263px;
   }
 }
+
 
 
