@@ -4,13 +4,16 @@ layout: post
 ---
 
 Jacques Masy over zichzelf...  
+-----------------------------
 
 Idd. soms heb ik zin om, een &quot;halve waarheid&quot; of iets dat ik wil kenbaar maken, neer te schrijven.  
 Ik permitteer me de &quot;ik-vorm&quot;.  
 Niet geschikt voor snelle lezers.  
   
-<h3>Zaterdag 17/12/11  
-</h3>20.16u  
+Zaterdag 17/12/11  
+-----------------
+
+20.16u  
   
 About &quot;bad shit&quot;!  
   
@@ -23,7 +26,7 @@ Dit jaar is er &eacute;&eacute;n van verbouwingswerken bij ons thuis.
 We bestelden enkele nieuwe &quot;WCpotten&quot;.  
 Ik stond er tevens op een &quot;bidet&quot; te installeren.   
   
-<em>En nu komt het</em>: iedereen... van architect tot sanitairverkoper... begon me letterlijk zo goed als in het gezicht uit te lachen.  
+*En nu komt het*: iedereen... van architect tot sanitairverkoper... begon me letterlijk zo goed als in het gezicht uit te lachen.  
 Ik was nog zo braaf me hieromtrent te verantwoorden. U moet weten: je verantwoorden voor iets wat je wenst te kopen...  
 Zo stelde ik dat bv. de Moslimcultuur, wat dit betreft hier helemaal anders over denkt.  
 Hygi&euml;ne is hier van primordiaal belang. En ook in de meest zuidelijke latijnse cultuur geldt deze regel.  
@@ -35,30 +38,34 @@ Sterfte door diarree is immers veel veelvuldiger dan aids bv.
   
 Om over na te denken, ben ik wel zeker... 
   
-<h3>Zondag 11 december 2011  
-</h3>8.36u  
+Zondag 11 december 2011  
+-----------------------
+8.36u  
   
 Soms wil ik wel eens ferm provoceren.  
 Onderstaande one-liner heb ik regelmatig in gedachte...  
-  
+ 
 &quot;Zeg me wat U eet en drinkt en het wordt bijgevolg duidelijk wie dat U bent&quot;.  
   
-<h3>Maandag 17 oktober 2011  
-</h3>14.04u  
+Maandag 17 oktober 2011  
+-----------------------
+14.04u  
   
 Peter Goossens...  
 U mag denken wat U maar wilt over Peter Goossens.  
 Wat betreft de keuken, heeft hij mij reeds veel geleerd.  
-<h3>  
+
 Zondag 10 april 2011  
-</h3>17.30u  
+--------------------
+17.30u  
   
 Summi is binnen...  
 Limburg zegeviert in Roubaix!  
 Limburg allein...  
    
-<h3>Zaterdag 2 april 2011  
-</h3>08.58u  
+Zaterdag 2 april 2011  
+---------------------
+08.58u  
   
 La grasse matin&eacute;e  
   
@@ -76,8 +83,9 @@ Vervolgens neemt ze een douche en verdwijnt weer even snel naar de kapper.
 De zaterdagmorgen... de mooiste van de 7 voormiddagen.  
 Rust, rust en nog eens rust.   
   
-<h3>Zaterdag 19 maart 2011  
-</h3>11.11u  
+Zaterdag 19 maart 2011  
+----------------------
+11.11u  
   
 Angeleke en Klaas  
   
@@ -107,8 +115,9 @@ Dit gerecht zou moeten verheven worden tot officieel europees erfgoed of zoiets.
 Tenminste wanneer het op de aloude manier is tot stand gekomen.  
 Tot daar.  
   
-<h3>Dinsdag 15 maart 2011  
-</h3>13.13u  
+Dinsdag 15 maart 2011  
+---------------------
+13.13u  
   
 Extremen zijn er altijd geweest...  
   
@@ -118,8 +127,9 @@ Ik ben er nooit in geslaagd een zoon te hebben.
 Vandaag is er wel een kleinzoontje.  
 De zon schijnt dus, de flessen zullen knallen:-)  
    
-<h3>Vrijdag 11 maart 2011  
-</h3>22.57u  
+Vrijdag 11 maart 2011  
+---------------------
+22.57u  
   
 Waarde Japanse collega!  
 Ik kom U jaarlijks tegen ergens in de &eacute;&eacute;n of andere franse wijngaard, kelder of wijnbeurs.  
@@ -127,8 +137,9 @@ U bent steeds gepolijst vriendelijk, gepassioneerd en zakelijk.
 Het is niet eerlijk wat U, uw land en medeburgers vandaag overkomt.  
 Op mijn manier wil ik U met deze woorden steunen.  
   
-<h3>Vrijdag 11 maart 2011  
-</h3>22.43u  
+Vrijdag 11 maart 2011  
+---------------------
+22.43u  
   
 Ik heb honger.  
 Het is 17.30u en ben net klaar met leveren.  
@@ -143,8 +154,9 @@ Normaal kan deze dame serieus &quot;zagen&quot; en toch is het aangrijpend!
 Emotioneel.  
   
   
-<h3>Dinsdag 08 maart</h3> <h3>2011  
-</h3>21.21u  
+Dinsdag 08 maart 2011  
+---------------------
+21.21u  
   
 Een vriend...  
 Enkele jaren geleden fluisterde hij me zelfverzekerd toe: thuiskomen en er is iemand die op je wacht, dat is precieus!  
@@ -157,8 +169,9 @@ Je bent een vriend Patrick J.
   
 Soms mag men wel eens emotioneel zijn, niet?  
   
-<h3>Zaterdag 26 februari 2011  
-</h3>01.03u  
+Zaterdag 26 februari 2011  
+-------------------------
+01.03u  
   
 Hoegaarden in Meldert.  
 Vorige zondag was het weer zover.  
@@ -171,8 +184,9 @@ Voor enkelen wordt het een openbaring.
 Hoegaarden in Meldert betekent iets.  
 De winter sterft hier een mooie dood, de lente is pril...  
   
-<h3>Zaterdag 12 februari 2011  
-</h3>15.47u  
+Zaterdag 12 februari 2011  
+-------------------------
+15.47u  
   
 Beste Vlaming,  
   
@@ -195,8 +209,9 @@ Laat U hierin niet kennen, beste fiere Vlaming!
 Even groeten, een vorm van respect, dat is basis.  
 Neemt U mij niet kwalijk.  
   
-<h3>Zaterdag 5 februari 2011  
-</h3>17.23u  
+Zaterdag 5 februari 2011  
+------------------------
+17.23u  
   
 Over normale wijn...  
   
@@ -210,8 +225,9 @@ Het zijn wijnen met een hoge dosis intrinsieke klasse.
   
 Voil&agrave;...  
    
-<h3>Zaterdag 5 februari 2011  
-</h3>16.28u  
+Zaterdag 5 februari 2011  
+------------------------
+16.28u  
   
 Mijn fles is leeg...  
   
@@ -236,15 +252,17 @@ Later zoeken we ons hotel op.
 De wijn uit Roussillon blijft voor 1/3e gevuld eenzaam achter.  
 De Tavel is leeg.  
   
-<h3>Vrijdag 28 januari 2011  
-</h3>17.12u  
+Vrijdag 28 januari 2011  
+-----------------------
+17.12u  
   
 Have you ever heard about the &quot;white Hendrix&quot; ?  
 Robin Trower is magic.  
 Definitely!  
    
-<h3>Vrijdag 21 januari 2011  
-</h3>08:06  
+Vrijdag 21 januari 2011  
+-----------------------
+08:06  
   
 Ooit stond ik ergens op een wijnbeurs in de Kempen.  
 Plots dook er een bekende wijnkop op aan mijn tafel met behoorlijk blinkende oogjes.  
@@ -256,8 +274,9 @@ Arte... neen, dat vind ik overdreven Luc D.W.
   
 Beide heren zullen zich dit nog goed herinneren, blinkende oogjes of niet.  
   
-<h3>Maandag 10 januari 2011  
-</h3>06:55  
+Maandag 10 januari 2011  
+-----------------------
+06:55  
   
 Over Jeroen (De Jerre):  
 Ik ben er zeker van dat men ooit zal zeggen: &quot;Hij leerde zijn volk terug koken...&quot;  
@@ -266,8 +285,9 @@ Effectief, voor zij die het vergeten zijn, het kan dus ook zonder.
 Shame on you, Piet :-(  
 Merci Jeroen!  
     
-<h3>Donderdag 6 januari 2011  
-</h3>01:00  
+Donderdag 6 januari 2011  
+------------------------
+01:00  
   
 Ik versta dit land niet meer?!  
 Zijn de heren politici vergeten hoe goed het hier altijd geweest is?  
@@ -279,7 +299,8 @@ Ooit vroeg ik aan mijn baas, jaren geleden, toen hij voor een grote beslissing s
 Af en toe moet je je broek durven afdoen, antwoordde hij...  
 Mijn baas heeft toen toegegeven.  
   
-<h3>Zondag 2 januari 2010</h3>  
+Zondag 2 januari 2010  
+---------------------
 07:12  
   
 Mijn vader...  
@@ -303,17 +324,18 @@ Zou hij fier zijn?
 Ik denk het.  
 Merci pa...  
 
-<h3>  
 Vrijdag 31 december 2010  
-</h3>08.21  
+------------------------
+08.21  
   
 &quot;Le bonheur exige du talent, le malheur pas&quot; !  
   
 Een mooie uitspraak van Jan Vercauteren, een vriend wonend in Bourgogne.  
 Om over na te denken...  
   
-<h3>Vrijdag 31 december 2010 <font style="BACKGROUND-COLOR: #808080">  
-</font></h3>07.11  
+Vrijdag 31 december 2010   
+------------------------
+07.11  
   
 &quot;Natuurlijke wijn verkopen&quot; dat heeft zo zijn kantjes.  
   
@@ -346,8 +368,9 @@ geeft meer duidelijkheid, hoop ik.
   
 Une &eacute;cole... Une v&eacute;rit&eacute;...  
 
-<h3>Maandag 27 december 2010  
-</h3>08.03u  
+Maandag 27 december 2010  
+------------------------
+08.03u  
   
 Mijn gedachtegoed is behoorlijk links te noemen. Principieel zal ik dus nooit stemmen op een rechtse partij.  
 Heb ik trouwens tot hiertoe nooit gedaan.  
@@ -355,8 +378,9 @@ Toch hanteert regelmatig Filip Dewinter een uitspraak die ik geweldig vind.
 &quot;De copie is nooit zo mooi dan het origineel&quot;...   
 Een toepasbaar statement in verscheidene domeinen.  
   
-<h3>Maandag 27 december 2010  
-</h3>07.17u  
+Maandag 27 december 2010  
+------------------------
+07.17u  
   
 &quot;Paysan&quot;... een dubbele betekenis.  
 Geboren op de taalgrens en behoorlijk Latijns opgevoed.  
@@ -371,8 +395,9 @@ Schitterend!
 Wat me steeds is bijgebleven in deze optiek, is de krachtige uitspaak van Jean Gabin in zijn film L'Affaire Dominici (1973) waar hij &quot;paysan&quot; en pater familias is op de boerderij &quot;La Grande Terre&quot; :   
 &quot;La terre ne salit pas les mains&quot;...  
    
-<h3>Vrijdag 24 december 2010   
-</h3>23.30u  
+Vrijdag 24 december 2010   
+------------------------
+23.30u  
   
 Wat hebben wij, Limburgers, gemeen met de Fransen?  
 Chauvinisme! Dat is een certitude!  
@@ -380,8 +405,9 @@ Ja hoor, wij zijn fier op onze provincie, de plaatselijke natuur, onze gemoedeli
 We spreken misschien een beetje trager...  
 We leven echter intenser en langer :-)  
   
-<h3>Vrijdag 24 december 2010 kerstavond  
-</h3>20.00u  
+Vrijdag 24 december 2010 kerstavond  
+-----------------------------------
+20.00u  
   
 Ik ben aan het koken...  
 Kerstavond verdient een precieus diner.  
@@ -391,16 +417,18 @@ Magisch...
 Geen slecht woord echter over de overige 2 !  
   
   
-<h3>Donderdag 23 december 2010  
-</h3>6.52u  
+Donderdag 23 december 2010  
+--------------------------
+6.52u  
   
 Eenvoud herbergt klasse.  
 Of nog...  
 Ik hoorde ooit mijn vader zeggen...   
 &quot;Weinig lawaai, weinig woorden&quot; typisch voor &quot;grote&quot; mannen.  
   
-<h3>Maandag 20 december 2010  
-</h3>15.38u  
+Maandag 20 december 2010  
+------------------------
+15.38u  
   
 Neen, ik wist het niet.  
 We proefden samen deze wijn.  
@@ -408,8 +436,9 @@ Neen, ik begrijp het niet, herhaalde ik.
 Je moet niet alles onmiddellijk willen begrijpen, antwoordde hij...  
 Dixit Michel Aug&eacute;.  
   
-<h3>Maandag 20 december 2010  
-</h3>13.24u  
+Maandag 20 december 2010  
+------------------------
+13.24u  
   
 Het is winter en het heeft gesneeuwd.  
 Ik vroeg iemand in de straat of hij hiermee gelukkig was.  
