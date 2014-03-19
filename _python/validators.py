@@ -14,13 +14,6 @@ if StrictVersion(urubu.__version__) < StrictVersion(urubu_version_required):
 
 undefined_key = "'{}' not defined in '{}'"
 
-# avoid raising ImportError as Urubu uses this to
-# detect the _python module or package
-try:
-    import hglib
-except ImportError:
-    raise AssertionError(hglib_import_error)
-
 def check_keys(item, keys):
     for key in keys:    
         if key not in item:
