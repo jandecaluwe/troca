@@ -7,7 +7,7 @@ Coördinaten
 -----------
 
 Westrozebekestraat 75  
-8840 Oostnieuwkerke (bij Roeselare)
+8840 Oostnieuwkerke
 Gsm: 0032.476.88.32.15  
 Skype: maver.bvba  
 e.mail: <tromasyca@skynet.be>
