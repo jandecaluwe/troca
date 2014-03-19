@@ -6,6 +6,8 @@ layout: post
 Jacques Masy over zichzelf...  
 -----------------------------
 
+Ik wil iets veranderen.
+
 Idd. soms heb ik zin om, een &quot;halve waarheid&quot; of iets dat ik wil kenbaar maken, neer te schrijven.  
 Ik permitteer me de &quot;ik-vorm&quot;.  
 Niet geschikt voor snelle lezers.  
