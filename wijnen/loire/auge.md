@@ -1,10 +1,10 @@
 ﻿---
 title: Michel et Béatrice Augé
-layout: wijnhuis
 huis:  Domaine des Maisons Brûlées
 dept:  Loir et Cher
 regio: Touraine
 photo: auge2.jpg
+layout: wijnhuis
 
 wijnen:
     - naam:  L’Altérité’12
