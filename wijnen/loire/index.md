@@ -5,5 +5,6 @@ content:
     - venier
     - carsin
     - sigonneau
+    - carroget
 layout: wijnbouwer_index
 ---

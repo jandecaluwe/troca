@@ -1,8 +1,8 @@
 ﻿---
 title: Christian Venier
-layout: wijnhuis 
 regio: Touraine
 photo: venier.jpg
+layout: wijnhuis 
 
 wijnen:
     - naam:  Les Carteries’11
