@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+
+        {% block index_list %}
+        {% for item in this.content %}
+            <div class="col-md-4 text-center" role="main">
+                    <h2><a href="{{item.url}}">{{item.title}}</a></h2>
+                    <p>{{item.description}}</p>
+            </div>
+            {% if loop.index0 % 3 == 2 %}
+            <div class="clearfix visible-lg"></div>
+            <div class="clearfix visible-md"></div>
+            {% endif %}
+        {% endfor %}
+        {% endblock %}
+

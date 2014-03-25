@@ -1,0 +1,25 @@
+{% extends "page.html" %}
+
+{% block breadcrumbs %}
+{% endblock %}
+
+{% block title %} 
+{% endblock %}
+
+
+      {% block content %}
+      <div class="row">
+        <div class="col-md-3">
+          <img src="/img/troca_navBg.jpg" class="img-responsive" style="margin-top:50px">
+        </div>
+        <div class="col-md-6" data-spy="scroll" data-target="#sidenav" role="main">
+          <div class="page-header">
+            <h1>{{this.title}}</h1>
+          </div>
+          {{this.body}}
+        </div>
+      </div>
+      {% endblock %}
+
+
+

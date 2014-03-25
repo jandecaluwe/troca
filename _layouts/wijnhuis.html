@@ -1,0 +1,36 @@
+{% extends "page.html" %}
+
+{% block title %} 
+<div class="page-header">
+  <h1>{{this.title}}&nbsp;&nbsp;<small>{{this.huis}}</small></h1>
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+  <div class="col-md-5">
+     <img src="{{this.photo}}" class="img-responsive center-block" alt="Hier een foto"> 
+  </div>
+  <div class="col-md-6">
+      {{this.body}}
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <table class="table table-condensed" style="margin-top: 30px">
+      <tbody>
+        {% for item in this.wijnen %}
+        <tr>
+          <td>{{item.naam}}</td>
+          <td>{{item.app}}</td>
+          <td style="color:{{item.color}}">{{item.type}}</td>
+          <td>{{item.cep}}</td>
+          <td>{{item.prijs}}</td>
+          <td class="text-info">{{item.opm}}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+{% endblock %}
