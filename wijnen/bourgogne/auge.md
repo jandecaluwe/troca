@@ -1,7 +1,7 @@
 ﻿---
 title: Isabelle et Jean-Yves Vantey
 layout: wijnhuis
-huis:  Domaine des Rouges Queus
+huis:  Domaine des Rouges Queues
 dept:  Côtes d'Or
 regio: Bourgogne
 photo: auge2.jpg
