@@ -1,5 +1,6 @@
 ---
 title: Toscana 
-content: []
+content: 
+    - rosellini-riguccini
 layout: wijnbouwer_index
 ---
