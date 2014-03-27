@@ -34,7 +34,7 @@ champagne_re = re.compile(r'(petil|mous|sprankelend)', re.I)
 white_re = re.compile(r'(wit|blanc)', re.I)
 ox_re = re.compile(r'(ox)', re.I)
 sweet_re = re.compile(r'(zoet|moel|tendre|demi.sec)', re.I)
-red_re = re.compile(r'(rood|rouge)', re.I)
+red_re = re.compile(r'(rood|rouge|rosso)', re.I)
         
 def validate_wijnhuis(item):
     check_keys(item, ['wijnen'])
