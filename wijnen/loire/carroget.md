@@ -1,8 +1,9 @@
 ﻿---
 title: Jacques Carroget
-layout: Dom. de La Paonnerie
+huis: Dom. de La Paonnerie
 regio: Muscadet Coteaux de La Loire
-photo: venier.jpg
+photo: carroget.jpg
+layout: wijnhuis
 
 wijnen:
     - naam:  Muscadet'09
