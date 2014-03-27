@@ -6,5 +6,6 @@ content:
     - carsin
     - sigonneau
     - carroget
+    - riffault
 layout: wijnbouwer_index
 ---
