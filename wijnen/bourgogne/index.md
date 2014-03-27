@@ -1,5 +1,6 @@
 ---
 title: Bourgogne 
-content: []
+content: 
+    - vantey
 layout: wijnbouwer_index
 ---
