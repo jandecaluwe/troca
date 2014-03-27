@@ -1,5 +1,5 @@
 ---
-title: Les vins / De wijnen 
+title: Wines
 layout: streek_index
 content:
     - champagne
