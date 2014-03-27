@@ -43,8 +43,6 @@ wijnen:
       cep:   Cabernet franc/Côt
       prijs: €12.45
 
-   
-    
 
-    
+---   
 Uitleg over de wijnbouwer...
