@@ -1,13 +1,13 @@
 ﻿---
-title: Giacomo Fenocchio
-huis:  Domaine des Maisons Brûlées
+title: Claudio Fenocchio
+huis:  Giacomo Fenocchio
 dept:  Loir et Cher
-regio: Touraine
-photo: auge2.jpg
+regio: Piemonte
+photo: fenocchio.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Dolcetti'12
+    - naam:  Dolcetto'12
       ref:   Loi 1234
       app:   D.O.C. Dolcetto d'Alba
       type:  Rosso
