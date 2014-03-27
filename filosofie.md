@@ -2,7 +2,6 @@
 title: Filosofie 
 layout: simple_page
 ---
-
-Wordt herwerkt ...
+Ik ben bezig
 
 
