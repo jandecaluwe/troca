@@ -3,7 +3,7 @@ title: Sébastien Riffault
 huis:  
 dept:  Cher
 regio: Centre (Loire)
-photo: auge2.jpg
+photo: riffault.png
 layout: wijnhuis
 
 wijnen:
