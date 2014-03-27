@@ -4,7 +4,7 @@ layout: wijnhuis
 huis:  Domaine des Rouges Queues
 dept:  Côtes d'Or
 regio: Bourgogne
-photo: auge2.jpg
+photo: vantey.png
 
 wijnen:
     - naam:  Hautes Côtes de Beaune'11
