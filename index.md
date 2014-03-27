@@ -5,7 +5,8 @@ content:
     - filosofie
     - ref: jacques
       title: Jacques
-    - wijnen
+    - ref: wijnen
+      title: Wines
     - agenda
     - contact
 ---

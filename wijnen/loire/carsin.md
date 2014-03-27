@@ -1,8 +1,8 @@
 ﻿---
 title: Thomas Carsin
-layout: wijnhuis 
 regio: Anjou noir
 photo: carsin.jpg
+layout: wijnhuis 
 
 wijnen:
     - naam:  Les Carteries’11

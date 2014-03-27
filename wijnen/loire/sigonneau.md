@@ -1,8 +1,8 @@
 ﻿---
 title: Frederic Sigonneau
-layout: wijnhuis 
 regio: Chinon
 photo: sigonneau.jpg
+layout: wijnhuis 
 
 wijnen:
     - naam:  Le Canal des Grands Pièces
