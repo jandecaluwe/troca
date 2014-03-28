@@ -3,11 +3,10 @@ title: ''
 layout: home
 content:
     - frontpage
-    - about
-      title: about us
+    - ref: about
+      title: About us 
     - philosophy
-    - ref: wijnen
-      title: Wines
+    - wines
     - agenda
     - contact
 ---
