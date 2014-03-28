@@ -24,28 +24,28 @@ wijnen:
     - naam:  Cuvée Charles Beaudelaire'10
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc sec
+      type:  Blanc Sec
       cep:   Chardonnay/Savagnin
       prijs: €13.40€
 
     - naam:  Savagnin'08
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc sec non ouillé sous voile
+      type:  Blanc Sec non ouillé sous voile
       cep:   Savagnin
       prijs: €17.85
       
     - naam:  Vin Jaune'04
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc sec non ouillé
+      type:  Blanc Sec non ouillé
       cep:   Savagnin
       prijs: €41.36
 
     - naam:  Vin Jaune'05
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc sec non ouillé
+      type:  Blanc Sec non ouillé
       cep:   Savagnin
       prijs: €37.55
 
