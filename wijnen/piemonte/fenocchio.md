@@ -1,7 +1,7 @@
 ﻿---
 title: Claudio Fenocchio
 huis:  Giacomo Fenocchio
-dept:  Loir et Cher
+dept:  
 regio: Piemonte
 photo: fenocchio.jpg
 layout: wijnhuis
@@ -14,7 +14,7 @@ wijnen:
       cep:   Dolcetto
       prijs: €14.50
 
-    - naam:  Silènes’11
+    - naam:  Barbera d'Alba'12
       ref:   Loi 1146
       app:   Vin de France
       type:  Blanc Sec
