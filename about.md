@@ -10,6 +10,7 @@ Pure 'spielerei' op dat moment! Zo bekijken we dat vandaag.
 Deze etappe was echter noodzakelijk, zo blijkt ...
 
 2001
+
 Ik ging voor het eerst naar het toenmalige nog kleine wijnbeursje "La Dive Bouteille" in Restigné bij Bourgeuil.
 Organisator Pierre en Cathérine Breton vergaderden daar (ergens in een grot) met een handvol wijnbouwers uit de Loire en dit voor de 2e keer.
 Ik denk dat er slechts 300 bezoekers kwamen opdagen gedurende 2 dagen.
@@ -20,22 +21,27 @@ De ervaring was dermate boeiend, de sensatie, de vraagtekens in mijn hoofd, de n
 Dit contact zorgde voor een fundamentele wending betreffende mijn visie op "een goed glas wijn".
 
 2007
+
 Begin april van dat jaar wordt gekenmerkt door van het nemen van een drastische beslissing.
 Afscheid van een job, een salaris ...
 Verkoop van wijn moest zorgen voor vervanging! Niet evident.
 
 2012
+
 Verhuis naar een nieuwe lokatie.
 We verhuisden van de Ovenstraat in Roeselare naar de Westrozebekestraat in Oostnieuwkerke.
 Pakken werk, brainwash,organisatie en energie maakten van deze lokatie de plaats waar we tot op vandaag ons goed voelen.
 Dit is een rustige lokatie met veel mogelijkheden waar iedereen die het goed met ons meent welkom is.
 
 2014
+
 Op 1 januari van dit jaar worden wij gesteund door Jonas Van Thillo, jong bloed, gemotiveerd, goedlachs ...
 Jonas is sinds 5 jaar een vriend.
 
 Onze intenties: 
+
 Elke klant gelukkig maken met een eerlijk en zuiver glas wijn.
+
 Het organiseren van een gezonde bedrijfssituatie.
 
 Hilde Verstraete
