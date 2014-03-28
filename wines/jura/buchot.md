@@ -93,7 +93,7 @@ wijnen:
 
     
 ---
-Claude Buchot leerden we heel toevallig kennen. Wij proefden zijn wijnen ergens aan de gastentafel in het zuiden van de "Revermont". Het mooiste was dat toen de wijn onwaarschijnlijk smaakte en dat flessen, zowel wit als rood in een mum van tijd vlot werd geledigd.
+Claude Buchot leerden we heel toevallig kennen. Wij proefden zijn wijnen ergens aan een gastentafel in het zuiden van de "Revermont". Het mooiste was dat de wijn zo onwaarschijnlijk goed smaakte, dat flessen zowel wit als rood in een mum van tijd vlot werden geledigd.
 Dit is altijd een zeer goed teken.
 De drang was bijgevolg groot om deze man te leren kennen.
 Buchot plante 40 jaar geleden eigenhandig zijn 1e wijnstokken. Hij bouwde gestaag zijn eigen wijngaard en bleef de klassieke methodes uit de Jura trouw.
