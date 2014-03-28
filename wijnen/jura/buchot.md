@@ -1,13 +1,13 @@
 ﻿---
-title: Michel et Béatrice Augé
-huis:  Domaine des Maisons Brûlées
-dept:  Loir et Cher
-regio: Touraine
-photo: auge2.jpg
+title: Claude Buchot
+huis:  Dom. Claude Buchot
+dept:  Jura
+regio: Côtes du Jura
+photo: buchot.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  L’Altérité’12
+    - naam:  Au Château'11
       ref:   Loi 1234
       app:   Vin de France
       type:  Petillant Naturel (sec)
