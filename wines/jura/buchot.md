@@ -9,110 +9,88 @@ layout: wijnhuis
 wijnen:
     - naam:  Au Château'11
       ref:   Loi 1234
-      app:   Vin de France
-      type:  Petillant Naturel (sec)
-      cep:   Cabernet sauvignon
-      prijs: €14.50
-
-    - naam:  Silènes’11
-      ref:   Loi 1146
-      app:   Vin de France
+      app:   A.O.C. Côtes de Jura
       type:  Blanc Sec
-      cep:   Sauvignon blanc
-      prijs: €13.35
+      cep:   Chardonnay
+      prijs: €10.43
 
-    - naam:  Poussière de Lune’12
-      ref:   Loi 12..
-      app:   Vin de France
+    - naam:  Terroir du Bry Tradition'10
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  Blanc Sec
+      cep:   Chardonnay
+      prijs: €11.40€
+
+    - naam:  Cuvée Charles Beaudelaire'10
+      ref:   
+      app:   A.O.C. Côtes de Jura
       type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €15.45
+      cep:   Chardonnay/Savagnin
+      prijs: €13.40€
 
-    - naam:  L’Eau g’aime’09
-      ref:   Loi 09996
-      app:   Vin de France
+    - naam:  Savagnin'08
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  Blanc sec non ouillé sous voile
+      cep:   Savagnin
+      prijs: €17.85
+      
+    - naam:  Vin Jaune'04
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  Blanc sec non ouillé
+      cep:   Savagnin
+      prijs: €41.36
+
+    - naam:  Vin Jaune'05
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  Blanc sec non ouillé
+      cep:   Savagnin
+      prijs: €37.55
+
+    - naam:  Poulsard'12
+      ref:   
+      app:   A.O.C. Côtes de Jura
       type:  Rouge
-      cep:   Pinot noir/Gamay
-      prijs: €14.25
-      opm:   De laatsten/Les dernières
+      cep:   Poulsard
+      prijs: €10.43
 
-    - naam:  L’Erèbe’10
-      ref:   Loi 1081
-      app:   Vin de France
-      type:  Rouge
-      cep:   Cabernet franc/Côt
-      prijs: €12.45
-
-    - naam:  L’Erèbe’11
-      ref:   Loi 1165
-      app:   Vin de France
-      type:  Rouge
-      cep:   Cabernet franc/Côt
-      prijs: €12.45
-
-    - naam:  L’Erèbe’12
-      ref:   Loi 12..
-      app:   Vin de France
-      type:  Rouge
-      cep:   Cabernet franc/Côt
-      prijs: €12.45
-
-    - naam:  Prim’Herdeleau’07
-      ref:   Loi 0705 
-      app:   Vin de France
+    - naam:  Pinot noir'12
+      ref:    
+      app:   A.O.C. Côtes de Jura
       type:  Rouge 
-      cep:   Gamay 
-      prijs: €10.20 
-      opm:   De laatsten/Les dernières 
+      cep:   Pinot noir
+      prijs: €10.43  
 
-    - naam:  Le Herdeleau’10
-      ref:   Loi 1074 
-      app:   Vin de France
-      type:  Rouge 
-      cep:   Pinot noir/Gamay 
-      prijs: €12.45 
+    - naam:  Crémant de Jura
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  Méthode Traditionelle
+      cep:   Chardonnay
+      prijs: €11.95
 
-    - naam:  L’Art de l’Eau’11
-      ref:   Loi 1164
-      app:   Vin de France
-      type:  Rouge 
-      cep:   Pinot noir/Gamay/Pineau d'Aunis 
-      prijs: €12.95 
+    - naam:  Crémant de Jura non dosé
+      ref:   
+      app:   Côtes de Jura
+      type:  Méthode Traditionelle
+      cep:   Chardonnay 
+      prijs: €11.95 
 
-    - naam:  L’Art de l’Eau’12
-      ref:   Loi 12.. 
-      app:   Vin de France
-      type:  Rouge 
-      cep:   Pinot noir/Gamay/Pineau d'Aunis 
-      prijs: €12.95 
+    - naam:  Macvin
+      ref:   
+      app:   Côtes de Jura
+      type:  Vin muté 
+      cep:    
+      prijs: €17.50 
 
-    - naam:  Noire’10
-      ref:   Loi 10-- 
-      app:   Vin de France
-      type:  Rouge 
-      cep:   Pinot noir/Gamay/Pineau d’Aunis/Cabernet franc/Côt 
-      prijs: €15.45 
+    - naam:  Vin de Paille
+      ref:   
+      app:   Côtes de Jura
+      type:  Vin Liquoreux 
+      cep:   Chardonnay/Poulsard
+      prijs: €23.20 
 
-    - naam:  30 Lunes’04 magnum
-      ref:   Loi 0424 
-      app:   Vin de France
-      type:  Moelleux 
-      cep:   Sauvignon blanc 
-      prijs: €55.30 
-
-    - naam:  Sous Voile’05 (37,5l)
-      ref:   Loi 0577 
-      app:   Vin de France
-      type:  Blanc oxidatif 
-      cep:   Sauvignon blanc 
-      prijs: €14.50 
-
-    - naam:  Sous Voile’03 
-      ref:   Loi 0308
-      app:   Vin de France
-      type:  Blanc oxidatif 
-      cep:   Sauvignon blanc 
-      prijs: €14.50 
-
+    
 ---
-Uitleg over de wijnbouwer...
+Claude Buchot leerden we heel toevallig kennen.
