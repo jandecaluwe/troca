@@ -1,5 +1,6 @@
 ---
 title: Jura 
-content: []
+content: 
+    - buchot
 layout: wijnbouwer_index
 ---
