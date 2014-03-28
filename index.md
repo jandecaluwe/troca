@@ -3,7 +3,7 @@ title: ''
 layout: home
 content:
     - frontpage
-    - ref: jacques
+    - about
       title: about us
     - philosophy
     - ref: wijnen
