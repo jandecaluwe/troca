@@ -15,3 +15,29 @@ Organisator Pierre en Cathérine Breton vergaderden daar (ergens in een grot) me
 Ik denk dat er slechts 300 bezoekers kwamen opdagen gedurende 2 dagen.
 Op het einde van dag 1, bleek er één tafel druk bezocht en dit door zowaar bijna enkel wijnbouwers.
 Ik proefde daar mijn eerste natuurwijnen van het huis Domaine du Peyra uit Auvergne.
+
+De ervaring was dermate boeiend, de sensatie, de vraagtekens in mijn hoofd, de nieuwsgierigheid ...
+Dit contact zorgde voor een fundamentele wending betreffende mijn visie op "een goed glas wijn".
+
+2007
+Begin april van dat jaar wordt gekenmerkt door van het nemen van een drastische beslissing.
+Afscheid van een job, een salaris ...
+Verkoop van wijn moest zorgen voor vervanging! Niet evident.
+
+2012
+Verhuis naar een nieuwe lokatie.
+We verhuisden van de Ovenstraat in Roeselare naar de Westrozebekestraat in Oostnieuwkerke.
+Pakken werk, brainwash,organisatie en energie maakten van deze lokatie de plaats waar we tot op vandaag ons goed voelen.
+Dit is een rustige lokatie met veel mogelijkheden waar iedereen die het goed met ons meent welkom is.
+
+2014
+Op 1 januari van dit jaar worden wij gesteund door Jonas Van Thillo, jong bloed, gemotiveerd, goedlachs ...
+Jonas is sinds 5 jaar een vriend.
+
+Onze intenties: 
+Elke klant gelukkig maken met een eerlijk en zuiver glas wijn.
+Het organiseren van een gezonde bedrijfssituatie.
+
+Hilde Verstraete
+Jacques Masy
+
