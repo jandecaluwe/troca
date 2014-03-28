@@ -2,7 +2,7 @@
 title: ''
 layout: home
 content:
-    - filosofie
+    - Philosophy
     - ref: jacques
       title: About Us
     - ref: wijnen
