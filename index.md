@@ -2,9 +2,10 @@
 title: ''
 layout: home
 content:
-    - Philosophy
+    - Frontpage
     - ref: jacques
       title: About Us
+    - Philosophy
     - ref: wijnen
       title: Wines
     - agenda
