@@ -4,7 +4,7 @@ layout: home
 content:
     - filosofie
     - ref: jacques
-      title: Jacques
+      title: About Us
     - ref: wijnen
       title: Wines
     - agenda
