@@ -39,9 +39,7 @@ Op 1 januari van dit jaar worden wij gesteund door Jonas Van Thillo, jong bloed,
 Jonas is sinds 5 jaar een vriend.
 
 Onze intenties: 
-
 Elke klant gelukkig maken met een eerlijk en zuiver glas wijn.
-
 Het organiseren van een gezonde bedrijfssituatie.
 
 Hilde Verstraete
