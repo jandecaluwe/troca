@@ -31,7 +31,7 @@ ox = '#FFD700'
 red = '#9F1D35'
 
 champagne_re = re.compile(r'(petil|mous|sprankelend)', re.I)
-white_re = re.compile(r'(wit|blanc)', re.I)
+white_re = re.compile(r'(wit|blanc|bianco)', re.I)
 ox_re = re.compile(r'(ox)', re.I)
 sweet_re = re.compile(r'(zoet|moel|tendre|demi.sec)', re.I)
 red_re = re.compile(r'(rood|rouge|rosso)', re.I)
