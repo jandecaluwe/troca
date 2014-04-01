@@ -29,6 +29,7 @@ Afscheid van een job, een salaris ...
 Verkoop van wijn moest zorgen voor vervanging! Niet evident.
 
 2012
+----
 
 Verhuis naar een nieuwe lokatie.
 We verhuisden van de Ovenstraat in Roeselare naar de Westrozebekestraat in Oostnieuwkerke.
