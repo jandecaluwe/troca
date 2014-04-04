@@ -1,8 +1,8 @@
 ﻿---
-title: Michel et Béatrice Augé
-huis:  Domaine des Maisons Brûlées
-dept:  Loir et Cher
-regio: Touraine
+title: Céline et Laurent Tripoz
+huis:  Domaine Tripoz
+dept:  Saone et Loire
+regio: Bourgogne
 photo: auge2.jpg
 layout: wijnhuis
 
