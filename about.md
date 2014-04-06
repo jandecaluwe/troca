@@ -10,6 +10,7 @@ Pure 'spielerei' op dat moment! Zo bekijken we dat vandaag.
 Deze etappe was echter noodzakelijk, zo blijkt ...
 
 2001
+----
 
 Ik ging voor het eerst naar het toenmalige nog kleine wijnbeursje "La Dive Bouteille" in Restigné bij Bourgeuil.
 Organisator Pierre en Cathérine Breton vergaderden daar (ergens in een grot) met een handvol wijnbouwers uit de Loire en dit voor de 2e keer.
@@ -23,6 +24,7 @@ Dit contact zorgde voor een fundamentele wending betreffende mijn visie op "een 
 La Dive Bouteille is volgend jaar aan editie 15 toe.
 
 2007
+----
 
 Begin april van dat jaar werd gekenmerkt door het nemen van een drastische beslissing.
 Afscheid van een job, een salaris ...
@@ -37,6 +39,7 @@ Pakken werk, brainwash, organisatie en energie maakten van deze lokatie de plaat
 Dit is een rustige lokatie met veel mogelijkheden waar iedereen die het goed met ons meent welkom is.
 
 2014
+----
 
 Sinds 1 januari van dit jaar worden wij gesteund door Jonas Van Thillo, jong bloed, gemotiveerd, goedlachs ...
 Jonas is sinds 5 jaar een vriend.
@@ -46,6 +49,8 @@ Onze intenties:
 - Elke klant gelukkig maken met een eerlijk en zuiver glas wijn.
 - Het organiseren van een gezonde bedrijfssituatie.
 
-Hilde Verstraete
+---
+
+Hilde Verstraete  
 Jacques Masy
 
