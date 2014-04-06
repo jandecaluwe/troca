@@ -3,7 +3,7 @@ title: Céline et Laurent Tripoz
 huis:  Domaine Tripoz
 dept:  Saone et Loire
 regio: Bourgogne
-photo: auge2.jpg
+photo: tripoz.jpg
 layout: wijnhuis
 
 wijnen:
