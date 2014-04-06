@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
 import re
 from distutils.version import StrictVersion
 import urubu
@@ -35,6 +38,8 @@ white_re = re.compile(r'(wit|blanc|bianco)', re.I)
 ox_re = re.compile(r'(ox)', re.I)
 sweet_re = re.compile(r'(zoet|moel|tendre|demi.sec)', re.I)
 red_re = re.compile(r'(rood|rouge|rosso)', re.I)
+
+prijs_re = re.compile(r'(\d+|\d+\.\d+)', re.I)
         
 def validate_wijnhuis(item):
     check_keys(item, ['wijnen'])
@@ -54,6 +59,17 @@ def validate_wijnhuis(item):
         elif red_re.search(tipe):
             color = red
         wijn['color'] = color 
+    for wijn in item['wijnen']:
+        if not 'prijs' in wijn:
+            continue
+        prijs = wijn['prijs']
+        m = prijs_re.search(prijs)  
+        if m:
+            prijs = float(m.group(0))
+            prijs = round((prijs * 1.21), 2)
+            prijs = "{:.2f}".format(prijs)
+            wijn['prijs'] = prijs
+
 
 validators= {}
 
