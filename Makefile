@@ -3,4 +3,4 @@ build:
 	python -m urubu build
 
 serve:
-	cd _build; python -m urubu serve
+	python -m urubu serve

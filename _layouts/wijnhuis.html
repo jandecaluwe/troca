@@ -9,7 +9,9 @@
 {% block content %}
 <div class="row">
   <div class="col-md-5">
-     <img src="{{this.photo}}" class="img-responsive center-block" alt="Hier een foto"> 
+     <img src="{{this.photo}}" style="margin: 0px auto 15px;"
+                               class="img-responsive" 
+                               alt="Foto"> 
   </div>
   <div class="col-md-6">
       {{this.body}}
@@ -25,7 +27,7 @@
           <td>{{item.app}}</td>
           <td style="color:{{item.color}}">{{item.type}}</td>
           <td>{{item.cep}}</td>
-          <td>{{item.prijs}}</td>
+          <td>&euro;{{item.prijs}}</td>
           <td class="text-info">{{item.opm}}</td>
         </tr>
         {% endfor %}
