@@ -7,7 +7,7 @@ photo: tripoz2.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  L’Altérité’12
+    - naam:  Crémant de Bourgogne
       ref:   Loi 1234
       app:   Vin de France
       type:  Petillant Naturel (sec)
