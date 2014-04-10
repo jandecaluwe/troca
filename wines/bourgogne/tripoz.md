@@ -8,7 +8,7 @@ layout: wijnhuis
 
 wijnen:
     - naam:  Crémant de Bourgogne
-      ref:   Loi 1234
+      ref:   Bou 
       app:   Vin de France
       type:  Petillant Naturel (sec)
       cep:   Cabernet sauvignon
