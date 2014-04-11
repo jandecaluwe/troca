@@ -2,7 +2,7 @@
 title: Frédéric Rivaton
 huis:  Domaine Rivaton
 dept:  Pyrenées Orientales
-regio: Rousillon
+regio: Roussillon
 photo: auge2.jpg
 layout: wijnhuis
 
@@ -14,12 +14,12 @@ wijnen:
       cep:   60% Syrah/40% Carignan
       prijs: €9.38€├
 
-    - naam:  Silènes’11
-      ref:   Loi 1146
+    - naam:  Vieilles Vignes'10
+      ref:   Bou 1002
       app:   Vin de France
-      type:  Blanc Sec
-      cep:   Sauvignon blanc
-      prijs: €13.35
+      type:  Rouge
+      cep:   70% Carignan/20% Syrah/10% Grenache
+      prijs: €13.00
 
     - naam:  Poussière de Lune’12
       ref:   Loi 12..
