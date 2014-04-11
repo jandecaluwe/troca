@@ -1,18 +1,18 @@
 ﻿---
-title: Michel et Béatrice Augé
-huis:  Domaine des Maisons Brûlées
-dept:  Loir et Cher
-regio: Touraine
+title: Frédéric Rivaton
+huis:  Domaine Rivaton
+dept:  Pyrenées Orientales
+regio: Rousillon
 photo: auge2.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  L’Altérité’12
-      ref:   Loi 1234
+    - naam:  Tombé du Ciel'12
+      ref:   Rous 1201
       app:   Vin de France
-      type:  Petillant Naturel (sec)
-      cep:   Cabernet sauvignon
-      prijs: €14.50
+      type:  Rouge
+      cep:   60% Syrah/40% Carignan
+      prijs: €9.38€├
 
     - naam:  Silènes’11
       ref:   Loi 1146
