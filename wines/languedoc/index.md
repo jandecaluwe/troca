@@ -1,5 +1,6 @@
 ---
 title: Languedoc 
-content: []
+content: 
+    - allier
 layout: wijnbouwer_index
 ---
