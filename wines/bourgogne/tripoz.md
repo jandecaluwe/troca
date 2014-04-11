@@ -14,7 +14,7 @@ wijnen:
       cep:   Cabernet sauvignon
       prijs: €14.50
 
-    - naam:  Silènes’11
+    - naam:  Chant de La Tour
       ref:   Loi 1146
       app:   Vin de France
       type:  Blanc Sec
