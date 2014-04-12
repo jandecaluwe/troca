@@ -18,7 +18,7 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc
       prijs: €9.39
-      opm:   
+        
     
     - naam:  Les 5 Eléments'11
       ref:   Loi 1131
