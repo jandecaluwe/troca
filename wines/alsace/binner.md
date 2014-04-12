@@ -1,25 +1,25 @@
 ﻿---
-title: Céline et Laurent Tripoz
-huis:  Domaine Tripoz
-dept:  Saone et Loire
-regio: Bourgogne
+title: Christian Binner
+huis:  Domaine Binner
+dept:  Haut-Rhin
+regio: Alsace
 photo: binner.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Crémant de Bourgogne
-      ref:   Bou 
-      app:   
-      type:  
-      cep:   
-      prijs: 
+    - naam:  Les Saveurs'12
+      ref:   Als 1202
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   Cépages Alsaciens
+      prijs: €8.95
 
-    - naam:  Chant de La Tour
-      ref:   
-      app: 
-      type:  
-      cep:  
-      prijs: 
+    - naam:  Riesling Ammerschwihr'08
+      ref:   Als 0801
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   Riesling
+      prijs: €11.07
 
     - naam:  
       ref:   
