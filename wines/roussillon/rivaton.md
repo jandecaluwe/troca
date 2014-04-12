@@ -3,7 +3,7 @@ title: Frédéric Rivaton
 huis:  Domaine Rivaton
 dept:  Pyrenées Orientales
 regio: Roussillon
-photo: auge2.jpg
+photo: rivaton.jpg
 layout: wijnhuis
 
 wijnen:
@@ -26,7 +26,7 @@ wijnen:
       app:   Vin de France
       type:  Rouge
       cep:   70% Carignan/20% Syrah/10% Grenache
-      prijs: €15.8 
+      prijs: €15.81
 
 ---
 Uitleg over de wijnbouwer...
