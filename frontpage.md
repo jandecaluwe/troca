@@ -12,7 +12,7 @@ E: tromasyca@skynet.be
     Volg ons op www.facebook.be/TrocaVinsNaturels 
 
 Beste klant,
-Deze website is nog niet volledig klaar. Elke dag wordt hieraan gesleuteld. Kom gerust geregeld kijken.
+Deze website is nog niet volledig klaar. Elke dag wordt hieraan gesleuteld. Wij inviteren U geregeld te komen kijken.
 
 U bent welkom hier in onze degustatieruimte!
     Elke zaterdag tussen 14.30u en 18.00u.
