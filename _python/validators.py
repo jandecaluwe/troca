@@ -39,7 +39,7 @@ ox_re = re.compile(r'(ox)', re.I)
 sweet_re = re.compile(r'(zoet|moel|tendre|demi.sec)', re.I)
 red_re = re.compile(r'(rood|rouge|rosso)', re.I)
 
-prijs_re = re.compile(r'(\d+|\d+\.\d+)', re.I)
+prijs_re = re.compile(r'(\d+\.\d+|\d+)', re.I)
         
 def validate_wijnhuis(item):
     check_keys(item, ['wijnen'])
