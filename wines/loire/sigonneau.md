@@ -46,5 +46,5 @@ wijnen:
 
     
 ---
-Fred Sigonneau staat voor elegante cabernetwijnen. De man recupereerde de wijngaard van zijn ouders na een ommetoer van enkele jaren in Spanje waar hij "chef de culture" was op een domein in Ribera del Douero. 5 wijnen 4 verschillende karakters. "Le Canal" en "Cuvée X" zijn wijnen georiënteerd op het immediate fruit. "Les 5 Eléments" is eveneens een cuvewijn zoals de 2 voorgaanden, doch deze is meer gedesigned op elegantie. "La Familia" is de meest vlezig fruitige van heel het gezelschap terwijl "La Folie du Noyer Vert" het meest klassieke Chinonprofiel verpersoonlijkt. Hoedanook, stuk voor stuk wijnen die je met plezier ledigt.
+Fred Sigonneau staat voor elegante cabernetwijnen. De man recupereerde de wijngaard van zijn ouders na een ommetoer van enkele jaren in Spanje waar hij "chef de culture" was op een domein in Ribera del Duero. 5 wijnen 4 verschillende karakters. "Le Canal" en "Cuvée X" zijn wijnen georiënteerd op het immediate fruit. "Les 5 Eléments" is eveneens een cuvewijn zoals de 2 voorgaanden, doch deze is meer gedesigned op elegantie. "La Familia" is een vlezige en sappige "brok", terwijl "La Folie du Noyer Vert" het meest klassieke Chinonprofiel verpersoonlijkt. Hoedanook, stuk voor stuk wijnen die je met plezier ledigt.
 
