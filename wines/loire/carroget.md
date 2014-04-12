@@ -71,4 +71,4 @@ wijnen:
       cep:   
       prijs:
 ---
-Jacques Carroget is niet alleen een groot wijnbouwer doch profileert zich eveneens als militant ten voordele van zuivere wijnbouw, non-polutie en al de collega's die hetzelfde doel beogen.
+Jacques Carroget is niet alleen een groot wijnbouwer doch iemand die zich eveneens profileert zich als militant ten voordele van zuivere wijnbouw. Zijn voortrekkersrol wordt in het wereldje sterk geapprecieerd door menig collega.
