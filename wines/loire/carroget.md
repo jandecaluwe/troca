@@ -43,32 +43,6 @@ wijnen:
       cep:   Chenin blanc
       prijs: €12.62
 
-    - naam:  
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-
-    - naam:  
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-
-    - naam: 
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-
-    - naam:  
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs:
+    
 ---
 Jacques Carroget is niet alleen een groot wijnbouwer doch iemand die zich eveneens profileert zich als militant ten voordele van zuivere wijnbouw. Zijn voortrekkersrol wordt in het wereldje sterk geapprecieerd door menig collega.
