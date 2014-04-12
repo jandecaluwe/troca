@@ -5,20 +5,42 @@ photo: sigonneau.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam:  Le Canal des Grands Pièces
-      ref:   Loi 1141
+    - naam:  Le Canal des Grands Pièces'12
+      ref:   Loi 1215
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €11.00
+      prijs: €10.21
 
-    - naam:  Les Raisins de Autres’12
-      ref:   Loi 12..
-      app:   Vin de France
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €11.47 
-      opm:   New
+    - naam:  Cuvée X'11
+      ref:   Loi 1105
+      app:   A.O.C. Chinon
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €9.39
+      opm:   
+    
+    - naam:  Les 5 Eléments'11
+      ref:   Loi 1131
+      app:   A.O.C. Chinon
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €11.14
+      
+    - naam:  La Familia'11
+      ref:   Loi 1161
+      app:   A.O.C. Chinon
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €11.85
+      
+    - naam:  Les Folies du Noyer Vert'11
+      ref:   Loi 1143
+      app:   A.O.C. Chinon
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €15.53
+    
       
     
 
