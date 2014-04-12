@@ -19,7 +19,7 @@ wijnen:
       type:  Blanc sec
       cep:   Melon de Bourgogne
       prijs: €9.91
-      opm:  
+       
 
     - naam:  Muscadet Sans Soufre'09
       ref:   Loi 0974
