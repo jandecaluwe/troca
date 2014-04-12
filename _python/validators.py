@@ -44,7 +44,7 @@ prijs_re = re.compile(r'(\d+\.\d+|\d+)', re.I)
 def validate_wijnhuis(item):
     check_keys(item, ['wijnen'])
     for wijn in item['wijnen']:
-        if not 'type' in wijn:
+        if not 'type' in wijn or not wijn['type']:
             continue
         color = 'inherit' 
         tipe = wijn['type']
@@ -60,7 +60,7 @@ def validate_wijnhuis(item):
             color = red
         wijn['color'] = color 
     for wijn in item['wijnen']:
-        if not 'prijs' in wijn:
+        if not 'prijs' in wijn or not wijn['prijs']:
             continue
         prijs = wijn['prijs']
         m = prijs_re.search(prijs)  
