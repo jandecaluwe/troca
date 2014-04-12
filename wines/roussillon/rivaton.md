@@ -25,8 +25,8 @@ wijnen:
       ref:   Rous 1001
       app:   Vin de France
       type:  Rouge
-      cep:   70% Carignan/20% Syrah/10% Grenache
+      cep:   70% Carignan/15% Syrah/15% Grenache
       prijs: €15.81
 
 ---
-Uitleg over de wijnbouwer...
+Het domein van Frédéric Rivaton is gelegen op een boogscheut van de oostelijke Pyrénéen.  ...
