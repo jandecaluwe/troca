@@ -9,39 +9,39 @@ layout: wijnhuis
 wijnen:
     - naam:  Crémant de Bourgogne
       ref:   Bou 
-      app:   Vin de France
-      type:  Petillant Naturel (sec)
-      cep:   Cabernet sauvignon
-      prijs: €14.50
+      app:   
+      type:  
+      cep:   
+      prijs: 
 
     - naam:  Chant de La Tour
-      ref:   Loi 1146
-      app:   Vin de France
-      type:  Blanc Sec
-      cep:   Sauvignon blanc
-      prijs: €13.35
+      ref:   
+      app: 
+      type:  
+      cep:  
+      prijs: 
 
-    - naam:  Poussière de Lune’12
-      ref:   Loi 12..
-      app:   Vin de France
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €15.45
+    - naam:  
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: 
 
-    - naam:  L’Eau g’aime’09
-      ref:   Loi 09996
-      app:   Vin de France
-      type:  Rouge
-      cep:   Pinot noir/Gamay
-      prijs: €14.25
-      opm:   De laatsten/Les dernières
+    - naam:  
+      ref:   
+      app:  
+      type:  
+      cep:   
+      prijs: 
+      opm:   
 
-    - naam:  Sous Voile’03 
-      ref:   Loi 0308
-      app:   Vin de France
-      type:  Blanc oxidatif 
-      cep:   Sauvignon blanc 
-      prijs: €14.50 
+    - naam:   
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: 
 
 ---
 Uitleg over de wijnbouwer...
