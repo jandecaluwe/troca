@@ -12,7 +12,7 @@ wijnen:
       app:   Vin de France
       type:  Rouge
       cep:   60% Syrah/40% Carignan
-      prijs: €9.38€├
+      prijs: €9.38
 
     - naam:  Vieilles Vignes'10
       ref:   Rous 1002
@@ -26,7 +26,7 @@ wijnen:
       app:   Vin de France
       type:  Rouge
       cep:   70% Carignan/20% Syrah/10% Grenache
-      prijs: €15.81 
+      prijs: €15.8 
 
 ---
 Uitleg over de wijnbouwer...
