@@ -8,6 +8,7 @@ Westrozebekestraat 75
 
 T: +32.476.88.32.15  
 E: tromasyca@skynet.be
+Volg ons op www.facebook.be/TrocaVinsNaturels 
 
 Beste klant,
 
