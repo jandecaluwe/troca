@@ -79,14 +79,14 @@ wijnen:
       cep:   Pinot gris
       prijs: €19.15
       
-    - naam:  Gewurztraminer Kaefferkoph'04 (Grand Cru)
+    - naam:  Gewurztraminer Kaefferkopf'04 (Grand Cru)
       ref:   Als 0405
       app:   A.O.C. Alsace
       type:  Blanc sec
       cep:   Gewurztraminer
       prijs: €12.08
       
-    - naam:  Gewurztraminer Kaefferkoph Cuvée Béatrice'04 (Grand Cru)
+    - naam:  Gewurztraminer Kaefferkopf Cuvée Béatrice'04 (Grand Cru)
       ref:   Als 0408
       app:   A.O.C. Alsace
       type:  Blanc sec tendre
@@ -215,7 +215,7 @@ wijnen:
       cep:   Pinot noir
       prijs: €19.15
       
-    - naam:  Riesling Kaefferkoph V.T.'98
+    - naam:  Riesling Kaefferkopf V.T.'98
       ref:   Als 9801
       app:   A.O.C. Alsace
       type:  Blanc moelleux
