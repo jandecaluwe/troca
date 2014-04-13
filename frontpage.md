@@ -19,5 +19,5 @@ U bent welkom hier in onze degustatieruimte!
     Tijdens de week na afspraak.  
 
 Wij sleutelen elke dag aan deze website om snel up to date te zijn. Geregeld even komen kijken is de moeite.
-Wees welkom! :-)    
+Wees welkom!     
 
