@@ -121,18 +121,105 @@ wijnen:
       cep:   50% Riesling/30% Pinot gris et Auxerrois/20% Gewurz et Muscat
       prijs: €15.81
       
-    - naam:
-      ref:   Als
+    - naam:  Crémant d'Alsace'08 (extra brut)
+      ref:   Als 0808
       app:   A.O.C. Alsace
-      type:
-      cep:
-      prijs:
+      type:  Méthode traditionelle
+      cep:   Riesling/Pinot gris
+      prijs: €13.95
 
-    - naam:
-      ref:   Als
+    - naam:  Crémant d'Alsace KB'08 (extra brut)
+      ref:   Als 0810
       app:   A.O.C. Alsace
-      type:
-      cep:
-      prijs: 
+      type:  Méthode traditionelle
+      cep:   Riesling/Pinot gris
+      prijs: €17.45
+      
+    - naam:  Crémant d'Alsace'11 (extra brut)
+      ref:   Als 11--
+      app:   A.O.C. Alsace
+      type:  Méthode traditionelle
+      cep:   Riesling
+      prijs: €14.85
+      
+    - naam:  Katz' en Bulles Pinot gris'09 (sans soufre)
+      ref:   Als 0903
+      app:   Vin de France
+      type:  Pétillant naturel (méthode ancestrale)
+      cep:   Pinot gris
+      prijs: €14.56
+      
+    - naam:  Katz' en Bulles Riesling'09 (sans soufre)
+      ref:   Als 0904
+      app:   Vin de France
+      type:  Pétillant naturel (méthode ancestrale)
+      cep:   Riesling
+      prijs: €14.56
+      
+    - naam:  Pinot noir'08
+      ref:   Als 0803
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €14.57
+      
+    - naam:  Pinot noir'11 non-filtré (sans soufre)
+      ref:   Als 1101
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €14.36
+      opm:   Argilo-calcaire
+      
+    - naam:  Pinot noir'12 non-filtré (sans soufre)
+      ref:   Als 12--
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €14.87
+      opm:   argilo-calcaire
+      
+    - naam:  Pinot noir'11 non-filtré (sans soufre)
+      ref:   Als 1105
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €15.25
+      opm:   cuvée domaine
+      
+    - naam:  Pinot noir Cuvée Béatrice'10
+      ref:   Als 1004
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €19.15
+      
+    - naam:  Pinot noir Cuvée Excellence'09
+      ref:   Als 0902
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €29.75
+      
+    - naam:  Pinot noir Cuvée Béatrice'07 (magnum)
+      ref:   Als 0704
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €37.31
+      
+    - naam:  Blanc des Noirs'07 (37.50cl)
+      ref:   Als 0709
+      app:   A.O.C. Alsace
+      type:  Vin gris moelleux
+      cep:   Pinot noir
+      prijs: €19.15
+      
+    - naam:  Riesling Kaefferkoph V.T.'98
+      ref:   Als 9801
+      app:   A.O.C. Alsace
+      type:  Blanc moelleux
+      cep:   Riesling
+      prijs: €25.21
 ---
 Uitleg over de wijnbouwer...
