@@ -221,5 +221,54 @@ wijnen:
       type:  Blanc moelleux
       cep:   Riesling
       prijs: €25.21
+      
+    - naam:  Eau de Vie de Vieux Marc de Pinot gris V.T.
+      ref:   Als 9801
+      app:   
+      type:  
+      cep:   
+      prijs: €34.18
+      
+    - naam:  Eau de Vie de Marc de Gewurztraminer V.T.
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: €38.83
+      
+    - naam:  Eau de Vie de Mirabelle
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: €43.20
+      
+    - naam:  Eau de Vie de Baies de Houx
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: €51.28
+      
+    - naam:  Eau de Vie de Coing
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: €45.33
+      
+    - naam:  Eau de Vie de Quetsch
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: €45.33
+      
+    - naam:  Eau de Vie de Poire Williams
+      ref:   
+      app:   
+      type:  
+      cep:   
+      prijs: €47.83
 ---
 Uitleg over de wijnbouwer...
