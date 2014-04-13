@@ -56,16 +56,69 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Blanc sec tendre
       cep:   Muscat
-      prijs: 17.67€
+      prijs: €17.67
       
-    - naam:   
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-
+    - naam:  Muscat Cuvée Béatrice'09
+      ref:   Als 0908
+      app:   A.O.C. Alsace
+      type:  Blanc sec tendre
+      cep:   Muscat
+      prijs: €14.30
+     
+    - naam:  Pinot gris'10
+      ref:   Als 1002
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   Pinot gris
+      prijs: €14.36
+      
+    - naam:  Pinot gris Cuvée Béatrice'07
+      ref:   Als 0710
+      app:   A.O.C. Alsace
+      type:  Blanc tendre
+      cep:   Pinot gris
+      prijs: €19.15
+      
+    - naam:  Gewurztraminer Kaefferkoph'04 (Grand Cru)
+      ref:   Als 0405
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   Gewurztraminer
+      prijs: €12.08
+      
+    - naam:  Gewurztraminer Kaefferkoph Cuvée Béatrice'04 (Grand Cru)
+      ref:   Als 0408
+      app:   A.O.C. Alsace
+      type:  Blanc sec tendre
+      cep:   Gewurztraminer
+      prijs: €18.60
     
-
+    - naam:  Gewurztraminer Cuvée Béatrice'10
+      ref:   Als 10--
+      app:   A.O.C. Alsace
+      type:  Blanc sec tendre
+      cep:   Gewurztraminer
+      prijs: €17.74
+      
+    - naam:
+      ref:   Als
+      app:   A.O.C. Alsace
+      type:
+      cep:
+      prijs: 
+      
+    - naam:
+      ref:   Als
+      app:   A.O.C. Alsace
+      type:
+      cep:
+      prijs: 
+      
+    - naam:
+      ref:   Als
+      app:   A.O.C. Alsace
+      type:
+      cep:
+      prijs: 
 ---
 Uitleg over de wijnbouwer...
