@@ -3,13 +3,13 @@ title: Wines
 layout: streek_index
 content:
     - alsace
-    - champagne
-    - loire 
     - bourgogne
-    - jura
-    - tarn
-    - roussillon
+    - champagne
     - languedoc
+    - loire 
+    - jura
+    - roussillon
+    - sud-ouest
     - piemonte
     - toscana
 ---
