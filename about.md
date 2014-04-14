@@ -36,7 +36,7 @@ Verkoop van wijn moest zorgen voor vervanging! Niet evident.
 Verhuis naar een nieuwe locatie.
 We verhuisden van de Ovenstraat in Roeselare naar de Westrozebekestraat in Oostnieuwkerke.
 Pakken werk, brainwash, organisatie en energie maakten van deze locatie de plaats waar we tot op vandaag ons goed voelen.
-Dit is een rustige lokatie met veel mogelijkheden waar iedereen die het goed met ons meent welkom is.
+Dit is een rustige locatie met veel mogelijkheden waar iedereen die het goed met ons meent welkom is.
 
 2014
 ----
