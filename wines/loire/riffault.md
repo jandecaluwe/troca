@@ -35,6 +35,13 @@ wijnen:
       cep:   Sauvignon blanc
       prijs: €22.20
       
+    - naam:  Skeveldra'11
+      ref:   Loi 11--
+      app:   A.O.C. Sancerre
+      type:  Blanc sec
+      cep:   Sauvignon blanc
+      prijs: this wine will come in soon.
+      
     - naam:  Auksinis'11
       ref:   Loi 11--
       app:   A.O.C. Sancerre
