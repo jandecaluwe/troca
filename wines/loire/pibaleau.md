@@ -21,21 +21,26 @@ wijnen:
       cep:   Chenin blanc
       prijs: €7.45
       
-    - naam:  
+    - naam:  Chenin blanc sec tendre'06
       ref:   
-      app:
-      type:  
-      cep:   
-      prijs: 
+      app:   A.O.C. Azay-Le Rideau
+      type:  Blanc sec tendre
+      cep:   Chenin blanc
+      prijs: €7.93
       
-    - naam:  
+    - naam:  l'Héritage d'Aziaum'12
       ref:   
-      app:
-      type:  
-      cep:   
-      prijs: 
+      app:   A.O.C. Azay-Le-Rideau
+      type:  Rouge
+      cep:   75% Côt/20% Cabernet franc/5% Gamay
+      prijs: €8.02
       
-      
+    - naam:  Moelleux'09  
+      ref:   
+      app:   A.O.C. Azay-Le-Rideau
+      type:  Blanc moelleux
+      cep:   Chenin blanc
+      prijs: €11.65
    
 
 ---
