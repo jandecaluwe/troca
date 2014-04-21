@@ -11,6 +11,7 @@ content:
     - roussillon
     - sud-ouest
     - piemonte
+    - sicilia
     - toscana
 ---
 
