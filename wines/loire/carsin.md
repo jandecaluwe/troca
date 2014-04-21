@@ -7,11 +7,11 @@ layout: wijnhuis
 wijnen:
     - naam:  Terre'12
       ref:   Loi 12..
-      app:   Vin de France
+      app:   V.D.P du Val de Loire
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €11.47 
-      opm:   New
+      prijs: €9.84
+      
 
     
 ---
