@@ -3,9 +3,10 @@ title: Loire
 content: 
     - auge
     - carroget
-    - venier
     - carsin
-    - sigonneau
+    - pibaleau
     - riffault
+    - sigonneau
+    - venier
 layout: wijnbouwer_index
 ---
