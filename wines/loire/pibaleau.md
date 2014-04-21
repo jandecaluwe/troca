@@ -3,7 +3,7 @@ title: Pascal Pibaleau
 huis:  Dom. Pibaleau
 dept:  Indre et Loire
 regio: Touraine (Loire)
-photo: pibaleau.png
+photo: pibaleau.jpeg
 layout: wijnhuis
 
 wijnen:
