@@ -5,6 +5,7 @@ content:
     - carroget
     - carsin
     - pibaleau
+    - plouzeau
     - riffault
     - sigonneau
     - venier
