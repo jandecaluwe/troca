@@ -119,5 +119,5 @@ wijnen:
       prijs: €24.00
      
 ---
-over de wijnbouwer 
+l'Anjou noir. Thomas Carsin, afkomstig uit Bretagne, maakt van zijn eeuwige droom werkelijkheid, nl wijnbouwen. Na een opleiding op de schoolbanken en een fameuze détour via Californiê, Champagne en de Provence, neemt hij een domein over in Anjou zo'n 8 jaar geleden. 
 
