@@ -49,7 +49,7 @@ wijnen:
 
     - naam:  Indigène'12
       ref:   Loi 1224
-      app:   V.D.P. du Maine et Loir
+      app:   V.D.P. du Maine et Loire
       type:  Rouge
       cep:   Grolleau noir/Gamay
       prijs: €10.74
