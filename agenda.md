@@ -1,6 +1,6 @@
 ---
 title: Agenda 
-layout: simple_page
+layout: page
 ---
 
 

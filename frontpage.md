@@ -1,6 +1,6 @@
 ---
 title: Frontpage 
-layout: simple_page
+layout: page
 ---
 Troca V.N.  
 Westrozebekestraat 75  

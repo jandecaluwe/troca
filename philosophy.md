@@ -1,6 +1,6 @@
 ---
 title: Philosophy 
-layout: simple_page
+layout: page
 ---
 It arrives
 
