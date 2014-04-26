@@ -1,6 +1,7 @@
 ---
 title: Over ons
-layout: post 
+layout: page 
+photo: /img/jacquesenhilde.jpg
 ---
 
 Onze zaak is gegroeid vanuit een intense passie voor wijn.

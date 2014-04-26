@@ -1,6 +1,6 @@
 ---
 title: Contact 
-layout: simple_page
+layout: page
 ---
 
 Coördinaten
