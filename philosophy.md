@@ -2,7 +2,10 @@
 title: Philosophy 
 layout: page
 ---
-Beste,... Allereerst wens ik mezelf te excuseren voor het schrijven in de ik-vorm. Het heeft niets te maken met "egoïsme", doch ik vind het maar niets en zelfs "goedkoop commercieel" de eeuwige beleefde wij-vorm te blijven hanteren.
+Beste,
+------
+
+Allereerst wens ik mezelf te excuseren voor het schrijven in de ik-vorm. Het heeft niets te maken met "egoïsme", doch ik vind het maar niets en zelfs "goedkoop commercieel" de eeuwige beleefde wij-vorm te blijven hanteren.
 Een filosofie neerpennen is geen gemakkelijke opdracht. Eigenlijk verwacht iedereen van dit deel van de website dat het een zeer eigen stukje wordt, interessant om te ontdekken. 
 Ik zou in feite dit hoofdstuk anders willen betitelen, zoals "wens" of "vurige wens" of zo ...
 Idd, het is mijn vurige wens dat iedereen zich realiseert hoe een basissmaak, de "echte smaak" dus, van een grondstof aanvoelt. Nog maar even geleden kreeg ik een bakje scharreleieren cadeau. Deze eieren smaakten zo intens en lekker.
