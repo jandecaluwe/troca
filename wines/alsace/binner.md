@@ -7,6 +7,8 @@ photo: binner.jpg
 layout: wijnhuis
 
 wijnen:
+    - naam:  prijzen zijn incl. btw
+    
     - naam:  Les Saveurs'12
       ref:   Als 1202
       app:   A.O.C. Alsace
