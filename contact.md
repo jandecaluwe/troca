@@ -24,7 +24,7 @@ Routebeschrijving
 
 ### GPS...  
 
-Oef! ... elke gps kent ons adres.  
+Elke gps kent ons adres.  
 
 ### Vanaf Kortrijk... 
 
