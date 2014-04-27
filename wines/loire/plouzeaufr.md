@@ -7,54 +7,44 @@ photo: plouzeaufr.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Les Quarterons'11
-      ref:   Loi 1167
-      app:   A.O.C. Sancerre
+    - naam:  Le Blanc de La Marié'12
+      ref:   Loi 
+      app:   A.O.C. Touraine
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €14.31
+      prijs: €9.38
       
-    - naam:  Les Quarterons'12
-      ref:   Loi 12--
-      app:   A.O.C. Sancerre
+    - naam:  Le Chenin de La Colline'12
+      ref:   
+      app:   A.O.C. Touraine
       type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: this wine will come in soon.
+      cep:   Chenin blanc
+      prijs: €10.32
       
-    - naam:  Akmèniné'11
-      ref:   Loi 11--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: this wine will come in soon.
+    - naam:  Le Rosé'13
+      ref:   
+      app:   A.O.C. Touraine
+      type:  Rosé sec
+      cep:   Cabernet franc
+      prijs: €8.65
       
-    - naam:  Skeveldra'10
-      ref:   Loi 1085
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €22.20
+    - naam:  Le Rouge des Cornus'12
+      ref:   
+      app:   A.O.C. Touraine
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €9.38
       
-    - naam:  Skeveldra'11
-      ref:   Loi 11--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: this wine will come in soon.
+    - naam:  Gamay sans Tralala'13
+      ref:  
+      app:   A.O.C. Touraine
+      type:  Rouge
+      cep:   Gamay
+      prijs: €10.45
       
-    - naam:  Auksinis'11
-      ref:   Loi 11--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: this wine will come in soon.
+    
       
-    - naam:  Saulétas'10
-      ref:   Loi 1183
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €22.20
+    
     
 
 ---
