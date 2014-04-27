@@ -6,6 +6,7 @@ content:
     - carsin
     - pibaleau
     - plouzeau
+    - plouzeaufr
     - riffault
     - sigonneau
     - venier
