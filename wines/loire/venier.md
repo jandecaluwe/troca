@@ -70,5 +70,6 @@ wijnen:
       cep:   Pinot noir
       prijs: €12
 ---
-Uitleg over de wijnbouwer ...
+Loir et Cher
+------------
 
