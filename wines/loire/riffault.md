@@ -65,5 +65,5 @@ De ommekeer was intens en gedurfd.
 Zijn vader zweeg en zag na een tijd dat het goed was. Idd. 
 De expressie van de huidige wijn staat haaks tegenover de Sancerre die zijn vader produceerde.
 ----------------------------------------------------------------------------------------------
-De wijngaard:
+De wijngaard: biodynamie
  
