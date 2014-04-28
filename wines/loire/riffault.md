@@ -3,7 +3,7 @@ title: Sébastien Riffault
 huis:  Dom. Sébastien Riffault
 dept:  Cher
 regio: Centre (Loire)
-photo: riffault.png
+photo: riffault.jpg
 layout: wijnhuis
 
 wijnen:
@@ -58,4 +58,4 @@ wijnen:
     
 
 ---
-Uitleg over de wijnbouwer...
+
