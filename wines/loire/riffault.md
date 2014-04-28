@@ -58,4 +58,12 @@ wijnen:
     
 
 ---
-
+Departement Cher
+----------------
+Sébastien Riffault, een jonge wijnbouwer, een oude bekende voor ons! Sébastien nam enkele jaren geleden de fakkel stap voor stap over van zijn vader. 
+De ommekeer was intens en gedurfd. 
+Zijn vader zweeg en zag na een tijd dat het goed was. Idd. 
+De expressie van de huidige wijn staat haaks tegenover de Sancerre die zijn vader produceerde.
+----------------------------------------------------------------------------------------------
+De wijngaard:
+ 
