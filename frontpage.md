@@ -1,6 +1,7 @@
 ---
 title: Frontpage 
 layout: page
+photo: /img/troca_logo.jpg
 ---
 Troca V.N.  
 Westrozebekestraat 75  
