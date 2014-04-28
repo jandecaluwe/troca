@@ -4,7 +4,6 @@ huis:  Dom. Sébastien Riffault
 dept:  Cher
 regio: Centre (Loire)
 photo: riffault.png
-photo: riffault2.jpg
 layout: wijnhuis
 
 wijnen:
