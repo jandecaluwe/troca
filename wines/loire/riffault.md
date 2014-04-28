@@ -65,5 +65,9 @@ De ommekeer was intens en gedurfd.
 Zijn vader zweeg en zag na een tijd dat het goed was. Idd. 
 De expressie van de huidige wijn staat haaks tegenover de Sancerre die zijn vader produceerde.
 ----------------------------------------------------------------------------------------------
-De wijngaard: biodynamie
+De wijngaard: het "mennen" van het trekpaard kent nog maar weinig geheimen voor deze jonge wijnbouwer. Het wordt ingezet voor elk type van grondbewerking. Wortelversterkende en fotosynthese genererende biodynamische applicaties worden wanneer nodig toegepast. 
+Korte snoei, ontknoppen van ongewenste scheuten zijn eveneens klassieke praktijken.
+-----------------------------------------------------------------------------------
+Oogsten: gemiddeld wordt er bij Riffault 2 tot 3 weken later dan normaal voor de appellatie handmatig geoogst. Vrijwel altijd worden de meeste percelen getroffen door een weinig "pourriture noble'. 
+
  
