@@ -72,6 +72,6 @@ Oogsten: gemiddeld wordt er bij Riffault 2 tot 3 weken later dan normaal voor de
 O.a. dit laatste heeft resoluut zijn invloed op de smaak van de wijn.
 ---------------------------------------------------------------------
 De kelder: ik denk niet dat er iemand te werk gaat in deze appellatie zoals Sébastien Riffault. Het zijn "natuur" vinificaties. Zachte pneumatische persing, débourbage, alcoholische en malolactische gisting zonder toevoeging van sulfiet, geen chaptalisatie, élevage op het gistdroesem van minimaal 18 maanden, geen filtering, botteling zonder sulfiet uitgenomen voor de cuvée "Les Quarterons".
-De expressie van dit soort Sancerre is totaal verschillend vergeleken met de klassieke Sancerre. Je kan de smaak beschrijven als vrijer, rijker, smeuïger en boeiender. 
+De expressie van dit soort Sancerre is totaal verschillend vergeleken met de klassieke Sancerre. Je kan de smaak beschrijven als vrijer, rijker, smeuïger en boeiender.   xxx 
 
  
