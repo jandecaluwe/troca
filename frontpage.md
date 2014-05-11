@@ -19,6 +19,9 @@ U bent welkom in onze degustatieruimte!
 Elke zaterdag tussen 14.30u en 18.00u.
 Tijdens de week na afspraak.  
 
-Wij sleutelen elke dag aan deze website om snel up-to-date te zijn. Geregeld even komen kijken is de moeite.
-Wees welkom!     
+Degustatie! Weekend festif!
+21 & 22 juni 
+Aanwezige wijnbouwers (asap)
+Dîner op zaterdag: inschrijven graag 55€
+Details volgen snel.  
 
