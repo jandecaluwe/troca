@@ -137,12 +137,12 @@ wijnen:
       cep:   Riesling/Pinot gris
       prijs: €17.45
       
-    - naam:  Crémant d'Alsace'11 (extra brut)
-      ref:   Als 11--
+    - naam:  Crémant d'Alsace'12 (extra brut)
+      ref:   Als 12--
       app:   A.O.C. Alsace
       type:  Méthode traditionelle
       cep:   Riesling
-      prijs: €14.85
+      prijs: €15.95
       
     - naam:  Katz' en Bulles Pinot gris'09 (sans soufre)
       ref:   Als 0903
