@@ -5,11 +5,11 @@ layout: wijnhuis
 photo: gautherot.jpg
 
 wijnen:
-    - naam:  Fidèle’10
-      ref:   Cha 1001
+    - naam:  Fidèle’11
+      ref:   Cha 1101
       app:   A.O.C. Champagne
       cep:   Pinot noir
-      prijs: €40.10
+      prijs: €42.45
 
     - naam:  Fidèle’09 (magnum)
       ref:   Cha 0904
