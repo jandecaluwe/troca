@@ -19,8 +19,13 @@ U bent welkom in onze degustatieruimte!
 Elke zaterdag tussen 14.30u en 18.00u.
 Tijdens de week na afspraak.  
 
-Degustatie! Weekend festif!
-21 & 22 juni 
+Inauguratie weekend/proefweekend met 6 wijnbouwers        
+21&22 juni as.    
+Zaterdag van 14.00u tot 19.00u     
+Zondag van 10.00u tot 19.00u     
+Troca V.N.     
+Westrozebekestraat 75     
+8840 Oostnieuwkerke 
 
 Aanwezige wijnbouwers:
 
