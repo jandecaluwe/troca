@@ -21,8 +21,9 @@ Tijdens de week na afspraak.
 
 Degustatie! Weekend festif!
 21 & 22 juni 
+
 Aanwezige wijnbouwers:
 
-Chiara Vigo (Fattorie Romeo del Castello/Etna)      Daniele Rosellini (Campi Nuovi/Toscana)       Thomas Carsin (Domaine du Clos de l'Elu/Anjou)       Olivier Bellanger Dom. La Piffaudière (Loir et Cher)        Frédéric Rivaton (Roussillon)  
+Chiara Vigo (Fattorie Romeo del Castello/Etna)      Daniele Rosellini (Campi Nuovi/Toscana)       Thomas Carsin (Domaine du Clos de l'Elu/Anjou)       Olivier Bellanger Dom. La Piffaudière (Loir et Cher)        Frédéric Rivaton (Roussillon)    Claude Buchot (Jura)  
 Dîner op zaterdag: inschrijven graag 55€  
 
