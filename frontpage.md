@@ -13,11 +13,7 @@ E: jacques@trocavn.eu
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
 
-Beste klant,
-
-U bent welkom in onze degustatieruimte!
-Elke zaterdag tussen 14.30u en 18.00u.
-Tijdens de week na afspraak.  
+  
 
 Inauguratie weekend/proefweekend met 6 wijnbouwers        
 21&22 juni as.    
