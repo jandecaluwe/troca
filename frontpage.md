@@ -15,22 +15,5 @@ E: jacques@trocavn.eu
 
   
 
-Inauguratie weekend/proefweekend met 6 wijnbouwers        
-21&22 juni as.    
-Zaterdag van 14.00u tot 19.00u     
-Zondag van 10.00u tot 19.00u     
-Troca V.N.     
-Westrozebekestraat 75     
-8840 Oostnieuwkerke 
-
-Aanwezige wijnbouwers:
-
-Chiara Vigo (Fattorie Romeo del Castello/Etna)               
-Daniele Rosellini (Campi Nuovi/Toscana)       
-Thomas Carsin (Domaine du Clos de l'Elu/Anjou)       
-Olivier Bellanger Dom. La Piffaudière (Loir et Cher)        
-Frédéric Rivaton (Roussillon)    
-Claude Buchot (Jura)  
-
-Dîner op zaterdag: inschrijven graag 55€  
+Geachte klant,   Wees welkom op zaterdag tss. 14.30u en 18.00u.   Tijdens de week bent U welkom na afspraak.   Wij zijn er echter tussen uit vanaf 21/07 tot en met 04/08 as.
 
