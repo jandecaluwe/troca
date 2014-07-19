@@ -1,0 +1,29 @@
+{% extends "basepage.html" %}
+
+{% block breadcrumbs %}
+{% endblock %}
+
+{% block title %} 
+{% endblock %}
+
+
+      {% block content %}
+      {% set photo = "/img/troca_navBg.jpg" %}
+      {% if this.photo %}
+      {%   set photo = this.photo %}
+      {% endif %}
+      <div class="row">
+        <div class="col-md-3">
+          <img src="{{photo}}" class="img-responsive" style="margin-top:50px">
+        </div>
+        <div class="col-md-6" data-spy="scroll" data-target="#sidenav" role="main">
+          <div class="page-header">
+            <h1>{{this.title}}</h1>
+          </div>
+          {{this.body}}
+        </div>
+      </div>
+      {% endblock %}
+
+
+
