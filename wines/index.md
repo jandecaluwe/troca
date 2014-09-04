@@ -9,7 +9,7 @@ content:
     - loire 
     - jura
     - roussillon
-    - sud-ouest
+    - lombardia
     - piemonte
     - sicilia
     - toscana
