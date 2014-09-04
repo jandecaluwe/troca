@@ -15,13 +15,13 @@ E: jacques@trocavn.eu
 
 Save these dates ...
 
-Open fles/Dégustation
----------------------    
+1e Open fles/1e Dégustation
+---------------------------    
 Za/Sam 20/09 14.00-19.00  
 Zo/Dim 21/09 10.00-19.00
 
-Open fles/Dégustation 
----------------------  
+2e Open fles/2e Dégustation 
+--------------------------- 
 Za/Sam 15/11 14.00-19.00   
 Zo/Dim 16/11 10.00-19.00  
 
