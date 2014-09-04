@@ -14,6 +14,7 @@ E: jacques@trocavn.eu
 {: .text-info }
 
 Save these dates ...
+--------------------
 
 1e Open fles/1e Dégustation
 ---------------------------    
