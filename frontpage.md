@@ -18,15 +18,15 @@ Save these dates ...
 
 1e Open fles/1e Dégustation
 ---------------------------    
-Za/Sam 20/09 14.00-19.00  
-Zo/Dim 21/09 10.00-19.00
+* Za/Sam 20/09 14.00-19.00  
+* Zo/Dim 21/09 10.00-19.00
 
 2e Open fles/2e Dégustation 
 --------------------------- 
-Za/Sam 15/11 14.00-19.00   
-Zo/Dim 16/11 10.00-19.00  
+* Za/Sam 15/11 14.00-19.00   
+* Zo/Dim 16/11 10.00-19.00  
 
-Ons bezoeken op zaterdag:   Wees welkom op zaterdag tss. 14.30u en 18.00u.   Tijdens de week bent U welkom na afspraak.   Wij zijn er echter tussen uit vanaf 21/07 tot en met 04/08 as.
+Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.   Wij zijn er echter tussen uit vanaf 21/07 tot en met 04/08 as.
 
 
 
