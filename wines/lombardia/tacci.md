@@ -47,7 +47,7 @@ wijnen:
       cep:   Croatina
       prijs: 14.65€
 ---
-Het domein Martilde Van Antonella Tacci en Raimondo Lombardi leerden we toevallig kennen op een wijnbeursje. Het gebeurt soms dat bepaalde mensen je aantrekken en dat was hier duidelijk het geval.
+Antonella Tacci en Raimondo Lombardi leerden we toevallig kennen op een wijnbeursje. Het gebeurt soms dat bepaalde mensen je aantrekken en dat was hier duidelijk het geval.
 Dit koppel liep elkaar tegen het lijf bij IBM-Italy en dit meer dan 30 jaar geleden. 
 Dit was een andere tijd, een fase in hun leven waar ze 20 jaar geleden afscheid van hebben genomen op het moment dat ze in een "zotte bui" dit domein kochten en doopten tot Aziende Agricola Martilde.
 Tacci is Toscaanse en Lombardi Napolitaan. Het verzeild geraken hier in Lombardije heeft te maken met hun vroeger werk en met verliefd worden op ...
