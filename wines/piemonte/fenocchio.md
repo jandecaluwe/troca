@@ -49,6 +49,13 @@ wijnen:
       cep:   Nebbiolo
       prijs: €34.50
       
+    - naam:  Barolo Bussia Riserva'07
+      ref:   
+      app:   D.O.C.G. Barolo
+      type:  Rosso
+      cep:   Nebbiolo
+      prijs: €42.50
+      
     - naam:  Barolo Villero'10 magnum 
       ref:   
       app:   D.O.C.G. Barolo
@@ -63,12 +70,7 @@ wijnen:
       cep:   Nebbiolo
       prijs: €79.85
         
-    - naam:  Barolo Bussia Riserva'07
-      ref:   
-      app:   D.O.C.G. Barolo
-      type:  Rosso
-      cep:   Nebbiolo
-      prijs: €42.50
+   
    
 
     
