@@ -7,12 +7,12 @@ photo: fenocchio.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Dolcetto'12
+    - naam:  Dolcetto'13
       ref:   
       app:   D.O.C. Dolcetto d'Alba
       type:  Rosso
       cep:   Dolcetto
-      prijs: €9.17
+      prijs: €10.00
 
     - naam:  Barbera d'Alba'12
       ref:   
@@ -43,6 +43,27 @@ wijnen:
       cep:   Nebbiolo
       prijs: €31.69
       
+    - naam:   Barolo Bussia'10 
+      ref:   
+      app:   D.O.C.G. Barolo
+      type:  Rosso
+      cep:   Nebbiolo
+      prijs: €34.50
+      
+    - naam:   Barolo Villero'10 magnum 
+      ref:   
+      app:   D.O.C.G. Barolo
+      type:  Rosso
+      cep:   Nebbiolo
+      prijs: €79.85
+      
+    - naam:   Barolo Bussia'10 magnum 
+      ref:   
+      app:   D.O.C.G. Barolo
+      type:  Rosso
+      cep:   Nebbiolo
+      prijs: €79.85
+        
     - naam:  Barolo Bussia Riserva'07
       ref:   
       app:   D.O.C.G. Barolo
