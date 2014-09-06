@@ -40,7 +40,8 @@ Het domein van Frédéric Rivaton is gelegen op een boogscheut van de spaanse gr
 12 hectaren, bestaand uit voornamelijk oude Syrah, Carignan en Grenache op een ondergrond van leisteen en gneiss.
 Subtiele grondbewerking werd het alternatief in de wijngaard voor bodemdodende herbicides.
 De oogst alsook de vinificatie gebeurt met de grootste voozichtigheid. Rivaton is immers een rustig persoon, steeds op zoek naar logica en evidentie. 
-Deze karaktertrek zet zich onverminderd door in zijn wijnen. Geen dikke zuid-franse wijnen hier doch wel frisse en elegante producten. 
+Deze karaktertrek zet zich onverminderd door in zijn wijnen. Geen dikke zuid-franse wijnen hier doch wel frisse en elegante producten.
+Sulfiet (SO2) wordt er gebruikt doch in extreem beperkte hoeveelheid. 
 
 De man zelf is afkomstig uit de Franche-Comté. Het leven en het klimaat in het zuiden van Frankrijk echter deed hem beslissen niet meer terug te keren naar het land van Vin Jaune en Comté.
 Frédéric is een aangenaam en tof persoon doch wel met de 2 voetjes op de grond. Een mooi domein uit onze wijnlijst.
