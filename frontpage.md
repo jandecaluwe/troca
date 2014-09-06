@@ -13,6 +13,8 @@ E: jacques@trocavn.eu
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
 
+**Last update: 06/09/14 Fenocchio/Rivaton**
+
 Save these dates ...
 --------------------
 
