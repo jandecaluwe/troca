@@ -7,8 +7,8 @@ photo: rivaton.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Tombé du Ciel'12
-      ref:   Rous 1201
+    - naam:  Tombé du Ciel'13
+      ref:   
       app:   Vin de France
       type:  Rouge
       cep:   60% Syrah/40% Carignan
@@ -20,7 +20,14 @@ wijnen:
       type:  Rouge
       cep:   70% Carignan/20% Syrah/10% Grenache
       prijs: €13.00
-
+      
+    - naam:  Vieilles Vignes'11 
+      ref:   
+      app:   Vin de France
+      type:  Rouge
+      cep:   70% Carignan/20% Syrah/10% Grenache
+      prijs: €13.00
+    
     - naam:  Gribouille"10
       ref:   Rous 1001
       app:   Vin de France
