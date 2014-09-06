@@ -13,7 +13,7 @@ E: jacques@trocavn.eu
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
 
-**Last update: 06/09/14 Fenocchio/Rivaton**
+
 
 Save these dates ...
 --------------------
@@ -28,7 +28,11 @@ Save these dates ...
 * Za/Sam 15/11 14.00-19.00   
 * Zo/Dim 16/11 10.00-19.00  
 
-Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.   Wij zijn er echter tussen uit vanaf 21/07 tot en met 04/08 as.
+Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.
+
+updates:
+--------
+* 06/09/14 Piemonte-Fenocchio/Roussillon-Rivaton/Lombardia-Tacci&Lombardi
 
 
 
