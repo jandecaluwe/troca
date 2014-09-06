@@ -45,11 +45,8 @@ Deze karaktertrek zet zich onverminderd door in zijn wijnen. Geen dikke zuid-fra
 De man zelf is afkomstig uit de Franche-Comté. Het leven en het klimaat in het zuiden van Frankrijk echter deed hem beslissen niet meer terug te keren naar het land van Vin Jaune en Comté.
 Frédéric is een aangenaam en tof persoon doch wel met de 2 voetjes op de grond. Een mooi domein uit onze wijnlijst.
 
-Tombé du Ciel: wijn op het sappige fruit.
-
-Vieilles Vignes: elegante doch stevige wijn. vinificatie in betonnen cuve.
-
-Gribouille: zeer oude stokken tss 85 en 100 jaar. Vinificatie en Elevage in foudres van 20hl.
- 
-Jus de Raisin: onwaarschijnlijk fris, sappig en spittant.
+* **Tombé du Ciel**: wijn op het sappige fruit.
+* **Vieilles Vignes**: elegante doch stevige wijn. vinificatie in betonnen cuve.
+* **Gribouille**: zeer oude stokken tss 85 en 100 jaar. Vinificatie en Elevage in foudres van 20hl.
+* **Jus de Raisin**: onwaarschijnlijk fris, sappig en spittant.
  
