@@ -33,6 +33,7 @@ Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.  
 updates:
 --------
 * 06/09/14 Piemonte-Fenocchio/Roussillon-Rivaton/Lombardia-Tacci&Lombardi
+* 13/09/14 Bourgogne-Tripoz/Bourgogne-Vantey
 
 
 
