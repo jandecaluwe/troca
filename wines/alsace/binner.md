@@ -59,13 +59,6 @@ wijnen:
       type:  Blanc sec tendre
       cep:   Muscat
       prijs: €17.67
-      
-    - naam:  Muscat Cuvée Béatrice'09
-      ref:   Als 0908
-      app:   A.O.C. Alsace
-      type:  Blanc sec tendre
-      cep:   Muscat
-      prijs: €14.30
      
     - naam:  Pinot gris'10
       ref:   Als 1002
@@ -94,13 +87,6 @@ wijnen:
       type:  Blanc sec tendre
       cep:   Gewurztraminer
       prijs: €18.60
-    
-    - naam:  Gewurztraminer Cuvée Béatrice'10
-      ref:   Als 10--
-      app:   A.O.C. Alsace
-      type:  Blanc sec tendre
-      cep:   Gewurztraminer
-      prijs: €17.74
       
     - naam:  Auxerrois Hinterberg'08
       ref:   Als 0807
@@ -115,20 +101,6 @@ wijnen:
       type:  Blanc sec (sans soufre)
       cep:   Auxerrois
       prijs: €31.50
-      
-    - naam:  Côtes d'Ammerschwihr'10
-      ref:   Als 1005
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   50% Riesling/30% Pinot gris et Auxerrois/20% Gewurz et Muscat
-      prijs: €15.81
-      
-    - naam:  Crémant d'Alsace'08 (extra brut)
-      ref:   Als 0808
-      app:   A.O.C. Alsace
-      type:  Méthode traditionelle
-      cep:   Riesling/Pinot gris
-      prijs: €13.95
 
     - naam:  Crémant d'Alsace KB'08 (extra brut)
       ref:   Als 0810
@@ -149,13 +121,6 @@ wijnen:
       app:   Vin de France
       type:  Pétillant naturel (méthode ancestrale)
       cep:   Pinot gris
-      prijs: €14.56
-      
-    - naam:  Katz' en Bulles Riesling'09 (sans soufre)
-      ref:   Als 0904
-      app:   Vin de France
-      type:  Pétillant naturel (méthode ancestrale)
-      cep:   Riesling
       prijs: €14.56
       
     - naam:  Pinot noir'08
