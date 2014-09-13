@@ -38,7 +38,7 @@ wijnen:
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €11.85
+      prijs: 11.85€
       
     - naam:  La Familia'12
       ref:   
@@ -52,7 +52,7 @@ wijnen:
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €15.53
+      prijs: 15.53€
     
       
     
