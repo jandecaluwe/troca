@@ -9,16 +9,22 @@ wijnen:
       ref:   
       app:   A.O.C. Champagne
       cep:   Pinot Meunier/Chardonnay
-      prijs: 
+      prijs: €22.25
 
-    - naam:  Blanc des Blanc zéro dosage
+    - naam:  Brut nature (extra-brut)
       ref:   
       app:   A.O.C. Champagne
       cep:   Chardonnay
-      prijs: 
+      prijs: €30.50
+      
+    - naam:  Les "7" (extra-brut)
+      ref:
+      app:   A.O.C. Champagne
+      cep:   Pinot gris/Chardonnay/Pinot Meunier/Petit Melier/Arbanne/Pinot noir/Pinot blanc
+      prijs: €55.80
 
  
 ---
-FBVS+KDFN?B+/Q?.SDNF+B/?.QNSD+F/BV
+komt eraan!
 
 
