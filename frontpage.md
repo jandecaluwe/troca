@@ -20,7 +20,7 @@ E: jonas@trocavn.eu
 
 
 
-Save these dates ...
+Save these dates ... (wines to taste? See 'agenda')
 --------------------
 
 1e Open fles/1e Dégustation
