@@ -48,5 +48,32 @@ Bubbles
 * Vouette & Sorbée/Fidèle'11 (Pinot noir non dosé/Champagne)
 * Vouette & Sorbée/Blanc d'Argile'09 (Chardonnay non dosé/Champagne)
 
+Rosé
+----
+* François Plouzeau/Rosé de La Cabane'13 (Cabernet franc/Touraine)
+* Jacques Carroget/Rosé d'Ancenis'13 (Gamay/Coteaux d'Ancenis)
+
+Reds
+----
+* Pascal Pibaleau/Le Revins-Y'13 (Grolleau noir/Azay-Le-Rideau)
+* Olivier Bellanger/Gamay'13 (Gamay/Vallée du Cher)
+* Fred Sigonneau/Le Canal des Grands Pièces'13 (Cabarnet franc/Chinon)
+* Jean-Luc Isnard/l'Effet Papillon'13 (Merlot/Marselan/Ventoux)
+* Fred Sigonneau/SO2'12 (Cabernet franc S.S./Chinon)
+* Pascal Pibaleau/Héritage d'Aziaum'12 (Côt/Cabernet/Gamay//Azay-Le-Rideau)
+* Jacques Carroget/Simplement Gamay'13 (Gamay de vignes centenaires/Ancenis)
+* Fred Rivaton/Tombé du Ciel'13 (Syrah/Carignan/Roussillon)
+* Fred Rivaton/Gribouille'10 (Carignan/Syrah/Grenache) 
+* Nathalie Gaubicher/Les Longues Vignes'12 (Pineau d'Aunis/Coteaux du Loir)
+* Michel Augé/Art de l'Eau'11 (Pinot noir/Gamay/Pineau d'Aunis)
+* Michel Augé/Erèbe'11 (Cabernet franc/Côt)
+* Laurent Tripoz/Le Chant de La Tour'12 (Pinot noir/Bourgogne)
+* Jean-Yves Vantey/Hautes Côtes de Beaune'11 (Pinot noir/Bourgogne)
+* Francesco Brezza/Barbera del Monferrato Casalese'13 (Piemonte/Italia)
+* Daniele Rosselini/Sangiovese'11 (Toscana/Italia)
+* Daniele Rosselini/Sangiovese Riserva'10 (Toscana/Italia)
+* Chiara Vigo/Allegracore'12 (Etna/Italia)
+
+
 
 
