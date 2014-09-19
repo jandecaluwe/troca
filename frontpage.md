@@ -7,9 +7,9 @@ Troca V.N.
 Westrozebekestraat 75  
 8840 Oostnieuwkerke
 
-T: +32.476.88.32.15
+Mobile Jacques Masy: +32.476.88.32.15
  
-T: +32.478.43.58.24
+Mobile Jonas Van Thillo: +32.478.43.58.24
  
 E: jacques@trocavn.eu
 
