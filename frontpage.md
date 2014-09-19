@@ -7,8 +7,13 @@ Troca V.N.
 Westrozebekestraat 75  
 8840 Oostnieuwkerke
 
-T: +32.476.88.32.15  
+T: +32.476.88.32.15
+ 
+T: +32.478.43.58.24
+ 
 E: jacques@trocavn.eu
+
+E: jonas@trocavn.eu
 
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
