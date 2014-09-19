@@ -70,6 +70,7 @@ Reds
 * Laurent Tripoz/Le Chant de La Tour'12 (Pinot noir/Bourgogne)
 * Jean-Yves Vantey/Hautes Côtes de Beaune'11 (Pinot noir/Bourgogne)
 * Francesco Brezza/Barbera del Monferrato Casalese'13 (Piemonte/Italia)
+* Claudio Fenocchio/Barolo Bussia'10 (Nebbiolo/Piemonte)
 * Daniele Rosselini/Sangiovese'11 (Toscana/Italia)
 * Daniele Rosselini/Sangiovese Riserva'10 (Toscana/Italia)
 * Chiara Vigo/Allegracore'12 (Etna/Italia)
