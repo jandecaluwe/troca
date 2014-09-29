@@ -12,15 +12,15 @@ wijnen:
       type:  Blanc sec
       cep:   Melon de Bourgogne
       prijs: €7.29
-
-    - naam:  Muscadet'09
-      ref:   Loi 0906
+       
+    - naam:  Rien que du Melon'13
+      ref:   Loi 0974
       app:   A.O.C. Muscadet Coteaux de La Loire
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: €9.91
-       
-
+      prijs: €11.46
+      opm:   
+    
     - naam:  Muscadet Sans Soufre'09
       ref:   Loi 0974
       app:   A.O.C. Muscadet Coteaux de La Loire
@@ -28,14 +28,46 @@ wijnen:
       cep:   Melon de Bourgogne
       prijs: €10.78
       opm:   Last bottles
-
+    
     - naam:  Ca c'est du Groslot'09
       ref:   Loi 0908
       app:   Vin de France
       type:  Vin gris
       cep:   Grolleau
       prijs: €11.24
+    
+    - naam:  Voilà du Groslot'13
+      ref:   
+      app:   V.D.P. du Val de Loire
+      type:  Vin gris
+      cep:   Groslot
+      prijs: €11.46
+      opm:  
+    
+    - naam:  Le Rosé d'Ancenis'13
+      ref:   
+      app:   A.O.C. Coteaux d'Ancenis Rosé
+      type:  Rosé de pressurage
+      cep:   Gamay
+      prijs: €11.46
+      opm: 
 
+    - naam:  Simplement Gamay'13
+      ref:   Loi 0974
+      app:   A.O.C. Coteaux d'Ancenis
+      type:  Rouge
+      cep:   Gamay
+      prijs: €11.46
+      opm:  
+      
+    - naam:  Les Champs Jumeaux'11
+      ref:   
+      app:   A.O.C. Coteaux d'Ancenis
+      type:  Blanc sec
+      cep:   Chenin blanc
+      prijs: €18.50
+      opm: 
+      
     - naam:  Pineau de Loire'09
       ref:   Loi 0909
       app:   A.O.C. Coteaux d'Ancenis
