@@ -4,6 +4,8 @@ layout: page
 ---
 
 
+Vandaag 18/10/14 zijn wij uitzonderlijk gesloten.
+
 Coming up:
 ----------
 
