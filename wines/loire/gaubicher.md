@@ -1,7 +1,7 @@
 ﻿---
 title: Nathalie Gaubicher
-regio: Sarthe
-photo: Gaubicher.jpg
+regio: Coteaux du Loir et Jasnières
+photo: gaubicher.jpg
 layout: wijnhuis 
 
 wijnen:
