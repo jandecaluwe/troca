@@ -1,7 +1,7 @@
 ﻿---
-title: Thomas Carsin
-regio: Anjou noir
-photo: carsin.jpg
+title: Nathalie Gaubicher
+regio: Sarthe
+photo: Gaubicher.jpg
 layout: wijnhuis 
 
 wijnen:
