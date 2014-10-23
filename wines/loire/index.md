@@ -4,6 +4,7 @@ content:
     - auge
     - carroget
     - carsin
+    - gaubicher
     - pibaleau
     - plouzeau
     - plouzeaufr
