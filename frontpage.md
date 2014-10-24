@@ -34,7 +34,6 @@ Save these dates ... (wines to taste? See 'agenda')
 * Zo/Dim 16/11 10.00-19.00  
 
 Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.
-Uitzonderlijk gesloten op 18/10/14
 
 updates:
 --------
