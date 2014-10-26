@@ -13,6 +13,13 @@ wijnen:
       type:  Petillant naturel
       cep:   Grolleau noir
       prijs: €11.20
+    
+    - naam:  Sauvignon'13
+      ref:   
+      app:   Vin de France
+      type:  Blanc sec
+      cep:   Sauvignon blanc
+      prijs: 7.51€
       
     - naam:  Chenin blanc sec'13
       ref:   
