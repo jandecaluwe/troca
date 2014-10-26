@@ -13,6 +13,5 @@ content:
     - piemonte
     - sicilia
     - toscana
-    - the magnums
 ---
 
