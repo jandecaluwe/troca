@@ -5,14 +5,19 @@ photo: gaubicher.jpg
 layout: wijnhuis 
 
 wijnen:
+    - naam: Happy'04
+      ref:   
+      app: V.D.France   
+      type: Pétillant Naturel 
+      cep: Chenin blanc   
+      prijs: 14.85€
+    
     - naam:  
       ref:   
       app:   
       type:  
       cep:   
-      prijs: 
-      
-    
+      prijs:
 ---
 Nathalie Gaubicher, het vrouwtje van wijlen Christian Chaussard, timmert kranig verder aan de weg.
 Chaussard verongelukte in september 2013. Een tragisch ongeval met de tractor rukte deze zo belangrijke wijnbouwer weg uit het leven.
