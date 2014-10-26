@@ -20,15 +20,10 @@ E: jonas@trocavn.eu
 
 
 
-Save these dates ... (wines to taste? See 'agenda')
+Save these date ... 
 --------------------
 
-1e Open fles/1e Dégustation
----------------------------    
-* Za/Sam 20/09 14.00-19.00  
-* Zo/Dim 21/09 10.00-19.00
-
-2e Open fles/2e Dégustation 
+Open fles/Dégustation 
 --------------------------- 
 * Za/Sam 15/11 14.00-19.00   
 * Zo/Dim 16/11 10.00-19.00  
@@ -39,6 +34,7 @@ updates:
 --------
 * 06/09/14 Piemonte-Fenocchio/Roussillon-Rivaton/Lombardia-Tacci&Lombardi
 * 13/09/14 Bourgogne-Tripoz/Bourgogne-Vantey/Toscana-Rosellini/Loire-Sigonneau
+* 26/10/14 Loire-Nathalie Gaubicher
 
 
 
