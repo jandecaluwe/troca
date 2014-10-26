@@ -57,14 +57,6 @@ wijnen:
       cep:   Cabernet franc/Côt
       prijs: €12.45
 
-    - naam:  Prim’Herdeleau’07
-      ref:   Loi 0705 
-      app:   Vin de France
-      type:  Rouge 
-      cep:   Gamay 
-      prijs: €10.20 
-      opm:   De laatsten/Les dernières 
-
     - naam:  Le Herdeleau’10
       ref:   Loi 1074 
       app:   Vin de France
@@ -100,14 +92,14 @@ wijnen:
       cep:   Sauvignon blanc 
       prijs: €55.30 
 
-    - naam:  Sous Voile’05 (37,5l)
+    - naam:  Sous Voile’05 (37,50cl)
       ref:   Loi 0577 
       app:   Vin de France
       type:  Blanc oxidatif 
       cep:   Sauvignon blanc 
       prijs: €14.50 
 
-    - naam:  Sous Voile’03 
+    - naam:  Sous Voile’03 (37,50cl)
       ref:   Loi 0308
       app:   Vin de France
       type:  Blanc oxidatif 
