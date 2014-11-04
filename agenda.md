@@ -13,7 +13,14 @@ Coming up:
 * za/sam 15/11 14.00-19.00
 * zo/dim 16/11 10.00-19.00
 
-Te proeven:
+Te proeven/A goûter
+===================
+
+François Plouzeau (Dom. de La Garrelière)
+-----------------------------------------
+* Le Blanc de La Mariée'13 (Sauvignon blanc)
+* Le Chenin de la Colline'11 (Chenin blanc)
+* Le Rouge des Cornus'12 (Cabernet franc)
 
 Christian Venier
 ----------------
@@ -31,6 +38,36 @@ Jacques Carroget (Dom. de La Paonnerie)
 * Les Champs Jumeaux'11 (Chenin blanc)
 * Voilà du Gros Lot'13 (Grolleau)
 * Simplement Gamay (Gamay à Jus blanc)
+
+Nathalie Gaubicher (Coteaux du Loir/Jasnières)
+----------------------------------------------
+* Patapon blanc'12 (Pét Nat de Chenin blanc)
+* Happy'04 (Pet Nat de Chenin blanc-10 ans sur lattes)
+* Karakther'12 (Chenin blanc)
+* Patapon Rouge'12 (Pineau d'Aunis)
+* Les Longues Vignes'12 (Pineau d'Aunis)
+* Côte d'Alerte'09 (Côt)
+
+Cabernet franc
+--------------
+* Fred Sigonneau (Dom. de l'R)-Les Cinq Elèments'12 
+* Eric Dubois (Clos Cristal) - Saumur Champigny'11 
+* Thomas Carsin (Dom. du Clos de l'Elu) - Hippocampe'11 
+
+Pinot noir
+----------
+* Claude Buchot (Jura) - Pinot noir'12
+* Christian Binner (Alsace) - Pinot noir non filtré'12
+* Christian Binner (Alsace) - Pinot noir'11 
+* Jean-Yves Vantey (Bourgogne) - Hautes-Côtes-de-Beaune'11
+* Jean-Yves Vantey (Bourgogne) - Maranges'11
+* Laurent Tripoz (Bourgogne) - Chant de La Tour'12
+
+Frédéric Rivaton (Roussillon)
+-----------------------------
+* Tombé du Ciel'13 (Syrah/Carignan)
+* Vieilles Vignes'11 (Carignan/Syrah/Grenache)
+* Gribouille'10  (Carignan/Syrah/Grenache)
 
 
 
