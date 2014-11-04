@@ -21,25 +21,25 @@ Bubbles
 * Laurent Tripoz - Fleur d'Aligoté'11
 * Christian Binner - Crémant d'Alsace'11
 * Aurélien Laherte - Grand Brut Nature (Champagne)
-* Vouette & Sorbée - Blanc d'Argile'10
+* Vouette & Sorbée - Blanc d'Argile'10 (Champagne)
 
-François Plouzeau (Dom. de La Garrelière)
+François Plouzeau (Dom. de La Garrelière/Touraine)
 -----------------------------------------
 * Le Blanc de La Mariée'13 (Sauvignon blanc)
 * Le Chenin de la Colline'11 (Chenin blanc)
 * Le Rouge des Cornus'12 (Cabernet franc)
 
-Christian Venier
+Christian Venier (Cheverny)
 ----------------
 * Les Carteries'13 (Sauvignon/Chardonnay) 
 * Les Cormiers'13 (Cabernet franc)
 * Les Clos des Carteries'13 (Pinot noir/Gamay) 
 
-Paul Gillet (Domaine des Maisons Brûlées)
+Paul Gillet (Domaine des Maisons Brûlées/Vallée du Cher)
 -----------------------------------------
 * Le Dernier Né'13 (Pineau d'Aunis/Gamay)
 
-Jacques Carroget (Dom. de La Paonnerie)
+Jacques Carroget (Dom. de La Paonnerie/Muscadet)
 ---------------------------------------
 * Rien que du Melon'13 (Melon de Bourgogne)
 * Les Champs Jumeaux'11 (Chenin blanc)
@@ -99,7 +99,7 @@ Daniele Rosselini (Campi Nuovi/Toscana)
 * Montecucco Sangiovese'11
 * Montecucco Sangiovese Riserva'10  
 
-Chiara Vigo (Fattorie Romeo del Castello)
+Chiara Vigo (Fattorie Romeo del Castello/Sicilia)
 -----------------------------------------
 * Allegracore'12 (Nerello Mascalese)
 
