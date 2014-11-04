@@ -16,6 +16,13 @@ Coming up:
 Te proeven/A goûter
 ===================
 
+Bubbles
+-------
+* Laurent Tripoz - Fleur d'Aligoté'11
+* Christian Binner - Crémant d'Alsace'11
+* Aurélien Laherte - Grand Brut Nature (Champagne)
+* Vouette & Sorbée - Blanc d'Argile'10
+
 François Plouzeau (Dom. de La Garrelière)
 -----------------------------------------
 * Le Blanc de La Mariée'13 (Sauvignon blanc)
@@ -68,6 +75,33 @@ Frédéric Rivaton (Roussillon)
 * Tombé du Ciel'13 (Syrah/Carignan)
 * Vieilles Vignes'11 (Carignan/Syrah/Grenache)
 * Gribouille'10  (Carignan/Syrah/Grenache)
+
+Francesco Brezza (Tenuta Migliavacca/Piemonte)
+----------------------------------------------
+* Barbera del Monferrato'13
+
+Luca Allegri (Tenuta 2201/Piemonte)
+--------------------------
+* Grignolino'13 
+
+Antonella Tacci e Raimondo Lombardi (Az. Agri. Martilde/Oltrepo Pavese)
+-----------------------------------------------------------------------
+* Piume'12 (Malvasia)
+* Dedica'10 (Malvasia)
+* Barbera'11 (Barbera)
+* Bonarda'11 (Croatina)
+* Il Gigante'11 (Croatina)
+* Zaffo'06 (Croatina)
+
+Daniele Rosselini (Campi Nuovi/Toscana)
+-------------------------------
+* Montecucco Rosso'11 (Sangiovese/Merlot/Cabernet Sauvignon)
+* Montecucco Sangiovese'11
+* Montecucco Sangiovese Riserva'10  
+
+Chiara Vigo (Fattorie Romeo del Castello)
+-----------------------------------------
+* Allegracore'12 (Nerello Mascalese)
 
 
 
