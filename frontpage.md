@@ -20,8 +20,8 @@ E: jonas@trocavn.eu
 
 
 
-Save these date ... 
---------------------
+Save this date ... 
+------------------
 
 Open fles/Dégustation 
 --------------------------- 
