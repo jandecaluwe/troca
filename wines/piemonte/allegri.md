@@ -1,6 +1,6 @@
 ﻿---
 title: Pier Luca Allegri
-huis:  Azienda Agricola 2201
+huis:  Tenuta 2201
 dept:  
 regio: Piemonte
 photo: pier luca allegri.jpg
@@ -14,11 +14,16 @@ wijnen:
       cep:   Grignolino
       prijs: €10.00
 
-    
-   
-
-    
-    
-
 ---
-Coming soon
+Pier Luca Allegri gooide zijn professioneel leven over een totaal andere boeg. 
+In 2012 worden 7 hectaren wijngaard overgenomen in dit noordelijke deel van Piemonte.
+Barbera, Freisa en Grignolino worden biodynamisch verbouwd.
+
+De wijngaarden zijn gelegen op de flanken van de "Collina Sara" in het dorpje Altavilla Monferrato.
+De expositie is subliem. Zuidelijk en zuid-oost gericht. De klei ondergrond is vermengd deels met kalk, deels met ijzeroxide.
+
+Luca Allegri is vriend aan huis bij Francesco Brezza. Francesco is mijn mentoR beweert hij.
+Verder heb ik mijn eigen ideeën en buikgevoel.
+
+Grignolino 2012 is alvast een voltreffer van formaat met veel drinkplezier, met zoveel elegantie, met de meest edele tannines, met met met ...
+
