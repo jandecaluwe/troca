@@ -3,7 +3,7 @@ title: Pier Luca Allegri
 huis:  Azienda Agricola 2201
 dept:  
 regio: Piemonte
-photo: Allegri.jpg
+photo: allegri.jpg
 layout: wijnhuis
 
 wijnen:
