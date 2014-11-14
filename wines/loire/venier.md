@@ -18,6 +18,7 @@ wijnen:
       type:  Blanc sec oxidatif
       cep:   Sauvignon blanc
       prijs: €12.50
+      opm:   De laatste flessen/Les dernières
 
     - naam:  Le Rouge de Madon’08
       ref:   Loi 0853
@@ -25,6 +26,7 @@ wijnen:
       type:  Rouge
       cep:   Gamay
       prijs: €8.76
+      opm:   De laatste flessen/Les dernières
       
     - naam:  Les Hauts de Madon’10
       ref:   Loi 1031
@@ -32,13 +34,15 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir/Gamay
       prijs: €10.50
+      opm:   De laatste flessen/Les dernières
 
     - naam:  Les Hauts de Madon’11
       ref:   Loi 1137
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir/Gamay
-      prijs: €11
+      prijs: €11.00
+      opm:   De laatste flessen/Les dernières
 
     - naam:  Le Clos des Carteries’09
       ref:   Loi 
@@ -46,6 +50,7 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir/Gamay
       prijs: €10.50
+      opm:   De laatste flessen/Les dernières
 
     - naam:  Le Clos des Carteries’10
       ref:   Loi  
@@ -53,6 +58,7 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir/Gamay
       prijs: €10.50
+      opm:   De laatste flessen/Les dernières
     
     - naam:  Le Clos des Carteries’11
       ref:   
