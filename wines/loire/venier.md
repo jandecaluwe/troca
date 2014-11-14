@@ -5,20 +5,19 @@ photo: venier.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam:  Les Carteries’11
-      ref:   Loi 1141
+    - naam:  Les Carteries’13
+      ref:   
       app:   A.O.C. Cheverny
       type:  Blanc sec
       cep:   Sauv./Chardonnay
-      prijs: €11.00
-
-    - naam:  Les Raisins de Autres’12
-      ref:   Loi 12..
-      app:   Vin de France
-      type:  Blanc sec
+      prijs: €11.50
+      
+    - naam:  La Gautrie'04
+      ref:   
+      app:   A.O.C. Cheverny
+      type:  Blanc sec oxidatif
       cep:   Sauvignon blanc
-      prijs: €11.47 
-      opm:   New
+      prijs: €12.50
 
     - naam:  Le Rouge de Madon’08
       ref:   Loi 0853
@@ -26,8 +25,7 @@ wijnen:
       type:  Rouge
       cep:   Gamay
       prijs: €8.76
-      opm:   De laatste flessen
-
+      
     - naam:  Les Hauts de Madon’10
       ref:   Loi 1031
       app:   A.O.C. Cheverny
@@ -42,33 +40,56 @@ wijnen:
       cep:   Pinot noir/Gamay
       prijs: €11
 
-    - naam:  Le Clos des Carteries’10
-      ref:   Loi 1032
-      app:   A.O.C. Cheverny
-      type:  Rouge
-      cep:   Pinot noir/Gamay
-      prijs: €10.50
-
     - naam:  Le Clos des Carteries’09
-      ref:   Loi 0965 
+      ref:   Loi 
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir/Gamay
       prijs: €10.50
 
+    - naam:  Le Clos des Carteries’10
+      ref:   Loi  
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir/Gamay
+      prijs: €10.50
+    
+    - naam:  Le Clos des Carteries’11
+      ref:   
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir/Gamay
+      prijs: €11.50
+    
+    - naam:  Les Clos des Carteries'13
+      ref:   
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir/Gamay
+      prijs: €11.50
+      
+    - naam:  Les Cormiers'13
+      ref:   Loi 1137
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir/Gamay
+      prijs: €11.50
+      
     - naam:  La Pierre aux Chiens’09
       ref:   Loi 0971
       app:   Vin de France
       type:  rood
       cep:   Pinot noir
-      prijs: €10.50
+      prijs: €12.00
+      opm: De laatste flessen/Les dernières
 
     - naam:  La Pierre aux Chiens’11
       ref:   Loi 1142
       app:   Vin de France
       type:  rood
       cep:   Pinot noir
-      prijs: €12
+      prijs: €12.00
+      
 ---
 Loir et Cher
 ------------
