@@ -3,7 +3,7 @@ title: Francesco Brezza
 huis:  Tenuta Migliavacca
 dept:  
 regio: Piemonte
-photo: brezza.jpg
+photo: Brezza.jpg
 layout: wijnhuis
 
 wijnen:
