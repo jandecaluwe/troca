@@ -37,6 +37,7 @@ updates:
 * 06/09/14 Piemonte-Fenocchio/Roussillon-Rivaton/Lombardia-Tacci&Lombardi
 * 13/09/14 Bourgogne-Tripoz/Bourgogne-Vantey/Toscana-Rosellini/Loire-Sigonneau
 * 26/10/14 Loire-Nathalie Gaubicher
+* 14/11/14 Loire-Venier
 
 
 
