@@ -3,7 +3,7 @@ title: Francesco Brezza
 huis:  Tenuta Migliavacca
 dept:  
 regio: Piemonte
-photo: Brezza.jpg
+photo: brezza.jpg
 layout: wijnhuis
 
 wijnen:
@@ -13,7 +13,7 @@ wijnen:
       type:  Rosso
       cep:   Grignolino
       prijs: €12.95
-      opm:   Slechts enkele flessen/Que quelques flacons
+      opm:   Slechts enkele flessen/Que quelques bouteilles
 
     - naam:  Barbera'13
       ref:   
