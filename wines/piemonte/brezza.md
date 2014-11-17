@@ -25,7 +25,7 @@ wijnen:
    
 ---
 Francesco Brezza, verloor zijn vader na een tractorongeval. Deze man was één van de oudste italiaanse biodynamisten.
-Hij nam verscheidene jonge wijnbouwers onder de arm en maakte hun wegwijs. Stefano Belloti was één van hen.
+Hij nam verscheidene jonge wijnbouwers onder de arm en maakte hun wegwijs. Stefano Bellotti van het domein 'Cascina degli Olivi' was één van hen.
 De nog jonge Francesco toen, voorbestemd om verder te studeren, moest prompt thuisblijven en zorgen voor de boerderij. 
 Migliavacca is nog steeds een organisatie in polycultuur. Druiven, wijn, granen en piemontese runderen (vleeskoe) bepalen de activiteit.
 
@@ -39,7 +39,7 @@ Een goede grondstof oogsten, dat is onze jaarlijkse betrachting. Verder proberen
 Onze wijnen verouderen goed, vertelt hij verder en dat is geen slecht teken.
 Wij zijn niet op zoek naar puur concentraat. Elegantie in de fles, daar is het ons om te doen.
 
-Vanop de boerderij kijkt men op de 'Po', de rivier uit Noord-Italië. Vanaf de Monferrato Casalese richting Milaan treft men de rijstvelden.
+Vanop de boerderij kijkt men uit op de 'Po', de rivier uit Noord-Italië. Vanaf de Monferrato Casalese richting Milaan treft men de rijstvelden.
 Gorgonzola is eveneens niet ver.
 
 Toen we dit domein bezochten proefden we uiteraard Brezza's eigen gebakken brood, een magnifieke Gorgonzola met enkele van zijn schitterende wijnen.
