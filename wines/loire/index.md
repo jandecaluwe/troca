@@ -5,6 +5,7 @@ content:
     - carroget
     - carsin
     - gaubicher
+    - gillet
     - pibaleau
     - plouzeau
     - plouzeaufr
