@@ -3,7 +3,7 @@ title: Michel et Béatrice Augé
 huis:  Domaine des Maisons Brûlées
 dept:  Loir et Cher
 regio: Touraine
-photo: auge2.jpg
+photo: auge.jpg
 layout: wijnhuis
 
 wijnen:
