@@ -44,7 +44,7 @@ Ze deden een beetje vanalles tot dusver. Van 'cavist' in zijn geboortestreek tot
 
 Paul leerde voornamelijk zijn ding bij Bruno Schueller, een talentrijk wijnbouwer uit Alsace. Een gezonde honger om zelf wijn te maken kreeg meer en meer gestalte.
 
-Op zekere dag belande Gillet bij Michel en Béatrice Augé. Begin 2013 kwamen ze tot het akkoord om gans de snoei bij "Maison Brûlées" mee te te beleven. 
+Op zekere dag belande Gillet bij Michel en Béatrice Augé. Begin 2013 kwamen ze tot het akkoord om gans de snoei bij "Maison Brûlées" mee te beleven. 
 Gaande weg werd er met de Augé's gepraat om het domein over te nemen. Tijdens de zomermaanden en aanvankelijk sneller dan verwacht was de kogel door de kerk. 
 Michel Augé zou hun verder begeleiden tot begin februari 2014, de tijd van de belangrijke voorjaarsbeurzen.
 De oogst van jaargang 2013 echter, werd gevinifieerd door de nieuwe eigenaar.
