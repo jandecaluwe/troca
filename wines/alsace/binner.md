@@ -7,22 +7,7 @@ photo: binner.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  prijzen zijn incl. btw
-    
-    - naam:  Les Saveurs'12
-      ref:   Als 1202
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Cépages Alsaciens
-      prijs: €8.95
-
-    - naam:  Riesling Ammerschwihr'08
-      ref:   Als 0801
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Riesling
-      prijs: €11.07
-
+   
     - naam:  Riesling'12
       ref:   Als 12--
       app:   A.O.C. Alsace
@@ -102,13 +87,6 @@ wijnen:
       cep:   Auxerrois
       prijs: €31.50
 
-    - naam:  Crémant d'Alsace KB'08 (extra brut)
-      ref:   Als 0810
-      app:   A.O.C. Alsace
-      type:  Méthode traditionelle
-      cep:   Riesling/Pinot gris
-      prijs: €17.45
-      
     - naam:  Crémant d'Alsace'12 (extra brut)
       ref:   Als 12--
       app:   A.O.C. Alsace
@@ -129,14 +107,6 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir
       prijs: €14.57
-      
-    - naam:  Pinot noir'11 non-filtré (sans soufre)
-      ref:   Als 1101
-      app:   A.O.C. Alsace
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €14.36
-      opm:   Argilo-calcaire
       
     - naam:  Pinot noir'12 non-filtré (sans soufre)
       ref:   Als 12--
@@ -160,14 +130,7 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir
       prijs: €19.15
-      
-    - naam:  Pinot noir Cuvée Excellence'09
-      ref:   Als 0902
-      app:   A.O.C. Alsace
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €29.75
-      
+     
     - naam:  Pinot noir Cuvée Béatrice'07 (magnum)
       ref:   Als 0704
       app:   A.O.C. Alsace
@@ -202,20 +165,6 @@ wijnen:
       type:  
       cep:   
       prijs: €38.83
-      
-    - naam:  Eau de Vie de Mirabelle
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: €43.20
-      
-    - naam:  Eau de Vie de Baies de Houx
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: €51.28
       
     - naam:  Eau de Vie de Coing
       ref:   
