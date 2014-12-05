@@ -25,6 +25,13 @@ wijnen:
       cep:   Chenin blanc
       prijs: €33.50
       
+    - naam:  Christian Binner-Auxerrois Hinterberg'08
+      ref:
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   Auxerrois
+      prijs: €31.50
+      
     - naam:  Vouette & Sorbée-Hélène et Bertrand Gautherot-Fidèle'11
       ref:
       app:   A.O.C. Champagne
@@ -46,19 +53,61 @@ wijnen:
       cep:   Chardonnay
       prijs: €88.95
       
-    - naam:  
+    - naam:  Dom. du Clos de l'Elu-Thomas Carsin-Magellan'10
       ref:
-      app:   
-      type:  
-      cep:   
-      prijs: 
+      app:   A.O.C. Anjou
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €45.86
       
-    - naam:  
+    - naam:  Dom. du Clos de l'Elu-Thomas Carsin-Magellan'10
       ref:
-      app:   
-      type:  
-      cep:   
-      prijs: 
+      app:   A.O.C. Champagne  
+      type:  Rouge
+      cep:   Cabernet franc 
+      prijs: €53.85
+      
+    - naam:  Hervé Villemade-Cheverny Rouge'09
+      ref:   
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir/Gamay
+      prijs: €20.09
+      
+    - naam:  Hervé Villemade-Les Ardilles'08
+      ref:
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir/Gamay
+      prijs: €29.95
+      
+    - naam:  Hervé Villemade-Désiré'09
+      ref:
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €51.35
+      
+    - naam:  Hervé Villemade-Désiré'11
+      ref:
+      app:   A.O.C. Cheverny
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €49.35
+    
+    - naam:  Christian Binner-Pinot noir C.B.'07
+      ref:  
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: 55.95
+      
+    - naam:  Az. Agri. Giacomo Fenocchio-Bussia'10
+      ref:
+      app:   D.O.C.G. Barolo
+      type:  Rosso
+      cep:   Nebbiolo
+      prijs: €79.35
 
 ---
 
