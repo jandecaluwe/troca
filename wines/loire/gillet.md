@@ -11,7 +11,8 @@ wijnen:
       app:   Vin de France
       type:  Blanc sec
       cep:   Sauvignon blanc 
-      prijs: Februari 2015/Février 2015
+      prijs: 
+      opm:   Februari 2015/Frévrier 2015
       
     - naam:  Uccello
       ref:   
