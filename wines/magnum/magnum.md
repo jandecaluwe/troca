@@ -1,5 +1,5 @@
 ---
-title: Magnum
+title: Magnum 150cl
 layout: wijnhuis
 photo: magnum2.jpg
 
@@ -14,8 +14,16 @@ wijnen:
     - naam:  Damien Laureau-Les Genets'05
       ref:
       app:   A.O.C. Savennières
+      type:  Blanc sec
       cep:   Chenin blanc
       prijs: €31.79
+      
+    - naam:  Pascal Simonutti-Je Bois du Vin de Table Même Quand Y'A Pas de Table'08 
+      ref:
+      app:   Vin de France
+      type:  Blanc sec
+      cep:   Chenin blanc
+      prijs: €33.50
 
 ---
 
