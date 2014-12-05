@@ -29,6 +29,8 @@ updates:
 * 26/10/14 Loire-Nathalie Gaubicher
 * 14/11/14 Loire-Venier
 * 17/11/14 Piemonte-Francesco Brezza e Pier Luca Allegri
+* 02/12/14 Loire-Paul Gillet
+* 05/12/14 Magnum 150cl
 
 
 
