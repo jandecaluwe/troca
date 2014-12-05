@@ -1,6 +1,6 @@
 ---
-title: Sicilia 
+title: Magnum
 content: 
-    - vigo
+    - magnum
 layout: wijnbouwer_index
 ---
