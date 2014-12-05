@@ -6,6 +6,21 @@ photo: gillet.jpg
 layout: wijnhuis
 
 wijnen:
+    - naam:  Silènes'13
+      ref:   
+      app:   Vin de France
+      type:  Blanc sec
+      cep:   Sauvignon blanc 
+      prijs: Februari 2015/Février 2015
+      
+    - naam:  Uccello
+      ref:   
+      app:   Vin de France
+      type:  Pétillant naturel
+      cep:   Chardonnay
+      prijs: €16.25
+      Opm:   Slechts enkele flessen/Les dernières
+    
     - naam:  Le Dernier Né'13
       ref:   Loi 0821
       app:   Vin de France
@@ -13,30 +28,19 @@ wijnen:
       cep:   Pineau d'Aunis/Gamay
       prijs: €12.95
        
-    - naam:  
+    - naam:  R2L'O '13
       ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-      opm:   
+      app:   Vin de France
+      type:  Rouge
+      cep:   40% Pinot noir/40ù Gamay/20% Pineau d'Aunis
+      prijs: €14.47   
     
-    - naam:  
+    - naam:  Altérité'13
       ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-      opm:   
-    
-    - naam:  
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-    
-    
+      app:   Vin de France
+      type:  Petillant naturel tendre
+      cep:   Cabernet Sauvignon
+      prijs: €15.50  
     
 ---
 Paul en Sandrine Gillet (rechts op de foto), een mooi koppel afkomstig uit Mulhouse (Haut-Rhin), hebben zich recent bekeerd tot de natuurwijnbouw.
