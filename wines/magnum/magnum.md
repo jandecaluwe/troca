@@ -1,5 +1,6 @@
 ---
 title: Magnum
+layout: wijnhuis
 
 wijnen:
     - naam:  Allegracore'12
