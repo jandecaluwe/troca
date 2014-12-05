@@ -1,6 +1,7 @@
 ---
 title: Magnum
 layout: wijnhuis
+photo: magnum2.jpg
 
 wijnen:
     - naam:  Ferme de La Sansonnière-Mark Angéli-La Lune'09
