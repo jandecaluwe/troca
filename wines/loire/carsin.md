@@ -66,7 +66,15 @@ wijnen:
       app:   A.O.C. Anjou
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €40.86
+      prijs: €45.86
+      opm:   Magnum
+      
+    - naam:  Magellan'12
+      ref:   Loi 1079
+      app:   A.O.C. Anjou
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €53.85
       opm:   Magnum
       
     - naam:  Espérance'11
