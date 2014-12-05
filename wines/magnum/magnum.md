@@ -24,6 +24,41 @@ wijnen:
       type:  Blanc sec
       cep:   Chenin blanc
       prijs: €33.50
+      
+    - naam:  Vouette & Sorbée-Hélène et Bertrand Gautherot-Fidèle'11
+      ref:
+      app:   A.O.C. Champagne
+      type:  Mousserend-Vin Mousseux
+      cep:   Pinot noir
+      prijs: €86.35
+      
+    - naam:  Vouette & Sorbée-Hélène et Bertrand Gautherot-Blanc d'Argile'10
+      ref:
+      app:   A.O.C. Champagne
+      type:  Mousserend-Vin Mousseux
+      cep:   Chardonnay
+      prijs: €85.85
+      
+    - naam:  Vouette & Sorbée-Hélène et Bertrand Gautherot-Blanc d'Argile'11
+      ref:
+      app:   A.O.C. Champagne
+      type:  Mousserend-Vin Mousseux
+      cep:   Chardonnay
+      prijs: €88.95
+      
+    - naam:  
+      ref:
+      app:   
+      type:  
+      cep:   
+      prijs: 
+      
+    - naam:  
+      ref:
+      app:   
+      type:  
+      cep:   
+      prijs: 
 
 ---
 
