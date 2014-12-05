@@ -33,7 +33,7 @@ wijnen:
       ref:   
       app:   Vin de France
       type:  Rouge
-      cep:   40% Pinot noir/40ù Gamay/20% Pineau d'Aunis
+      cep:   40% Pinot noir/40% Gamay/20% Pineau d'Aunis
       prijs: €14.47   
     
     - naam:  Altérité'13
