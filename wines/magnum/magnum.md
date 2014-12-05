@@ -86,7 +86,7 @@ wijnen:
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir
-      prijs: €51.35
+      prijs: €51.45
       
     - naam:  Hervé Villemade-Désiré'11
       ref:
@@ -100,7 +100,7 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Rouge
       cep:   Pinot noir
-      prijs: 55.95
+      prijs: €55.95
       
     - naam:  Az. Agri. Giacomo Fenocchio-Bussia'10
       ref:
