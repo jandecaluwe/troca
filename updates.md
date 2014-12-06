@@ -4,7 +4,7 @@ layout: page
 ---
 
 Beste,
-------
+
 Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 
 * 06/09/14 Piemonte-Fenocchio/Roussillon-Rivaton/Lombardia-Tacci&Lombardia
