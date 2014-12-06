@@ -5,7 +5,7 @@ content:
     - frontpage
     - ref: about
       title: About us 
-    - philosophy
+    - updates
     - wines
     - agenda
     - contact
