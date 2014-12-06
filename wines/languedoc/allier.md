@@ -6,12 +6,12 @@ photo: allier.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Cacous'10
+    - naam:  Cacous'11
       ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
+      app:   Vin de France 
+      type:  Rouge
+      cep:   Syrah/Grenache
+      prijs: €10.43
 
     
 ---
