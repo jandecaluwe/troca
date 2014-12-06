@@ -21,16 +21,7 @@ E: jonas@trocavn.eu
 
 
 Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.
-
-updates:
---------
-* 06/09/14 Piemonte-Fenocchio/Roussillon-Rivaton/Lombardia-Tacci&Lombardi
-* 13/09/14 Bourgogne-Tripoz/Bourgogne-Vantey/Toscana-Rosellini/Loire-Sigonneau
-* 26/10/14 Loire-Nathalie Gaubicher
-* 14/11/14 Loire-Venier
-* 17/11/14 Piemonte-Francesco Brezza e Pier Luca Allegri
-* 02/12/14 Loire-Paul Gillet
-* 05/12/14 Magnum 150cl
+===========================================================================================================================
 
 
 
