@@ -7,13 +7,7 @@ photo: buchot.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Au Château'11
-      ref:   Loi 1234
-      app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec
-      cep:   Chardonnay
-      prijs: €10.43
-
+    
     - naam:  Terroir du Bry Tradition'10
       ref:   
       app:   A.O.C. Côtes de Jura
