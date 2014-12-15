@@ -57,12 +57,14 @@ wijnen:
       app:   A.O.C. Champagne 
       cep:   Pinot noir rosé 
       prijs: €41.36
+      opm:   de laatsten/les dernières
 
     - naam:  Saignée de Sorbée ‘08
       ref:   Cha 0803 
       app:   A.O.C. Champagne
       cep:   Pinot noir rosé 
       prijs: €43.35
+      opm:   de laatsten/les dernières
 ---
 Info over de wijnbouwer...
 
