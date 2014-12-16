@@ -12,6 +12,13 @@ wijnen:
       cep: Chenin blanc   
       prijs: 14.85€
     
+    - naam: Patapon blanc'12
+      ref:   
+      app: Vin de France   
+      type: Pétillant Naturel 
+      cep: Chenin blanc   
+      prijs: 14.65€
+    
     - naam:  You are so beautiful'10
       ref:   
       app:   Vin de France
@@ -74,14 +81,7 @@ wijnen:
       type:  Rouge
       cep:   Côt
       prijs: 10.00€
-      
-    - naam:  Lucky'10  
-      ref:   
-      app:   Vin de France
-      type:  Rouge
-      cep:   Pineau d'Aunis
-      prijs: 11.25€
-      
+ 
     - naam:  Les Longues Vignes'12  
       ref:   
       app:   A.O.C. Coteaux du Loir
