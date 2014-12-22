@@ -32,7 +32,20 @@ wijnen:
       cep:   Chardonnay
       prijs: €43.35
       opm:   de laatsten/les dernières
-
+      
+    - naam:  Blanc d’Argile’10 
+      ref:   Cha 0901 
+      app:   A.O.C. Champagne 
+      cep:   Chardonnay
+      prijs: €52.75
+      opm:   de laatsten/les dernières
+      
+    - naam:  Blanc d’Argile’11
+      ref:   Cha 0901 
+      app:   A.O.C. Champagne 
+      cep:   Chardonnay
+      prijs: €52.85
+ 
     - naam:  Blanc d’Argile’07 (magnum) 
       ref:   Cha 0702 
       app:   A.O.C. Champagne 
