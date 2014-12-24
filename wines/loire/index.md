@@ -9,6 +9,7 @@ content:
     - pibaleau
     - plouzeau
     - plouzeaufr
+    - pesnot
     - riffault
     - sigonneau
     - venier
