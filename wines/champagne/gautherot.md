@@ -79,5 +79,5 @@ wijnen:
       prijs: €43.35
       opm:   de laatsten/les dernières
 ---
-Info over de wijnbouwer...
+Hélène en Bertrand Gautherot ...
 
