@@ -1,5 +1,5 @@
 ﻿---
-title: Paul et Sandrine Gillet
+title: Paul et Corinne Gillet
 huis: Dom. des Maisons Brûlées
 regio: Vallée du Cher
 photo: gillet.jpg
