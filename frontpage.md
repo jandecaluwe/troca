@@ -25,5 +25,12 @@ Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.  
 Echter afwezig op 31/01/15. De wijnwinkel is dus niet geopend.
 ==============================================================
 
+Onze voorjaarsdegustaties:
+--------------------------
+Za 28/02 & Zo 01/03
+-------------------
+Za 09/05 & Zo 10/05
+-------------------
+
 
 
