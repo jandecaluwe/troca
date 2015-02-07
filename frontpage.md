@@ -22,8 +22,6 @@ E: jonas@trocavn.eu
 
 Ons bezoeken op zaterdag:   Wees welkom op **zaterdag tss. 14.30u en 18.00u**.   Tijdens de week bent U welkom na afspraak.
 ---------------------------------------------------------------------------------------------------------------------------
-Echter afwezig op zaterdag 31/01/15. De wijnwinkel is dus niet geopend.
-=======================================================================
 
 Onze voorjaarsdegustaties:
 --------------------------
