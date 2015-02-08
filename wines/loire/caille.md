@@ -60,7 +60,7 @@ wijnen:
 ---
 Vincent Caillé (5e generatie) verbouwt 27 hectaren wijngaard in de grootste Muscadetregio (Sèvre et Maine) vlakbij het dorpje Monnières.
 Deze man is één van deze hartnekkige en koppige wijnbouwers daar in het verre westen die zonder toegevingen aan zuivere wijnbouw doet.
-Gelooft U ons dat dit een onwaarschijnlijke uitdaging is in deze streek waar de wijngaarden met open armen ziekten zoals meeldauw met open armen ontvangen?
+Gelooft U ons dat dit een onwaarschijnlijke uitdaging is in deze streek waar de wijngaarden met open armen ziektes zoals meeldauw ontvangen?
 
 Vergelijkend met onze twee andere wijnbouwers Pesnot (luchtig/aërien) en Carroget (stevig en sappig) brengt Caillé op de verschillende ondergronden Gneiss, Gabbro en Orthogneiss 
 de meest minerale stijl. De wijnen zijn tevens elegant en zeer zuiver.
