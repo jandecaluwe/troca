@@ -2,6 +2,7 @@
 title: Loire
 content: 
     - auge
+    - caille
     - carroget
     - carsin
     - gaubicher
