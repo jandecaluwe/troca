@@ -1,11 +1,12 @@
 ﻿---
 title: Vincent Caillé
+huis:  Le Fay d'Homme
 regio: A.O.C. Muscadet de Sèvre et Maine
 photo: caille.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: Gros Plant'13
+    - naam: Gros Plant'13 (La Part du Colibri)
       ref:   
       app:  V.D.Q.S. Gros Plant du Pays Nantais
       type: Blanc sec
@@ -57,5 +58,17 @@ wijnen:
       prijs: 
     
 ---
-Vincent Caillé,
+Vincent Caillé (5e generatie) verbouwt 27 hectaren wijngaard in de grootste Muscadetregio (Sèvre et Maine) vlakbij het dorpje Monnières.
+Deze man is één van deze hartnekkige en koppige wijnbouwers daar in het verre westen die zonder toegevingen aan zuivere wijnbouw doet.
+Gelooft U ons dat dit een onwaarschijnlijke uitdaging is in deze streek waar de wijngaarden met open armen ziekten zoals meeldauw met open armen ontvangen?
+
+Vergelijkend met onze twee andere wijnbouwers Pesnot (luchtig/aërien) en Carroget (stevig en sappig) brengt Caillé op de verschillende ondergronden Gneiss, Gabbro en Orthogneiss 
+de meest minerale stijl. De wijnen zijn tevens elegant en zeer zuiver.
+
+La Part du Colibri: dit is het verhaaltje van de colibri die een grote bosbrand probeert te blussen met zijn kleine bekje gevuld met water. Een knipoog naar de zee van wijn in
+Muscadet die nog steeds chemisch wordt verbouwd terwijl enkele kranige wijnbouwers het organisch regelen.
+Gelukkig wordt deze laatste groep steeds groter.
+   
+
+
 
