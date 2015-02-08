@@ -42,15 +42,7 @@ wijnen:
       type:  Vin gris
       cep:   Groslot
       prijs: €11.46
-      opm:  
-    
-    - naam:  Le Rosé d'Ancenis'13
-      ref:   
-      app:   A.O.C. Coteaux d'Ancenis Rosé
-      type:  Rosé de pressurage
-      cep:   Gamay
-      prijs: €11.46
-      opm: 
+      opm:   
 
     - naam:  Simplement Gamay'13
       ref:   Loi 0974
@@ -59,14 +51,6 @@ wijnen:
       cep:   Gamay
       prijs: €11.46
       opm:  
-      
-    - naam:  Les Champs Jumeaux'11
-      ref:   
-      app:   A.O.C. Coteaux d'Ancenis
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: €18.50
-      opm: 
       
     - naam:  Pineau de Loire'09
       ref:   Loi 0909
