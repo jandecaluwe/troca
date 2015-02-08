@@ -5,7 +5,7 @@ photo: caillé.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: Happy'04
+    - naam: 
       ref:   
       app:  
       type: 
