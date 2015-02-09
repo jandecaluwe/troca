@@ -1,5 +1,5 @@
 ﻿---
-title: Floréal Roméro
+title: Floréal Romero
 huis:  Dom. Le Bouscas
 regio: Le Gers
 photo: romero.jpg
