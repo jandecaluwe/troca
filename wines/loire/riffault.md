@@ -86,7 +86,8 @@ Gemuscleerd en diep.
 * Auksinis Macération: Identiek dezelfde beginmaterie dan de klassieke Auksinis doch met schilmaceratie. Apart doch zeer boeiend en het blijft elegant.
 * Saulétas: Oude wijnstokken aangeplant op "calcaire Portlandien". Vinificatie is identiek aan de voorgaande wijn. Het profiel is fijnder, eleganter, kruidiger.
 * Skeveldra: Oude stokken aangeplant op silexbodem. (Les Caillottes) Ook hier is de vinificatie identiek. De wijn is echter zeer mineraal, gespierd, doortimmerd. 
+
 Dit alles zijn echt grote wijnen ...
-------------------------------------            
+           
 
  
