@@ -11,21 +11,21 @@ wijnen:
     - naam:  Terroir du Bry Tradition'10
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec non ouillé
+      type:  Blanc sec non ouillé
       cep:   Chardonnay
       prijs: €11.40
 
      - naam:  Terroir du Bry Tradition'11
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec non ouillé
+      type:  Blanc sec non ouillé
       cep:   Chardonnay
       prijs: €11.95
     
     - naam:  Château Beaufort'13
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec ouillé
+      type:  Blanc sec ouillé
       cep:   Chardonnay
       prijs: €11.40
       opm:   new wine
@@ -33,28 +33,28 @@ wijnen:
     - naam:  Cuvée Charles Beaudelaire'10
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec non ouillé
+      type:  Blanc sec non ouillé
       cep:   Chardonnay/Savagnin
       prijs: €13.95
 
     - naam:  Savagnin'10
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec non ouillé sous voile
+      type:  Blanc sec non ouillé sous voile
       cep:   Savagnin
       prijs: €18.25
       
     - naam:  Vin Jaune'04
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec non ouillé sous voile
+      type:  Blanc sec non ouillé sous voile
       cep:   Savagnin
       prijs: €41.36
 
     - naam:  Vin Jaune'05
       ref:   
       app:   A.O.C. Côtes de Jura
-      type:  Blanc Sec non ouillé sous voile
+      type:  Blanc sec non ouillé sous voile
       cep:   Savagnin
       prijs: €37.55
 
