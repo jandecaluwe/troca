@@ -14,6 +14,7 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 17/11/14 Piemonte-Francesco Brezza e Pier Luca Allegri
 * 02/12/14 Loire-Paul Gillet
 * 05/12/14 Magnum 150cl
+* 10/02/15 Loire-Vincent Caillé
 
     
   
