@@ -15,6 +15,9 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 02/12/14 Loire-Paul Gillet
 * 05/12/14 Magnum 150cl
 * 10/02/15 Loire-Vincent Caillé
+* 10/02/15 Loire-Fred Sigonneau
+* 10/02/15 Loire-Sébastien Riffault
+* 10/02/15 Sud-Ouest-Floréal Romero
 
     
   
