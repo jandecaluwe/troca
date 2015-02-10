@@ -18,6 +18,7 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc
       prijs: 9.39€
+      opm: the last bottles
          
     - naam:  Les 5 Eléments'12
       ref:   
@@ -47,7 +48,12 @@ wijnen:
       cep:   Cabernet franc
       prijs: 15.53€
     
-      
+    - naam:  Les Folies du Noyer Vert'12
+      ref:   Loi 1143
+      app:   A.O.C. Chinon
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: 15.80€
     
 
     
