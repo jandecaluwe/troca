@@ -63,8 +63,8 @@ Departement Cher
 ----------------
 Sébastien Riffault, een jonge wijnbouwer, een oude bekende voor ons! Sébastien nam enkele jaren geleden de fakkel stap voor stap over van zijn vader. 
 De ommekeer was intens en gedurfd. 
-Zijn vader zweeg en zag na een tijd dat het goed was. Idd. 
-De expressie van de huidige wijn staat haaks tegenover de Sancerre die zijn vader produceerde.
+Zijn vader zweeg en zag na een tijd dat het goed was. Idd., 
+de expressie van de huidige wijn staat haaks tegenover de Sancerre die vader Riffault produceerde.
 ----------------------------------------------------------------------------------------------
 De wijngaard: het "mennen" van het trekpaard kent nog maar weinig geheimen voor de jonge wijnbouwer. Het wordt ingezet voor elk type van grondbewerking. Wortelversterkende en fotosynthese genererende biodynamische applicaties worden wanneer nodig toegepast. 
 Korte snoei, ontknoppen van ongewenste scheuten zijn eveneens klassieke praktijken.
@@ -81,8 +81,8 @@ De wijnen:
 "klassieke" maar zeer goede Sancerre.
 * Akmèniné: selectie uit dezelfde jonge stokken dan "Les Quarterons", alleen hier wordt er later geoogst, is er meer botrytis en wordt er gevinifieerd en gebotteld zonder sulfiet.
 De expressie is totaal verschillend, vrijer, ronder, doch nog steeds een bepaald mineraal gedrag. Grandioos.
-* Auksinis: Oude wijnstokken nog steeds op dezelfde bodem dan de 2 voorgaande wijnen. 50% botrytis. Vinificatie zonder sulfiet, 24 maanden élevage op het gistdroesem. Een dijk van een wijn.
-Gemuscleerd en diep.
+* Auksinis: Oude wijnstokken nog steeds op dezelfde bodem zoals de 2 voorgaande wijnen. 50% botrytis. Vinificatie zonder sulfiet, 24 maanden élevage op het gistdroesem. Een dijk van een wijn.
+Gemuscleerd, romig en diep.
 * Auksinis Macération: Identiek dezelfde beginmaterie dan de klassieke Auksinis doch met schilmaceratie. Apart doch zeer boeiend en het blijft elegant.
 * Saulétas: Oude wijnstokken aangeplant op "calcaire Portlandien". Vinificatie is identiek aan de voorgaande wijn. Het profiel is fijnder, eleganter, kruidiger.
 * Skeveldra: Oude stokken aangeplant op silexbodem. (Les Caillottes) Ook hier is de vinificatie identiek. De wijn is echter zeer mineraal, gespierd, doortimmerd. 
