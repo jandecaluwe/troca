@@ -23,7 +23,7 @@ wijnen:
     - naam: Dulcinée'12 (50cl)
       ref:   
       app:  Moût partiellement fermenté
-      type: Blanc liquoreaux
+      type: Blanc liquoreux
       cep:  Colombard
       prijs: 20.00€
       
