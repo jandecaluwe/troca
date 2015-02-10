@@ -6,12 +6,12 @@ photo: romero.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: 
+    - naam: La Cuvée 100 Noms'12 
       ref:   
-      app:  
-      type: 
-      cep:   
-      prijs: 
+      app:  Vin de France
+      type: Blanc sec
+      cep:  Colombard/Ugni blanc
+      prijs: 7.95€
     
     - naam: 
       ref:   
