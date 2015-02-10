@@ -78,7 +78,7 @@ wijnen:
       ref:   Loi 1137
       app:   A.O.C. Cheverny
       type:  Rouge
-      cep:   Pinot noir/Gamay
+      cep:   Cabernet franc
       prijs: €11.50
       
     - naam:  La Pierre aux Chiens’09
@@ -87,7 +87,7 @@ wijnen:
       type:  rood
       cep:   Pinot noir
       prijs: €12.00
-      opm: De laatste flessen/Les dernières
+      opm:   De laatste flessen/Les dernières
 
     - naam:  La Pierre aux Chiens’11
       ref:   Loi 1142

@@ -33,13 +33,6 @@ wijnen:
       cep:   Cabernet franc
       prijs: 13.38€
       
-    - naam:  La Familia'11
-      ref:   Loi 1161
-      app:   A.O.C. Chinon
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: 11.85€
-      
     - naam:  La Familia'12
       ref:   
       app:   A.O.C. Chinon
