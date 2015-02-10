@@ -15,7 +15,7 @@ wijnen:
       cep:   Chardonnay
       prijs: €11.40
 
-     -naam:  Terroir du Bry Tradition'11
+    - naam:  Terroir du Bry Tradition'11
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé
