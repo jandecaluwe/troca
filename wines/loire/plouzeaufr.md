@@ -13,6 +13,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €9.38
+      opm:   the last bottles
       
     - naam:  Le Chenin de La Colline'12
       ref:   
@@ -27,13 +28,6 @@ wijnen:
       type:  Rosé sec
       cep:   Cabernet franc
       prijs: €8.65
-      
-    - naam:  Le Rouge des Cornus'12
-      ref:   
-      app:   A.O.C. Touraine
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: €9.38
       
     - naam:  Gamay sans Tralala'13
       ref:  
