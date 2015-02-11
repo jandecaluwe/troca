@@ -15,7 +15,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €14.90
-      opm:   Calcaire Kimméridgien
+      opm:   Calcaire Portlandien
       
     - naam:  Akmèniné'11
       ref:   Loi 11--
@@ -23,7 +23,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €16.73
-      opm:   Calcaire Kimméridgien
+      opm:   Calcaire Portlandien
       
     - naam:  Auksinis'10
       ref:   Loi 10--
@@ -31,7 +31,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €22.95
-      opm:   Calcaire Kimméridgien
+      opm:   Calcaire Portlandien
       
     - naam:  Auksinis Macération '12
       ref:   Loi 11--
@@ -39,7 +39,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €22.95
-      opm:   Calcaire Kimméridgien
+      opm:   Calcaire Portlandien
       
     - naam:  Saulétas'10
       ref:   Loi 1183
@@ -47,7 +47,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €22.95
-      opm:   Calcaire Portlandien
+      opm:   Calcaire Kimméridjien
       
     - naam:  Skeveldra'10
       ref:   Loi 1085
@@ -77,14 +77,14 @@ De expressie van dit soort Sancerre is totaal verschillend vergeleken met de kla
 
 De wijnen:
 ----------
-* Les Quarterons: relatief jonge stokken van gemiddeld 25 jaar aangeplant op "calcaire kimméridgien" ondergrond. Botrytis: ong.15%. Dit is de cuvée die het meest doet denken aan een 
+* Les Quarterons: relatief jonge stokken van gemiddeld 25 jaar aangeplant op "calcaire Portlandien" ondergrond. Botrytis: ong.15%. Dit is de cuvée die het meest doet denken aan een 
 "klassieke" maar zeer goede Sancerre.
 * Akmèniné: selectie uit dezelfde jonge stokken dan "Les Quarterons", alleen hier wordt er later geoogst, is er meer botrytis en wordt er gevinifieerd en gebotteld zonder sulfiet.
 De expressie is totaal verschillend, vrijer, ronder, doch nog steeds een bepaald mineraal gedrag. Grandioos.
 * Auksinis: Oude wijnstokken nog steeds op dezelfde bodem zoals de 2 voorgaande wijnen. 50% botrytis. Vinificatie zonder sulfiet, 24 maanden élevage op het gistdroesem. Een dijk van een wijn.
 Gemuscleerd, romig en diep.
 * Auksinis Macération: Identiek dezelfde beginmaterie dan de klassieke Auksinis doch met schilmaceratie. Apart doch zeer boeiend en het blijft elegant.
-* Saulétas: Oude wijnstokken aangeplant op "calcaire Portlandien". Vinificatie is identiek aan de voorgaande wijn. Het profiel is fijnder, eleganter, kruidiger.
+* Saulétas: Oude wijnstokken aangeplant op "calcaire Kimméridjien". Vinificatie is identiek aan de voorgaande wijn. Het profiel is fijnder, eleganter, kruidiger.
 * Skeveldra: Oude stokken aangeplant op silexbodem. (Les Caillottes) Ook hier is de vinificatie identiek. De wijn is echter zeer mineraal, gespierd, doortimmerd. 
 
 Dit alles zijn echt grote wijnen ...
