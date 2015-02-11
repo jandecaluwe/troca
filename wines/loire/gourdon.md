@@ -41,7 +41,7 @@ wijnen:
       type:  Blanc sec
       cep:   Chenin blanc
       prijs: €12.95
-      opm:   Calcaire Turonien
+      opm:   Calcaire Turonien 
     
     - naam:  Les Amandiers'10
       ref:   
@@ -80,4 +80,4 @@ wijnen:
       cep:   Chenin blanc
       prijs: €12.95
 ---
-Philippe et Françoise Gourdon  
+Philippe et Françoise Gourdon 
