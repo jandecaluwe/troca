@@ -2,6 +2,7 @@
 title: Loire
 content: 
     - auge
+    - bobinet
     - boisard
     - caille
     - carroget
