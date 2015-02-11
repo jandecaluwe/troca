@@ -16,4 +16,4 @@ wijnen:
     
     
 ---
-Sébastien Bobinet
+Sébastien Bobinet is een klasbak. Hier heb je uitermate mooie en finesserijke Cabernet franc. Delicaat, elegant en fijn. Zonder meer woorden ...
