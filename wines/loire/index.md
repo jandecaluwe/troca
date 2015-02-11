@@ -9,6 +9,7 @@ content:
     - carsin
     - gaubicher
     - gillet
+    - gourdon
     - pibaleau
     - plouzeau
     - plouzeaufr
