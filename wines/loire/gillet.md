@@ -11,16 +11,23 @@ wijnen:
       app:   Vin de France
       type:  Blanc sec
       cep:   Sauvignon blanc 
-      prijs: 
-      opm:   Februari 2015/Frévrier 2015
-      
+      prijs: €13.49
+    
     - naam:  Uccello
       ref:   
       app:   Vin de France
       type:  Pétillant naturel
       cep:   Chardonnay
       prijs: €16.25
-      Opm:   Slechts enkele flessen/Les dernières
+      Opm:   the last bottles
+      
+    - naam:  Les Maisons Bullées'14
+      ref:   
+      app:   Vin de France
+      type:  Pétillant naturel
+      cep:   Gamay
+      prijs: €16.25
+      Opm:   the last bottles
     
     - naam:  Le Dernier Né'13
       ref:   Loi 0821
@@ -29,19 +36,20 @@ wijnen:
       cep:   Pineau d'Aunis/Gamay
       prijs: €12.95
        
+    - naam:  Erèbe'13
+      ref:   Loi 0821
+      app:   Vin de France
+      type:  Rouge
+      cep:   50%Côt/50%Cabernet franc
+      prijs: €13.49
+    
     - naam:  R2L'O '13
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   40% Pinot noir/40% Gamay/20% Pineau d'Aunis
       prijs: €14.47   
-    
-    - naam:  Altérité'13
-      ref:   
-      app:   Vin de France
-      type:  Petillant naturel tendre
-      cep:   Cabernet Sauvignon
-      prijs: €15.50  
+     
     
 ---
 Paul en Sandrine Gillet (rechts op de foto), een mooi koppel afkomstig uit Mulhouse (Haut-Rhin), hebben zich recent bekeerd tot de natuurwijnbouw.
@@ -58,4 +66,12 @@ De filosofie blijft intact. Biodynamische wijnbouw avant la lettre en verder in 
 Uiteraard zijn er kleine verschillen. Enkele andere cuvée's, l'Art de L'eau wordt terug Herdeleau, een monocépagewijn etc.
 Gillet waakt wel over 'zijn' juiste extractie. Iets minder dan Michel Augé misschien?!
 
-Veel veel belovend! Dat is zeker ...    
+Veel veel belovend! Dat is zeker ...  
+
+De wijnen:
+----------
+* Silènes'13: Sauvignon blanc van 25 jaar oude wijnstokken. Elevage gedurende 13 maanden in fouders en barrique. De wijn is loepzuiver, rechtlijnig. Het is een zeer natuurlijke stijl.
+* Ucello en Les Maisons Bullées: Pétillant naturel, dus één enkele gisting met CO2 tot gevolg. Fijne pareling, bijzonder fruitig en complex.
+* Le Dernier Né'13: Assemblage van Pineau d'Aunis en Gamay. Bijzonder fruitige en kruidige wijn. Drinkplezier à volonté ...
+* Erèbe'13: Gelijke delen Cabernet franc en Côt. Wijn zonder toegevoegd sulfiet op het krokante fruit. Sappig en lekker.
+* R2L'O'13: Het magische mengsel van Pinot noir/Gamay en Pineau d'Aunis zorgt voor een zeer geslaagde blend waar elegantie en subtiel fruit de hoofdviool spelen. Lekker Lekker!   
