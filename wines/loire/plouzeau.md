@@ -7,19 +7,20 @@ photo: plouzeau.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Les Devants'11
+    - naam:  Les Devants'14
       ref:   
       app:   A.O.C. Touraine
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €7.55
+      prijs: 
+      opm:   April 2015
       
-    - naam:  Le Chenin'10
+    - naam:  Le Chenin'12
       ref:   
       app:   A.O.C. Touraine
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €9.07
+      prijs: €9.28
       
     - naam:  Rive Gauche'12
       ref:   
@@ -34,6 +35,7 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc
       prijs: €4.06
+      opm:   the last bottles
       
     - naam:  La Chapelle'07
       ref:   
@@ -41,6 +43,7 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc
       prijs: €11.30
+      opm:   the last bottles
       
       
       
