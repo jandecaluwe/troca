@@ -71,7 +71,7 @@ Veel veel belovend! Dat is zeker ...
 De wijnen:
 ----------
 * Silènes'13: Sauvignon blanc van 25 jaar oude wijnstokken. Elevage gedurende 13 maanden in fouders en barrique. De wijn is loepzuiver, rechtlijnig. Het is een zeer natuurlijke stijl.
-* Ucello en Les Maisons Bullées: Pétillant naturel, dus één enkele gisting met CO2 tot gevolg. Fijne pareling, bijzonder fruitig en complex.
+* Uccello en Les Maisons Bullées: Pétillant naturel, dus één enkele gisting met CO2 tot gevolg. Fijne pareling, bijzonder fruitig en complex.
 * Le Dernier Né'13: Assemblage van Pineau d'Aunis en Gamay. Bijzonder fruitige en kruidige wijn. Drinkplezier à volonté ...
 * Erèbe'13: Gelijke delen Cabernet franc en Côt. Wijn zonder toegevoegd sulfiet op het krokante fruit. Sappig en lekker.
 * R2L'O'13: Het magische mengsel van Pinot noir/Gamay en Pineau d'Aunis zorgt voor een zeer geslaagde blend waar elegantie en subtiel fruit de hoofdviool spelen. Lekker Lekker!   
