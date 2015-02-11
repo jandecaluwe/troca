@@ -2,6 +2,7 @@
 title: Loire
 content: 
     - auge
+    - boisard
     - caille
     - carroget
     - carsin
