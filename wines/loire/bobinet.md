@@ -1,7 +1,7 @@
 ﻿---
 title: Sébastien Bobinet
 huis: Dom. Bobinet
-regio: A.O.C. Saumur Champigny
+regio: A.O.C. Saumur-Champigny
 photo: bobinet.jpg
 layout: wijnhuis
 
