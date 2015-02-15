@@ -47,7 +47,7 @@ Verder wensen wij er nog bij te vertellen dat een goed gemaakte natuurwijn vrij 
 Het bewijs hiervan ligt veelvuldig in onze privékelder.
 
 Helaas echter ... zijn niet alle natuurwijnen lekker. 
-Het kaf van het koren scheiden dus ...
+Het kaf van het koren scheiden dus!
 
 
 
