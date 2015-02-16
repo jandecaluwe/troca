@@ -6,55 +6,42 @@ photo: hausherr.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: 
+    - naam: Cuvée "Aussitôt Bue" '12
       ref:   
-      app:  
-      cep:
-      prijs: 
+      app:  A.O.C. Alsace
+      type: Blanc sec
+      cep:  40% Auxerrois/40% Sylvaner/20% Pinot gris
+      prijs: €10.93
     
-    - naam: 
+    - naam:  Cuvée "Aussitôt Bue" '13
       ref:   
-      app:  
-      type: 
-      cep:  
-      prijs: 
+      app:  A.O.C. Alsace
+      type: Blanc sec
+      cep:  40% Auxerrois/40% Sylvaner/20% Pinot gris
+      prijs: €10.93 
     
-    - naam: 
+    - naam:  Lieu-dit "Sungass" '11
       ref:   
-      app:  
-      type: 
-      cep:  
-      prijs: 
+      app:  A.O.C. Alsace
+      type: Blanc sec
+      cep:  78% Riesling/22% Pinot gris
+      prijs: €13.00
       
-    - naam: 
+    - naam:  Cuvée "Sui Generis" '12
       ref:   
-      app:   
-      type: 
-      cep:   
-      prijs:
-      opm:   
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   Gewurztraminer
+      prijs: €13.57
+        
       
-    - naam:  
+    - naam:  Cuvée "La Colline Céleste" '12
       ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
+      app:   A.O.C. Alsace
+      type:  Blanc sec
+      cep:   72% Gewurztraminer/17% Riesling/11% Pinot gris
+      prijs: €15.06
       
-    - naam:   
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
-      opm:   
-      
-    - naam:  
-      ref:   
-      app:   
-      type:  
-      cep:   
-      prijs: 
     
 ---
 Hubert en Heidi Hausherr,
