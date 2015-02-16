@@ -55,7 +55,7 @@ wijnen:
       type:  Blanc sec
       cep:   Sauvignon blanc
       prijs: €22.95
-      opm:   Les Caillottes (Silex)
+      opm:   Argile à Silex
     
 
 ---
@@ -85,7 +85,7 @@ De expressie is totaal verschillend, vrijer, ronder, doch nog steeds een bepaald
 Gemuscleerd, romig en diep.
 * Auksinis Macération: Identiek dezelfde beginmaterie dan de klassieke Auksinis doch met schilmaceratie. Apart doch zeer boeiend en het blijft elegant.
 * Saulétas: Oude wijnstokken aangeplant op "calcaire Kimméridjien". Vinificatie is identiek aan de voorgaande wijn. Het profiel is fijnder, eleganter, kruidiger.
-* Skeveldra: Oude stokken aangeplant op silexbodem. (Les Caillottes) Ook hier is de vinificatie identiek. De wijn is echter zeer mineraal, gespierd, doortimmerd. 
+* Skeveldra: Oude stokken aangeplant op silexbodem. Ook hier is de vinificatie identiek. De wijn is echter zeer mineraal, gespierd, doortimmerd. 
 
 Dit alles zijn echt grote wijnen ...
            
