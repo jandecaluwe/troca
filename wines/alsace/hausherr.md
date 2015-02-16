@@ -53,7 +53,7 @@ Mijn onwetendheid over biodynamie deed me twijfelen, stelt Hubert Hausherr. Vand
 
 Dom. Hausherr bewerkt een relatief kleine wijngaard van ong. 4 ha. Labourages (grondbewerking) gebeuren met het trekpaard.
 Geen herbicides noch pesticides worden (uiteraard) gehanteerd. Enkel zwavel/koper tegen meeldauw en oidium worden gebruikt in zeer beperkte mate.
-Deze wijnbouwer uit de jonge lichting zweert bij vinifiëren van verschillende druiven komende uit "coplantationwijngaarden" eigen aan oude gewoontes uit Alsace. 
+Deze wijnbouwer uit de jonge lichting zweert bij vinifiëren van verschillende druiven komende uit "coplantation-wijngaarden" eigen aan oude gewoontes uit Alsace. 
 
 De wijnen: 
 ----------
