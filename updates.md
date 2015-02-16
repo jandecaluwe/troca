@@ -19,10 +19,11 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 10/02/15 Loire-Sébastien Riffault
 * 10/02/15 Sud-Ouest-Floréal Romero
 * 11/02/15 Loire-Fabien Boisard
-* 11/02/15 Sébastien Bobinet
-* 11/02/15 Philippe et Françoise Gourdon
-* 11/02/15 Paul et Corinne Gillet
+* 11/02/15 Loire-Sébastien Bobinet
+* 11/02/15 Loire-Philippe et Françoise Gourdon
+* 11/02/15 Loire-Paul et Corinne Gillet
 * 15/02/15 Aanvulling op het artikel van Bruno Vanspouwen in DSM van 14/02/15 (Frontpage)
+* 16/02/15 Alsace-Hubert et Heide Hausherr
 
     
   
