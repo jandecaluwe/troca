@@ -7,6 +7,7 @@ content:
     - caille
     - carroget
     - carsin
+    - chanson
     - gaubicher
     - gillet
     - gourdon
