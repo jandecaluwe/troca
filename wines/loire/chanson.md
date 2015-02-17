@@ -1,8 +1,8 @@
 ﻿---
-title: Ludovic Chanson
-huis:  
-regio: A.O.C. Montlouis-sur-Loire
-photo: chanson.jpg
+title:  Ludovic Chanson
+huis:   Dom. Chanson
+regio:  A.O.C. Montlouis-sur-Loire
+photo:  chanson.jpg
 layout: wijnhuis 
 
 wijnen:
