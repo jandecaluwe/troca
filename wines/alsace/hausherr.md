@@ -19,6 +19,7 @@ wijnen:
       type: Blanc sec
       cep:  40% Auxerrois/40% Sylvaner/20% Pinot gris
       prijs: €10.93 
+      opm:   april/avril 2015
     
     - naam:  Lieu-dit "Sungass" '11
       ref:   
@@ -57,7 +58,7 @@ Deze wijnbouwer uit de jonge lichting zweert bij vinifiëren van verschillende d
 
 De wijnen: 
 ----------
-Er wordt 'natuurlijk' gevinifieerd. Geen chaptalisate, fermentaties via autochtone gisten, geen aanzuren of ontzuren, wijnen worden niet gefilterd enz.
+Er wordt 'natuurlijk' gevinifieerd. Geen chaptalisate, fermentaties via autochtone gisten, geen aanzuren of ontzuren, wijnen worden niet gefilterd en weinig of soms geen toevoeging van sulfiet.
 De gistingen lopen tot op het einde met nadien lange élevages op het fijne gistdroesem.
 Het resultaat zijn wijnen die meestal droog en behoorlijk mineraal zijn. Zinderend en complex ...
 
