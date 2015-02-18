@@ -2,6 +2,7 @@
 title: Loire
 content: 
     - auge
+    - bellanger
     - bobinet
     - boisard
     - caille
