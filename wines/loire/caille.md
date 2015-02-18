@@ -35,22 +35,6 @@ wijnen:
       type: Blanc sec
       cep:  Melon de Bourgogne 
       prijs: 7.51€
-      
-    - naam: Clos de La Févrie'10
-      ref:   
-      app:  A.O.C. Muscadet de Sèvre et Maine 
-      type: Blanc sec
-      cep:  Melon de Bourgogne 
-      prijs: 8.34€
-      opm:   the last bottles
-      
-    - naam:  Clos de La Févrie'12
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 9.80€
-      opm:   the last bottles
      
     - naam:  Clos de La Févrie'13
       ref:   
@@ -58,15 +42,6 @@ wijnen:
       type:  Blanc sec
       cep:   Melon de Bourgogne
       prijs: 9.91€
-      opm: 
-      
-    - naam:  Muscadet Vieilles Vignes'09 
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 8.34€
-      opm:   The last bottles
      
     - naam:  Muscadet Vieilles Vignes'09 
       ref:   
