@@ -1,6 +1,6 @@
 ---
 title: Sud-Ouest 
 content: 
-    - Roméro
+    - romero
 layout: wijnbouwer_index
 ---
