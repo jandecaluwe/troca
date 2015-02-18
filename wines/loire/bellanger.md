@@ -13,11 +13,11 @@ wijnen:
       cep:  Sauvignon blanc
       prijs: €9.71
     
-    - naam: Monthou Rouge'14
+    - naam: Mon Tout Rouge'14
       ref:   
       app:  A.O.C. Touraine
       type: Rouge
-      cep:  60% Côt/40% Gamay
+      cep:  60% Côt/40% Gamay à Jus Blanc
       prijs: €9.71
       
     - naam: Gamay'13
@@ -29,12 +29,12 @@ wijnen:
     
     - naam: Pineau d'Aunis'13
       ref:   
-      app:  A.O.C. Touraine
+      app:  Vin de France
       type: Rouge
       cep:  Pineau d'Aunis
       prijs: €12.75
       
-    - naam: Touchronde'12
+    - naam: Toucheronde'12
       ref:   
       app:  A.O.C. Touraine
       type: Rouge
