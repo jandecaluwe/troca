@@ -49,7 +49,7 @@ wijnen:
       type:  Blanc sec
       cep:   Melon de Bourgogne
       prijs: 8.75€
-      opm:   The last bottles
+      opm:   the last bottles
     
     - naam:  Monnières-Saint Fiacre'10
       ref:   
