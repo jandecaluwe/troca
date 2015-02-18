@@ -22,7 +22,7 @@ wijnen:
     
     - naam: Les Pions'13
       ref:   
-      app:  A.O.C Montlouis
+      app:  A.O.C. Montlouis
       type: Pétillant Naturel
       cep:  Chenin blanc
       prijs: €13.98
