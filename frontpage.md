@@ -25,11 +25,16 @@ Ons bezoeken op zaterdag:
 * Wees welkom op **zaterdag tss. 14.30u en 18.00u.
 * Tijdens de week bent U welkom na afspraak.
 
-Onze voorjaarsdegustaties:
---------------------------
-Za 28/02 & Zo 01/03
+1e voorjaarsdegustaties hier in Oostnieuwkerke.
+-----------------------------------------------
+Za 28/02 van 13.00u tot 19.00u 
 
-Za 09/05 & Zo 10/05
+Zo 01/03 van 10.00u tot 19.00u
+
+2e voorjaarsdegustatie:
+-----------------------
+
+Za 09/05 & Zo 10/05 as.
 
 
 Onze aanvulling op het artikel "Waarin Verschillen Natuurlijke Wijnen Van Andere" in "De Standaard Magazine" van 14/02/15 jgl.
