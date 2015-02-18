@@ -17,7 +17,7 @@ wijnen:
       ref:   
       app:  Vin de France  
       type: Blanc Sec
-      cep:  Melon de Bourggne
+      cep:  Melon de Bourgogne
       prijs: 7.30€
       opm:  new wine
     

@@ -24,6 +24,8 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 11/02/15 Loire-Paul et Corinne Gillet
 * 15/02/15 Aanvulling op het artikel van Bruno Vanspouwen in DSM van 14/02/15 (Frontpage)
 * 16/02/15 Alsace-Hubert et Heide Hausherr
+* 18/02/15 Loire-Olivier Bellanger
+* 18/02/15 Loire-Ludovic Chanson
 
     
   
