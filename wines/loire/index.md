@@ -6,6 +6,7 @@ content:
     - bobinet
     - boisard
     - caille
+    - careme
     - carroget
     - carsin
     - chanson
