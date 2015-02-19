@@ -34,9 +34,9 @@ Uiteraard hebben deze 2 rivieren een invloed op de wijnbouw hier. De bodem besta
 
 6.5 ha wijngaard waarvan 5ha Chenin blanc en 1.5 ha Sauvignon blanc en Chardonnay.
 
-De wijnen van Ludo Chanson zijn loepzuiver, fruitig, diep en mineraal. Het verkrijgen van dit resultaat is enkel mogelijk door organisch te werken, door aan grondbewerking te doen
-door het ganse jaar door zeer present en attentief te zijn in de wijngaard.
-Dit is eveneens enkel mogelijk door op een zo natuurlijk mogelijke manier te werken. Door bv. niet te chaptaliseren, door niet aan te zuren of te ontzuren, door niet te doperen met overdreven sulfiet.
+De wijnen van Ludo Chanson zijn loepzuiver, fruitig, diep en mineraal. Het verkrijgen van dit resultaat is enkel mogelijk door organisch te werken, door aan grondbewerking te doen,
+door het ganse jaar door omnipresent en attentief te zijn in de wijngaard.
+Dit is eveneens enkel mogelijk door op een zo natuurlijk mogelijke manier te vinifiëren. Door bv. niet te chaptaliseren, door niet aan te zuren of te ontzuren, door niet te doperen met overdreven sulfiet.
 
 Wij zijn echt blij terug een grote Montlouis in ons assortiment te hebben. 
 
