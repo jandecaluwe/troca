@@ -2,6 +2,8 @@
 title: Agenda 
 layout: page
 ---
+   
+* In het kader van onze voorjaarsdegustatie van volgende week, zijn wij op zaterdag 21/02 gesloten. Hopend op begrip!   
 
 1e voorjaarsdegustatie in 2015
 ==============================
