@@ -21,7 +21,8 @@ E: jonas@trocavn.eu
 
 
 Ons bezoeken op zaterdag:
--------------------------   
+-------------------------  
+* In het kader van onze voorjaarsdegustatie van volgende week zijn wij op zaterdag 21/02 gesloten. Hopend op begrip. 
 * Wees welkom op **zaterdag tss. 14.30u en 18.00u.
 * Tijdens de week bent U welkom na afspraak.
 
