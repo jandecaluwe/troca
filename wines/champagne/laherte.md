@@ -10,21 +10,21 @@ wijnen:
       app:   A.O.C. Champagne
       cep:   60%Pinot Meunier/30%Chardonnay/10% Pinot noir
       prijs: €22.25
-      opm:   Millésime: 50%2010/50%2011
+      opm:   "Millésime: 50%2010/50%2011"
 
     - naam:  Blanc des Blancs Brut nature (extra-brut)
       ref:   
       app:   A.O.C. Champagne
       cep:   Chardonnay
       prijs: €30.50
-      opm:   Millésime: 50%2010/50%2011
+      opm:   "Millésime: 50%2010/50%2011"
       
     - naam:  Blanc des Blancs Brut nature (extra-brut)
       ref:   
       app:   A.O.C. Champagne
       cep:   Chardonnay
       prijs: €30.50
-      opm:   Millésime:50%2010/50%2011
+      opm:   "Millésime:50%2010/50%2011"
       
     - naam:  Les Vignes d'Autrefois'10
       ref:   
