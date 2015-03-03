@@ -24,14 +24,24 @@ wijnen:
       app:   D.O.C. Oltrepo Pavese
       type:  Rosso
       cep:   Barbera
-      prijs: 9.80€
+      prijs: 
+      opm:   in catina nostra tra poco
       
-    - naam:  Bonarda'11
+    - naam:  Barbera'12
+      ref:   
+      app:   D.O.C. Oltrepo Pavese
+      type:  Rosso
+      cep:   Barbera
+      prijs: 9.80€
+      opm:   the last bottles
+      
+    - naam:  Bonarda'12
       ref:   
       app:   D.O.C. Oltrepo Pavese
       type:  Rosso
       cep:   Croatina
-      prijs: 9.80€
+      prijs: 
+      opm:   in cantina nostra tra poco
     
     - naam:  Zaffo'06
       ref:   

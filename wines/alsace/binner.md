@@ -51,6 +51,7 @@ wijnen:
       type:  Blanc sec
       cep:   Pinot gris
       prijs: €14.36
+      opm:   the last bottles
       
     - naam:  Pinot gris Cuvée Béatrice'07
       ref:   Als 0710
