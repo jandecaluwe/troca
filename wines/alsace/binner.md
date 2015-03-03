@@ -136,7 +136,7 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Rouge
       cep:   Pinot noir
-      prijs: €37.31
+      prijs: €45.95
       
     - naam:  Blanc des Noirs'07 (37.50cl)
       ref:   Als 0709
