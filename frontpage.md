@@ -26,12 +26,6 @@ Ons bezoeken op zaterdag:
 * Wees welkom op **zaterdag tss. 14.30u en 18.00u.
 * Tijdens de week bent U welkom na afspraak.
 
-1e voorjaarsdegustaties hier in Oostnieuwkerke.
------------------------------------------------
-Za 28/02 van 13.00u tot 19.00u 
-
-Zo 01/03 van 10.00u tot 19.00u
-
 2e voorjaarsdegustatie:
 -----------------------
 
@@ -44,7 +38,7 @@ Eerst en vooral, onze dank aan de recensent om onze naam te citeren als "betrouw
 
 Wij wensen echter er nog bij te vertellen dat natuurwijnen zich vooral "smaaktechnisch" onderscheiden van al de anderen.
 -----------------------------------------
-Deze wijnen voelen "vrijer" aan. Zij zijn meer digest voor het menselijk lichaam. Ze doen verlangen naar "nog en nog" een glas. De dag "nadien" voelt gewoon anders aan.
+Deze wijnen voelen "vrijer" aan. Zij zijn meer digest voor het menselijk lichaam. Ze doen verlangen naar "nog en nog" een glas. De dag "nadien" voelt eveneens anders aan.
 
 Een natuurwijn zou moeten een perfecte weerspiegeling zijn van "wijnwording" van een gezonde en fenolisch rijpe druif geplukt uit haar onaangetaste "eigen" omgeving. 
 De wijnbouwer forceert niets, hij begeleidt enkel naar de meest pure expressie.
