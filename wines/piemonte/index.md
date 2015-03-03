@@ -4,5 +4,6 @@ content:
     - allegri
     - brezza
     - fenocchio
+    - poretti
 layout: wijnbouwer_index
 ---
