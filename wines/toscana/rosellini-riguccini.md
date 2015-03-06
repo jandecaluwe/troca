@@ -17,14 +17,8 @@ wijnen:
       app:   D.O.C. Montecucco Sangiovese
       type:  Rosso
       cep:   Sangiovese
-      prijs: 13.00€
+      prijs: 13.75€
       
-    - naam:  Montecucco Sangiovese Riserva'10
-      ref:   
-      app:   D.O.C. Montecucco Riserva
-      type:  Rosso
-      cep:   Sangiovese
-      prijs: 17.81€
 ---
 Het domein Campi Nuovi bestaat sinds 2000. 2 mensen die elkaar ontmoetten op de schoolbanken in Firenze (agrowetenschappen). 
 Verder leerden ze hier en daar het vak en dit niet bij de minste, o.a. bij Soldera in Montalcino. Campi Nuovi bestrijkt 23 ha waarvan 7 ha wijngaard. 
