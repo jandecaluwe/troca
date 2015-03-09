@@ -26,6 +26,7 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 16/02/15 Alsace-Hubert et Heide Hausherr
 * 18/02/15 Loire-Olivier Bellanger
 * 18/02/15 Loire-Ludovic Chanson
+* 09/03/15 Piemonte-Alessandro Poretti
 
     
   
