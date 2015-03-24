@@ -25,7 +25,7 @@ wijnen:
       type:  Rosso
       cep:   Barbera
       prijs: 
-      opm:   in catina nostra tra poco
+      opm:   da noi tra poco
       
     - naam:  Barbera'12
       ref:   
@@ -41,7 +41,7 @@ wijnen:
       type:  Rosso
       cep:   Croatina
       prijs: 
-      opm:   in cantina nostra tra poco
+      opm:   da noi tra poco
     
     - naam:  Zaffo'06
       ref:   
