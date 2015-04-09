@@ -96,10 +96,10 @@ Nadien heb ik met deze mensen kennis gemaakt en gesymphatiseerd. Ze verzekerden 
 
 Vouette et Sorbée is gelegen in de Côte des Bar, de meest zuidelijke Champagneregio, net ten noorden van Chablis. De 2 voornaamste wijngaarden zijn Vouette (calcaire kimméridgien) en boven op het plateau
 Sorbée (calcaire portlandien). De 5ha zijn voornamelijk aangeplant met Pinot noir en in mindere mate met Chardonnay. 2001 was effectief hun 1e jaargang met eigen champagnisatie. 
-De periode hiervoor werden de druiven verkocht aan de grote namen (huizen) uit de regio. 
+Voor die tijd, werden de druiven verkocht door Gautherot's vader aan de grote namen (huizen) uit de regio. 
 
 Even anecdotisch: een wijnbouwer uit de Côte des Blancs vertelde me ooit: " Ce ne sont pas des grandes maisons,
-ce sont plustôt des grosses maisons" :-)
+ce sont plustôt des grosses maisons?!" :-) (grijns)
 
 Terug naar V.et S.: het was niemand minder dan Anselme Sélosse die Gautherot aanspoorde om zelf te champagniseren.
 
