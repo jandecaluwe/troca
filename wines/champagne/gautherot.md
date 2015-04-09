@@ -92,7 +92,7 @@ Koolzuurgas of CO2 laten versmelten in wijn tot een mooi geheel, zonder dat het 
 Dank je nog steeds, beste Jan! Wij herinneren ons deze fles Fidèle'01 nog zeer goed die zondagvoormiddag bij het openen. Een half uur later was de fles leeg.
 
 En of het toeval het wilde, enkele weken later stootte ik zowaar Bertrand Gautherot op het lijf ergens op een wijnbeurs in het Loiredal. Er stond niemand meer achter de tafel, de Champagne was helaas op.
-Nadien heb ik met deze mensen kennis gemaakt. Ze verzekerden mij dat wij de 1e flessen mochten kopen.
+Nadien heb ik met deze mensen kennis gemaakt en gesymphatiseerd. Ze verzekerden mij dat wij de 1e flessen "Fidèle'02" mochten kopen. 
 
 Vouette et Sorbée is gelegen in de Côte des Bar, de meest zuidelijke Champagneregio, net ten noorden van Chablis. De 2 voornaamste wijngaarden zijn Vouette (calcaire kimméridgien) en boven op het plateau
 Sorbée (calcaire portlandien). De 5ha zijn voornamelijk aangeplant met Pinot noir en in mindere mate met Chardonnay. 2001 was effectief hun 1e jaargang met eigen champagnisatie. 
