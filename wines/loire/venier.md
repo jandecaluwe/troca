@@ -49,7 +49,7 @@ wijnen:
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir/Gamay
-      prijs: €10.50
+      prijs: €11.50
       opm:   De laatste flessen/Les dernières
 
     - naam:  Le Clos des Carteries’10
@@ -57,7 +57,7 @@ wijnen:
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir/Gamay
-      prijs: €10.50
+      prijs: €11.50
       opm:   De laatste flessen/Les dernières
     
     - naam:  Le Clos des Carteries’11
@@ -86,7 +86,7 @@ wijnen:
       app:   Vin de France
       type:  rood
       cep:   Pinot noir
-      prijs: €12.00
+      prijs: €12.95
       opm:   De laatste flessen/Les dernières
 
     - naam:  La Pierre aux Chiens’11
@@ -94,7 +94,7 @@ wijnen:
       app:   Vin de France
       type:  rood
       cep:   Pinot noir
-      prijs: €12.00
+      prijs: €12.95
       
 ---
 Loir et Cher
