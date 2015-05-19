@@ -114,5 +114,5 @@ De wijnen van Hélène en Bertrand Gautherot zijn ondertussen wereldwijd zeer ge
 De wijnen:
 ----------
 * Fidèle: 100% Pinot noir. Een assemblage van wijngaard Vouette en wijngaard Sorbée. Wijn met veel karakter, altijd gemillésimeerd. Behoorlijk mineraal en doortimmerd. Indrukwekkende wijn!
-* Blanc d'Argile: 100% Chardonnay. Wijn met veel 'ampleur', rassig fris en tegelijkertijd romig en rijp. Zinderend en Mineraal. Grandioos ...
+* Blanc d'Argile: 100% Chardonnay. Wijn met veel 'ampleur', rassig fris en tegelijkertijd romig en rijp. Zinderend en mineraal. Grandioos ...
 
