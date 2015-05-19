@@ -18,11 +18,6 @@ E: jonas@trocavn.eu
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
 
-2e voorjaarsdegustatie:
-=======================
-
-Za 09/05 & Zo 10/05 as.
-
 
 Ons bezoeken op zaterdag:
 =========================  
