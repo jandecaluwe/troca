@@ -28,6 +28,7 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 18/02/15 Loire-Ludovic Chanson
 * 09/03/15 Piemonte-Alessandro Poretti
 * 09/04/15 Champagne-Bertrand Gautherot
+* 28/05/15 Auvergne-Jean Maupertuis
 
     
   
