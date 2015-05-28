@@ -57,8 +57,8 @@ Lieflijk, elegant, fijn, vriendelijk. Toch nog even dit: deze wijnen ouderen zee
 
 De wijnen:
 ----------
-* Pink Bulles'14: een zeer elegante pétillant naturel (1 enkele gisting dus met CO2), vin gris, kurk droog en zo lekker fris ...
-* Puy Long'14: Chardonnay, zeer recent gebotteld. Fluwele wijn, gemoedelijk en reeds zeer goed proevend. Vinificatie en opvoeding in oude Bourgogne-vaten. Geen enkele zweem van houtindruk.
+* Pink Bulles'14: 0.9ha kalk en klei. Gamay d'Auvergne/Gamay Beaujolais/Gamay teinturier en Mirefleurien. Deze laatste is een autochtone druif. Pink Bulles is een zeer elegante pétillant naturel (1 enkele gisting dus met CO2), vin gris, kurk droog en zo lekker fris ...
+* Puy Long'14: 0.25ha kalk en graniet. Chardonnay, zeer recent gebotteld. Fluwele wijn, gemoedelijk en reeds zeer goed proevend. Vinificatie en opvoeding in oude Bourgogne-vaten. Geen enkele zweem van houtindruk.
 * Les Pierres Noires'14: 1.3ha Gamay d'Auvergne op vulcanische bodem. Wijn met een behoorlijk mineraal gedrag en schitterend potentieel om te verouderen.
 * La Plage'14: 1.5ha galets sur sable blanc. Gamay d'Auvergne met veel rondeur en kruidigheid. Prachtige wijn ...
 * Neyrou'14: 1.5ha galets sur sable. Pinot noir met een onwaarschijnlijke elegantie. Het rendement was zeer laag in 2014. Niet veel wijn dus, maar oh zo lekker! 
