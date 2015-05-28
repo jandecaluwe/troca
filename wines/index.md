@@ -3,6 +3,7 @@ title: Wines
 layout: streek_index
 content:
     - alsace
+    - auvergne
     - bourgogne
     - champagne
     - languedoc
