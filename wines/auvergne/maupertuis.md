@@ -50,7 +50,7 @@ U moet weten dat Lapierre op zijn beurt het vak leerde met betrekking tot het ma
 
 Het is ergens in het begin van de jaren 2000 dat wij Jean Maupertuis voor het eerst ontmoetten op een wijnhappening. Hij had in die tijd naast zijn eigen wijnbedrijfje een 2e 
 structuur opgericht samen met enkele vennoten, dit voor vinificatie van aangekochte druiven. Tot op vandaag klinkt dit "Dom. du Peyra" nog zeer bekend in de oren van menig liefhebber van natuurwijn.
-In 2006 hield men het hier echter voor bekeken. Vandaag bewerkt hij zijn 5.5ha kranig verder en wordt hij in het "wereldje" zeer gerespecteerd. 
+In 2006 hield men het hier echter voor bekeken. Vandaag bewerkt hij zijn eigen 5.5ha kranig verder en wordt hij in het "wereldje" zeer gerespecteerd. 
 
 Iets over de persoon: ik denk niet dat deze man 1 vijand heeft. Dit is een onwaarschijnlijk brave en lieve vent. De wijnen zijn uit hetzelfde hout gesneden.
 Lieflijk, elegant, fijn, vriendelijk. Toch nog even dit: deze wijnen ouderen zeer zeer goed. 2005 staat er vandaag nog steeds ... zo groot en stevig als een huis!
