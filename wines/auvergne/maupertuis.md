@@ -43,6 +43,7 @@ wijnen:
       prijs: €12.75
 ---
 28 mei 2015
+
 Jean Maupertuis, Auvergnat in hart en nieren, komt uit het département Puy de Dôme. Jean is een gewezen ITer en verliet deze business in 1995 om wijnbouwer te worden.
 Voorheen schoolde hij zich reeds bij in de Beaujolaisstreek en vertoefde hij vaak in de kelder van wijlen Marcel Lapierre in Morgon Villié.
 U moet weten dat Lapierre op zijn beurt het vak leerde met betrekking tot het maken van natuurwijn bij wijlen Jules Chauvet. 
