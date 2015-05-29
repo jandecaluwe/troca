@@ -13,6 +13,7 @@ wijnen:
       type: Blanc sec 
       cep:  Chardonnay 
       prijs: €8.34
+      opm: sans soufre
       
     - naam: Carignan'14
       ref:   
@@ -20,6 +21,7 @@ wijnen:
       type: Rouge
       cep:  Carignan
       prijs: €8.34
+      opm: sans soufre
    
     - naam:  Grenache'14
       ref:   
@@ -27,6 +29,7 @@ wijnen:
       type:  Rouge
       cep:   Grenache noir
       prijs: €8.34
+      opm: sans soufre
 ---
 29 mei 2015
 
