@@ -1,6 +1,6 @@
 ---
 title: Ardeche
 content: 
-    - robert & pradal
+    - robert et pradal
 layout: wijnbouwer_index
 ---
