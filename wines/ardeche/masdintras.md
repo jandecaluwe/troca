@@ -1,5 +1,5 @@
 ﻿---
-title: Denis Robert & Sébastien Pradal
+title: Denis Robert et Sébastien Pradal
 huis:  Mas d'Intras
 dept:  Ardeche
 regio: Ardeche

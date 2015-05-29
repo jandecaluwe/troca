@@ -1,6 +1,6 @@
 ---
 title: Ardeche
 content: 
-    - mas d'intras
+    - robert & pradal
 layout: wijnbouwer_index
 ---
