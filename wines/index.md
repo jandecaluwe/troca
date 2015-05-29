@@ -3,6 +3,7 @@ title: Wines
 layout: streek_index
 content:
     - alsace
+    - ardeche
     - auvergne
     - bourgogne
     - champagne
