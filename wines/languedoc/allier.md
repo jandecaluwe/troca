@@ -6,12 +6,27 @@ photo: allier.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Cacous'11
+    
+    - naam:  Jeu de Bulles'14
+      ref:    
+      app:   Vin de France 
+      type:  Pétillant (Frizzante)
+      cep:   Chasselas
+      prijs: €12.62
+    
+    - naam:  Galéjade Rosé
+      ref:    
+      app:   Vin de France 
+      type:  Rosé (pressurage direct)
+      cep:   Cinsault/Grenache
+      prijs: €10.45
+      
+    - naam:  Cacous'14
       ref:   
       app:   Vin de France 
       type:  Rouge
       cep:   60% Syrah/40% Grenache
-      prijs: €10.43
+      prijs: €10.45
       
     - naam:  Pitchounet'10
       ref:    
@@ -20,12 +35,13 @@ wijnen:
       cep:   90% Cinsault/10% Grenache
       prijs: €10.00
       
-    - naam:  Tracassier'11
-      ref:   
+    - naam:  Pitchounet'14
+      ref:    
       app:   Vin de France 
       type:  Rouge
-      cep:   Grenache
-      prijs: €11.50
+      cep:   90% Cinsault/10% Grenache
+      prijs: €10.45
+      
 ---
 Uitleg over de wijnbouwer ...
 
