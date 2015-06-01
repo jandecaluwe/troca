@@ -88,19 +88,12 @@ wijnen:
       cep:   Auxerrois
       prijs: €31.50
 
-    - naam:  Crémant d'Alsace'12 (extra brut)
+    - naam:  Crémant d'Alsace KB'08 (extra brut)
       ref:   Als 12--
       app:   A.O.C. Alsace
       type:  Méthode traditionelle
-      cep:   Riesling
-      prijs: €15.95
-      
-    - naam:  Katz' en Bulles Pinot gris'09 (sans soufre)
-      ref:   Als 0903
-      app:   Vin de France
-      type:  Pétillant naturel (méthode ancestrale)
-      cep:   Pinot gris
-      prijs: €14.56
+      cep:   Riesling, Pinot gris
+      prijs: €19.52
       
     - naam:  Pinot noir'08
       ref:   Als 0803
