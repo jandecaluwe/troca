@@ -43,5 +43,7 @@ wijnen:
       prijs: €10.45
       
 ---
-Uitleg over de wijnbouwer ...
+1 juni 2015
+
+
 
