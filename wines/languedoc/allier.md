@@ -10,11 +10,11 @@ wijnen:
     - naam:  Jeu de Bulles'14
       ref:    
       app:   Vin de France 
-      type:  Pétillant (Frizzante)
-      cep:   Chasselas
+      type:  Pétillant (frizzante)
+      cep:   80% Chasselas/20% Grenache noir
       prijs: €12.62
     
-    - naam:  Galéjade Rosé
+    - naam:  Galéjade Rosé'14
       ref:    
       app:   Vin de France 
       type:  Rosé (pressurage direct)
