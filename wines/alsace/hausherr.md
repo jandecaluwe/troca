@@ -56,8 +56,7 @@ Er wordt 'natuurlijk' gevinifieerd. Geen chaptalisate, fermentaties via autochto
 De gistingen lopen tot op het einde met nadien lange élevages op het fijne gistdroesem.
 Het resultaat zijn wijnen die meestal droog en behoorlijk mineraal zijn. Zinderend en complex ...
 
-* Cuvée Aussitôt Bue'12: droge licht oxidatieve wijn. Een klapper als je ziet wat het maar kost!
-* Cuvée Aussitôt Bue'13: geen spoor van oxidatie, sappig en mineraal. Top voor zijn prijs!
+* Cuvée Aussitôt Bue'13: Coplantatie, assemblage van 3 cépages, sappig en mineraal. Top voor zijn prijs!
 * Lieu-dit "Sungass" '11: Riesling geassembleerd met wat Pinot gris op grijze mergel. Zeer minerale wijn, strak en complex lang. Zou dit een terroirwijn zijn?
 * Cuvée "Sui Generis" '12: Een dijk van een droge Gewurz ... ellenlang, diep en complex. Een grote witte wijn, tout court! 10mg SO2 net voor het bottelen, zeer weinig dus!
 * Cuvée "La Colline Céleste" '12: Een geweldige assemblage van Gewurz, Riesling en Pinot gris, zinderend lang, "ample", filmend in de mond, verrukkelijk! Geen toevoeging van SO2.
