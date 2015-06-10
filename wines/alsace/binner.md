@@ -81,7 +81,7 @@ wijnen:
       cep:   Gewurztraminer
       prijs: €14.87
    
-   - naam:  Auxerrois Hinterberg'08
+    - naam:  Auxerrois Hinterberg'08
       ref:   Als 0807
       app:   A.O.C. Alsace
       type:  Blanc sec (sans soufre)
