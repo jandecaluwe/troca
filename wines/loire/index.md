@@ -10,6 +10,7 @@ content:
     - carroget
     - carsin
     - chanson
+    - chene
     - gaubicher
     - gillet
     - gourdon
