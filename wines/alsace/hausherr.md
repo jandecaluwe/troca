@@ -6,12 +6,6 @@ photo: hausherr.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: Cuvée "Aussitôt Bue" '12
-      ref:   
-      app:  A.O.C. Alsace
-      type: Blanc sec
-      cep:  40% Auxerrois/40% Sylvaner/20% Pinot gris
-      prijs: €10.93
     
     - naam:  Cuvée "Aussitôt Bue" '13
       ref:   

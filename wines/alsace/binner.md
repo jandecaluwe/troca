@@ -73,8 +73,15 @@ wijnen:
       type:  Blanc sec tendre
       cep:   Gewurztraminer
       prijs: €18.60
-      
-    - naam:  Auxerrois Hinterberg'08
+    
+    - naam:  Gewurztraminer non-filtré, non-sulfité'12
+      ref:   
+      app:   A.O.C. Alsace
+      type:  Blanc sec 
+      cep:   Gewurztraminer
+      prijs: €14.87
+   
+   - naam:  Auxerrois Hinterberg'08
       ref:   Als 0807
       app:   A.O.C. Alsace
       type:  Blanc sec (sans soufre)
