@@ -21,7 +21,7 @@ E: jonas@trocavn.eu
 
 Ons bezoeken op zaterdag:
 =========================  
-
+* Wij zijn gesloten op zaterdag 20/06/15
 * Wees welkom op zaterdag tss. 14.30u en 18.00u.
 * Tijdens de week bent U welkom na afspraak.
 
