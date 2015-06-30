@@ -14,7 +14,7 @@ wijnen:
       cep:   Dolcetto
       prijs: €10.00
 
-    - naam:  Barbera d'Alba'12
+    - naam:  Barbera d'Alba'13
       ref:   
       app:   D.O.C Barbera d'Alba 
       type:  Rosso
@@ -27,6 +27,13 @@ wijnen:
       type:  Rosso
       cep:   Nebbiolo
       prijs: €13.56
+      
+    - naam:  Langhe Nebbiolo'13 
+      ref:   
+      app:   D.O.C. Langhe Nebbiolo 
+      type:  Rosso
+      cep:   Nebbiolo
+      prijs: €13.56 
 
     - naam:  Barolo Villero'09
       ref:   
