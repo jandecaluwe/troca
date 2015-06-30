@@ -21,13 +21,6 @@ wijnen:
       cep:   Barbera 
       prijs: €11.98
       
-    - naam:  Langhe Nebbiolo'12 
-      ref:   
-      app:   D.O.C. Langhe Nebbiolo 
-      type:  Rosso
-      cep:   Nebbiolo
-      prijs: €13.56
-      
     - naam:  Langhe Nebbiolo'13 
       ref:   
       app:   D.O.C. Langhe Nebbiolo 
