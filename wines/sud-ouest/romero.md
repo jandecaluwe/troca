@@ -11,14 +11,14 @@ wijnen:
       app:  Vin de France
       type: Blanc sec
       cep:  Colombard/Ugni blanc
-      prijs: 6.55€
+      prijs: 6.95€
     
-    - naam: Maeva'12
+    - naam: Vaïhana'11
       ref:   
       app:  Vin de France
       type: Blanc sec
       cep:  Colombard
-      prijs: 7.95€
+      prijs: 7.51€
     
     - naam: Dulcinée'12 (50cl)
       ref:   
@@ -43,11 +43,10 @@ de nodige filosofische inval. Prachtige man!
 
 De wijnen:
 ----------
-* "La Cuvée 100 Noms": 60% Colombard/40% Ugni blanc. Bodem: klei/kalk op een sokkel van pure kalksteen. Een mooi potentieel hier in 2012 met pittige aciditeit. 
+* "La Cuvée 100 Noms'12": 60% Colombard/40% Ugni blanc. Bodem: klei/kalk op een sokkel van pure kalksteen. Een mooi potentieel hier in 2012 met pittige aciditeit. 
 Cuvewijn met 1 jaar élevage op het gistdroesem na de malolactaatgisting. Dit is een droge dorstlesser met voldoende sap. De laatst geborene van de hand van Claudine Roméro.
 Doe zo verder Mevrouw :-)
-* "Maeva": 100% Colombard komende van 17 jaar oude wijnstokken. Elevage in cuve na malolactaatgisting gedurende 1 jaar. Deze wijn is smeuig vol. De kleur verraadt de nodige
-structuur. Smaken van rijp geel en tegelijkertijd fris fruit. Uiteraard worden deze wijnen niet gelimiteerd of geblokkeerd door overdreven sulfiet. Weinig sulfiet dus en zo lekker ...
+* "Vaïhana'11": 100% Ugni Blanc. Strakke wijn met brede en smeuïge onderbouw van ruip fruit. Zinderend lang en boeiend over heel de lijn ... tot de fles leeg is! :-)
 *Dulcinée'12: Hier heb je nog eens een liquoreux waar niemand afblijft. Nooit plakkerig of sirooperig, wel fris en mondfilmend. Exotische fruitimpressies zoals mango met de vleet.
 100% Colombard en zo mooi ...
 
