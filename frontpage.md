@@ -18,8 +18,8 @@ E: jonas@trocavn.eu
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
 
-Een avond samen met Sébastien Riffault (A.O.C. Sancerre)
-========================================================
+Een avond rond de eettafel samen met Sébastien Riffault (A.O.C. Sancerre)
+=========================================================================
 Surf naar "agenda"
 ------------------
 
