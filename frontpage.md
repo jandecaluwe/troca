@@ -31,9 +31,9 @@ November
 * Zo 22/11 van 10.00u tot 19.00u
 
 
-Ons bezoeken op zaterdag tijdens de maanden juli en augustus:
-=============================================================  
-* Wij zijn er voor U op zaterdag na afspraak.
+Ons bezoeken:
+============  
+* Geopend tss. 14.30u en 18.00u.
 * Eveneens tijdens de week bent U welkom na afspraak.
 
 
