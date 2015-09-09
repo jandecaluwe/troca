@@ -17,7 +17,8 @@ November
 
 Ons bezoeken:
 -------------
-* Geopend tss. 14.30u en 18.00u.
+* Op zaterdag 12/09 zijn we uitzonderlijk gesloten.
+* Op zaterdag geopend tss. 14.30u en 18.00u.
 * Tijdens de week bent U eveneens welkom na afspraak.
 
 
