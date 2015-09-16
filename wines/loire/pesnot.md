@@ -6,22 +6,11 @@ photo: pesnot.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  La Bohème'13
+    - naam:  La Bohème'14
       ref:   
       app:   Vin de France
       type:  Blanc sec
       cep:   Melon de Bourgogne 
-      prijs: €10.22
-      
-    - naam:  La Bohème'13
-      ref:   
-      app:   Vin de France
-      type:  Blanc sec
-      cep:   Melon de Bourgogne 
-      prijs: €10.95
-      opm:   un élevage bien plus long
-      
-    
-    
+      prijs: €10.80
 ---
 Soon 

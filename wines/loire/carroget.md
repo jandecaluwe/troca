@@ -11,23 +11,7 @@ wijnen:
       app:   A.O.C. Muscadet Coteaux de La Loire
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: €7.29
-       
-    - naam:  Rien que du Melon'13
-      ref:   Loi 0974
-      app:   A.O.C. Muscadet Coteaux de La Loire
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: €11.46
-      opm:   
-    
-    - naam:  Muscadet Sans Soufre'09
-      ref:   Loi 0974
-      app:   A.O.C. Muscadet Coteaux de La Loire
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: €10.78
-      opm:   Last bottles
+      prijs: €7.29   
     
     - naam:  Ca c'est du Groslot'09
       ref:   Loi 0908
