@@ -5,12 +5,12 @@ layout: wijnhuis
 photo: rosellini-riguccini.jpg
 
 wijnen:
-    - naam:  Montecucco Rosso'11
+    - naam:  Montecucco Rosso'12
       ref:   
       app:   D.O.C. Montecucco Rosso
       type:  Rosso
       cep:   70%Sangiovese//30% Cabernet Sauvignon/Merlot
-      prijs: 9.56€
+      prijs: 9.85€
 
     - naam:  Montecucco Sangiovese'11
       ref:   
@@ -18,6 +18,13 @@ wijnen:
       type:  Rosso
       cep:   Sangiovese
       prijs: 13.75€
+      
+    - naam:  Montecucco Sangiovese'12
+      ref:   
+      app:   D.O.C. Montecucco Sangiovese
+      type:  Rosso
+      cep:   Sangiovese
+      prijs: 13.75€  
       
 ---
 Het domein Campi Nuovi bestaat sinds 2000. 2 mensen die elkaar ontmoetten op de schoolbanken in Firenze (agrowetenschappen). 
