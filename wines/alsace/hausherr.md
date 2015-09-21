@@ -13,7 +13,6 @@ wijnen:
       type: Blanc sec
       cep:  40% Auxerrois/40% Sylvaner/20% Pinot gris
       prijs: €10.93 
-      opm:   april/avril 2015
     
     - naam:  Lieu-dit "Sungass" '11
       ref:   
