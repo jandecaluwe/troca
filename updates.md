@@ -30,6 +30,7 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 09/04/15 Champagne-Bertrand Gautherot
 * 28/05/15 Auvergne-Jean Maupertuis
 * 30/06/15 Piemonte-Fenocchio-Wines
+* 21/09/15 Alsace-Bannwarth-Wines
 
     
   
