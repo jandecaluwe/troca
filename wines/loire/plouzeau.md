@@ -12,8 +12,8 @@ wijnen:
       app:   A.O.C. Touraine
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: 
-      opm:   April 2015
+      prijs: €7.93
+      
       
     - naam:  Le Chenin'12
       ref:   
