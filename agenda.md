@@ -49,6 +49,27 @@ White wine
 * Dedica'10 from Antonella Tacci (Malvasia/Lombardia) 
 * Charles Baudelaire'10 from Claude Buchot (Chardonnay-Savagnin/Jura)
 * Vin Jaune'04 from Claude Buchot (Savagnin/Jura)
+Red Wine
+--------
+* Carignan'14 from Robert/Pradal (Ardèche)
+* Grenache'14 from Robert/Pradal (Ardèche)
+* Cacous'14 from Alain Allier (Grenache-Syrah/Gard)
+* Vrille'13 from Michel Issaly (Braucol-Duras-Prunelard/Gaillac)
+* Barbera'13 from Francesco Brezza (Barbera/Monferrato Casalese)
+* Les Cormiers'13 from Chrsitian Venier (Cabernet franc/Loir et Cher) 
+* Toucheronde from Olivier Bellanger (Pineau d'Aunis-Gamay/Vallée du Cher)
+* Les Pierres Noires'14 from Jean Maupertuis (Gamay d'Auvergne/Puy de Dôme)
+* R2L'O'13 from Paul Gillet (Pinot noir-Gamay-Pineau d'Aunis/Vallée du Cher)
+* Le Canal des Grands Pièces'13 from Fred Sigonneau (Cabernet franc/Chinon) 
+* l'Aiglerie'12 from Thomas Carsin (Cabernet franc/Anjou)
+* Ruben'12 from Sébastien Bobinet (Cabernet franc/Saumur Champigny)
+* Les Longues Vignes'12 from Nathalie Gaubicher (Pineau d'Aunis/Coteaux du Loir)
+* Langhe Nebbiolo'13 from Claudio Fenochio (Nebbiolo/Piemonte)
+* Barolo Bussia'10 from Claudio Fenochio (Nebbiolo/Piemonte)
+
+
+
+
 
 
 
