@@ -28,6 +28,7 @@ Bubbels
 * Ucello'13 from P. Gillet (Vallèe du Cher)
 * Crémant de Bourgogne Prestige from Céline et Laurent Tripoz (Maconnais)
 * Crémant d'Alsace'08 from Christian Binner (Alsace)
+
 White wine
 ----------
 * Les Devants'14 from Marc Plouzeau (Sauvignon blanc/Indre et Loire)
@@ -49,6 +50,7 @@ White wine
 * Dedica'10 from Antonella Tacci (Malvasia/Lombardia) 
 * Charles Baudelaire'10 from Claude Buchot (Chardonnay-Savagnin/Jura)
 * Vin Jaune'04 from Claude Buchot (Savagnin/Jura)
+
 Red Wine
 --------
 * Carignan'14 from Robert/Pradal (Ardèche)
