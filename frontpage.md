@@ -24,6 +24,7 @@ Oktober
 -------
 * Za 03/10 van 13.00u tot 19.00u
 * Zo 04/10 van 10.00u tot 19.00u
+* please find tasting list (agenda)
 
 November
 --------
