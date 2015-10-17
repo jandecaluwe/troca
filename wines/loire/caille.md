@@ -51,6 +51,13 @@ wijnen:
       prijs: 8.75€
       opm:   the last bottles
     
+    - naam:  Muscadet Vieilles Vignes'13
+      ref:   
+      app:   A.O.C. Muscadet de Sèvre et Maine
+      type:  Blanc sec
+      cep:   Melon de Bourgogne
+      prijs: 10.00€
+    
     - naam:  Monnières-Saint Fiacre'10
       ref:   
       app:   A.O.C. Muscadet de Sèvre et Maine
