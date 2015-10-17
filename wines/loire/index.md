@@ -21,5 +21,6 @@ content:
     - riffault
     - sigonneau
     - venier
+    - villemade
 layout: wijnbouwer_index
 ---
