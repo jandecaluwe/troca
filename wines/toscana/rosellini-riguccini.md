@@ -5,7 +5,7 @@ layout: wijnhuis
 photo: rosellini-riguccini.jpg
 
 wijnen:
-    - naam:  Montecucco Rosso'12
+    - naam:  Montecucco Rosso'13
       ref:   
       app:   D.O.C. Montecucco Rosso
       type:  Rosso
