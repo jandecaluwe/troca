@@ -34,7 +34,7 @@ wijnen:
       opm:   Calcaire Portlandien
       
     - naam:  Auksinis Macération '12
-      ref:   Loi 11--
+      ref:   Loi 12--
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
