@@ -5,12 +5,6 @@ photo: gaubicher.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: Happy'04
-      ref:   
-      app: Vin de France   
-      type: Pétillant Naturel 
-      cep: Chenin blanc   
-      prijs: 14.85€
     
     - naam: Patapon blanc'12
       ref:   
@@ -18,13 +12,6 @@ wijnen:
       type: Pétillant Naturel 
       cep: Chenin blanc   
       prijs: 14.65€
-    
-    - naam:  You are so beautiful'10
-      ref:   
-      app:   Vin de France
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: 9.23€
       
     - naam:  You are so lovely'11
       ref:   
@@ -40,21 +27,7 @@ wijnen:
       cep:   Chenin blanc
       prijs: 14.00€
       
-    - naam:  Le Briseau'06  
-      ref:   
-      app:   Vin de France
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: 20.08€
-      
     - naam:  Le Briseau'08  
-      ref:   
-      app:   A.O.C. Coteaux du Loir
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: 20.08€
-      
-    - naam:  Le Briseau'09 
       ref:   
       app:   A.O.C. Coteaux du Loir
       type:  Blanc sec
@@ -74,13 +47,7 @@ wijnen:
       type:  Blanc sec
       cep:   Chenin blanc
       prijs: 15.99€
-      
-    - naam:  Enjoy'10  
-      ref:   
-      app:   Vin de France
-      type:  Rouge
-      cep:   Côt
-      prijs: 10.00€
+      opm:   the last bottles
  
     - naam:  Les Longues Vignes'12  
       ref:   
