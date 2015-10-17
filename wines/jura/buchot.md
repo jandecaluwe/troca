@@ -8,13 +8,6 @@ layout: wijnhuis
 
 wijnen:
     
-    - naam:  Terroir du Bry Tradition'10
-      ref:   
-      app:   A.O.C. Côtes de Jura
-      type:  Blanc sec non ouillé
-      cep:   Chardonnay
-      prijs: €11.40
-
     - naam:  Terroir du Bry Tradition'11
       ref:   
       app:   A.O.C. Côtes de Jura
@@ -30,7 +23,7 @@ wijnen:
       prijs: €11.40
       opm:   new wine
     
-    - naam:  Cuvée Charles Beaudelaire'10
+    - naam:  Cuvée Charles Beaudelaire'11
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé
@@ -51,12 +44,12 @@ wijnen:
       cep:   Savagnin
       prijs: €41.36
 
-    - naam:  Vin Jaune'05
+    - naam:  Vin Jaune'06
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé sous voile
       cep:   Savagnin
-      prijs: €37.55
+      prijs: €41.36
 
     - naam:  Poulsard'12
       ref:   
@@ -65,6 +58,13 @@ wijnen:
       cep:   Poulsard
       prijs: €10.85
 
+    - naam:  Poulsard'14
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  Rouge
+      cep:   Poulsard
+      prijs: €10.85
+    
     - naam:  Pinot noir'12
       ref:    
       app:   A.O.C. Côtes de Jura
@@ -79,20 +79,6 @@ wijnen:
       cep:   Pinot noiR/Poulsard
       prijs: €10.85
       opm:   new wine
-
-    - naam:  Crémant de Jura
-      ref:   
-      app:   A.O.C. Côtes de Jura
-      type:  Méthode Traditionelle
-      cep:   Chardonnay
-      prijs: €11.95
-
-    - naam:  Crémant de Jura non dosé
-      ref:   
-      app:   Côtes de Jura
-      type:  Méthode Traditionelle
-      cep:   Chardonnay 
-      prijs: €11.95 
 
     - naam:  Macvin
       ref:   
