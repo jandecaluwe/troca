@@ -7,12 +7,20 @@ photo: allegri.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Grignolino'12
+    - naam:  Grignolino'13
       ref:   
       app:   D.O.C.P. Grignolino del Monferrato Casalese
       type:  Rosso
       cep:   Grignolino
       prijs: €10.00
+      
+    - naam:  Barbera del Monferrato'12
+      ref:   
+      app:   D.O.C Barbera del Monferrato 
+      type:  Rosso
+      cep:   Barbera 
+      prijs: €10.33
+      
 
 ---
 Pier Luca Allegri gooide zijn professioneel leven over een totaal andere boeg. 
@@ -25,5 +33,5 @@ De expositie is subliem. Zuidelijk en zuid-oost gericht. De klei ondergrond is v
 Luca Allegri (foto links) is vriend aan huis bij Francesco Brezza (rechts). Francesco is mijn mentor beweert hij.
 Verder heb ik mijn eigen ideeën en buikgevoel.
 
-Grignolino 2012 is alvast een voltreffer van formaat met veel drinkplezier, met zoveel elegantie, met de meest edele tannines, met met met ...
+Beide wijnen zijn alvast een voltreffer van formaat met veel drinkplezier, met zoveel elegantie, met de meest edele tannines, met met met ...
 

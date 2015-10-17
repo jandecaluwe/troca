@@ -7,6 +7,14 @@ photo: brezza.jpg
 layout: wijnhuis
 
 wijnen:
+    
+    - naam:  Vino Rosso'14
+      ref:   
+      app:   D.O.C Barbera del Monferrato 
+      type:  Rosso
+      cep:   Barbera/Grignolino/Freisa
+      prijs: €12.95
+    
     - naam:  Grignolino'13
       ref:   
       app:   D.O.C. Grignolino del Monferrato Casalese
@@ -15,13 +23,26 @@ wijnen:
       prijs: €12.95
       opm:   Slechts enkele flessen/Que quelques bouteilles
 
+    - naam:  Grignolino'14
+      ref:   
+      app:   D.O.C. Grignolino del Monferrato Casalese
+      type:  Rosso
+      cep:   Grignolino
+      prijs: €12.95
+      
     - naam:  Barbera'13
       ref:   
       app:   D.O.C Barbera del Monferrato 
       type:  Rosso
       cep:   Barbera 
-      prijs: €10.40
-      
+      prijs: €10.84
+    
+    - naam:  Barbera'14
+      ref:   
+      app:   D.O.C Barbera del Monferrato 
+      type:  Rosso
+      cep:   Barbera 
+      prijs: €10.84
    
 ---
 Francesco Brezza, verloor zijn vader na een tractorongeval. Deze man was één van de oudste italiaanse biodynamisten.
