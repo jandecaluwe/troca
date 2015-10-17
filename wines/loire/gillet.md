@@ -20,14 +20,6 @@ wijnen:
       cep:   Chardonnay
       prijs: €16.25
       Opm:   the last bottles
-      
-    - naam:  Les Maisons Bullées'14
-      ref:   
-      app:   Vin de France
-      type:  Pétillant naturel
-      cep:   Gamay
-      prijs: €16.25
-      Opm:   the last bottles
     
     - naam:  Le Dernier Né'13
       ref:   Loi 0821
