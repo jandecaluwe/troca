@@ -7,6 +7,21 @@ photo: rivaton.jpg
 layout: wijnhuis
 
 wijnen:
+
+    - naam:  Blanc Bec'13
+      ref:   
+      app:   Vin de France
+      type:  Blanc Sec
+      cep:   50% Macabeo, 30% Carignan blanc, 20% Grenache gris
+      prijs: €14.56
+      
+    - naam:  Panoramix'14
+      ref:   
+      app:   Vin de France
+      type:  Pet.Nat.Rosé 
+      cep:   Syrah
+      prijs: €12.95
+      
     - naam:  Tombé du Ciel'13
       ref:   
       app:   Vin de France
