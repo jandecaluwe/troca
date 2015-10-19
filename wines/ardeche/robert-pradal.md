@@ -7,14 +7,6 @@ photo: masdintras.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam: Chardonnay'14
-      ref:   
-      app:  I.G.P. Ardèche
-      type: Blanc sec 
-      cep:  Chardonnay 
-      prijs: €8.34
-      opm: sans soufre
-      
     - naam: Carignan'14
       ref:   
       app:  I.G.P. Ardèche
@@ -31,6 +23,6 @@ wijnen:
       prijs: €8.34
       opm: sans soufre
 ---
-29 mei 2015
+Denis Robert
 
 
