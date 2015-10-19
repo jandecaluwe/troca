@@ -26,13 +26,7 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc 
       prijs: €18.03
-    
-    - naam:  Amatéüs Bobi'09
-      ref:   
-      app:   A.O.C. Saumur Champigny
-      type:  Rouge
-      cep:   Cabernet franc 
-      prijs: €18.03
+   
    
 ---
 Sébastien Bobinet is een klasbak. Hier heb je uitermate mooie en finesserijke Cabernet franc. Delicaat, elegant en fijn. Zonder meer woorden ...
