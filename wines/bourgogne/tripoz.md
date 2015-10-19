@@ -8,7 +8,7 @@ layout: wijnhuis
 
 wijnen:
 
-   - naam:  Macon-Loché'13
+    - naam:  Macon-Loché'13
       ref:   
       app:   A.O.C. Macon-Loché
       type:  blanc
