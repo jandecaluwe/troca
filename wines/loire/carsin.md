@@ -5,19 +5,19 @@ photo: carsin.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam:  Terre'13
+    - naam:  Terre'14
       ref:   
       app:   V.D.P du Val de Loire
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €9.84
+      prijs: €10.50
       
-    - naam:  Bastingage'12
+    - naam:  Bastingage'14
       ref:   Loi 1225
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €13.75
+      prijs: €14.10
       
     - naam:  Galerne'12
       ref:   Loi 1226
@@ -25,13 +25,22 @@ wijnen:
       type:  Blanc sec
       cep:   Chenin blanc
       prijs: €13.95
+      opm:   the last bottles
     
     - naam:  Ephata'12
       ref:   Loi 12-- 
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €├45.00
+      prijs: €45.00
+      
+    - naam:  Indigène'09
+      ref:   
+      app:   V.D.P. du Maine et Loire
+      type:  Rouge
+      cep:   Grolleau noir/Gamay
+      prijs: €8.50 
+      opm:   the last bottles
     
     - naam:  Indigène'11
       ref:   Loi 1108
@@ -39,6 +48,7 @@ wijnen:
       type:  Rouge
       cep:   Grolleau noir/Gamay
       prijs: €9.80
+      opm:   the last bottles
 
     - naam:  Indigène'12
       ref:   Loi 1224
@@ -46,6 +56,13 @@ wijnen:
       type:  Rouge
       cep:   Grolleau noir/Gamay
       prijs: €10.74
+      
+    - naam:  Indigène'13
+      ref:   
+      app:   V.D.P. du Maine et Loire
+      type:  Rouge
+      cep:   Grolleau noir/Gamay
+      prijs: €12.04
 
     - naam:  l'Aiglerie'12
       ref:   Loi 1232
@@ -54,12 +71,12 @@ wijnen:
       cep:   Cabernet franc
       prijs: €13.75
       
-    - naam:  Hippocampe'12
-      ref:   Loi 1219
+    - naam:  l'Aiglerie'13
+      ref:   
       app:   A.O.C. Anjou
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €13.95
+      prijs: €13.75
       
     - naam:  Magellan'10
       ref:   Loi 1079
@@ -77,19 +94,12 @@ wijnen:
       prijs: €53.85
       opm:   Magnum
       
-    - naam:  Espérance'11
-      ref:   Loi 1123
+    - naam:  Espérance'13
+      ref:   
       app:   Vin de France
       type:  Rouge
-      cep:   80%Pineau d'Aunis/20% Gamay
-      prijs: €19.42
-      
-    - naam:  l'Albatros'11
-      ref:   Loi 1126
-      app:   A.O.C. Crémant de Loire
-      type:  Méthode Ancestrale
-      cep:   Chenin blanc/Chardonnay
-      prijs: €14.96
+      cep:   Pineau d'Aunis
+      prijs: €22.95
       
     - naam:  Dames de Nage'11
       ref:   Loi 1172
