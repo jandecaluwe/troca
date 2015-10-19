@@ -11,7 +11,8 @@ wijnen:
       app:   A.O.C. Muscadet Coteaux de La Loire
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: €7.29   
+      prijs: €7.29 
+      opm: the last bottles
     
     - naam:  Ca c'est du Groslot'09
       ref:   Loi 0908
