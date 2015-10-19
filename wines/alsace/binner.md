@@ -78,8 +78,8 @@ wijnen:
       ref:   Als 1011
       app:   A.O.C. Alsace
       type:  Blanc tendre
-      cep:   Pinot gris
-      prijs: €17.66
+      cep:   Auxerrois, Riesling, Pinot gris, Gewurztraminer en coplantation
+      prijs: €16.74
       
     - naam:  Gewurztraminer non-filtré, non-sulfité'12
       ref:   
@@ -122,6 +122,7 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir
       prijs: €14.57
+      opm:   the last bottles
       
     - naam:  Pinot noir'12 non-filtré (sans soufre)
       ref:   Als 12--
@@ -137,13 +138,6 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir
       prijs: €15.10
-      
-    - naam:  Blanc des Noirs'07 (37.50cl)
-      ref:   Als 0709
-      app:   A.O.C. Alsace
-      type:  Vin gris moelleux
-      cep:   Pinot noir
-      prijs: €19.15
       
     - naam:  Eau de Vie de Vieux Marc de Pinot gris V.T.
       ref:   Als 9801
