@@ -27,7 +27,7 @@ wijnen:
       cep:   30%Duras/30%Syrah/30%Merlot
       prijs: €10.43
       
-    - naam:  Le Vrille'13 
+    - naam:  Vrille'13 
       ref:   
       app:   Vin de France
       type:  Rouge
