@@ -7,6 +7,14 @@ photo: valliunite.jpg
 layout: wijnhuis
 
 wijnen:
+
+    - naam:  Ciapè'14
+      ref:   
+      app:   D.O.C. Cortese
+      type:  Bianco
+      cep:   Cortese
+      prijs: €9.38 
+
     - naam:  Derthona'13
       ref:   
       app:   D.O.C. Timorasso
@@ -22,7 +30,21 @@ wijnen:
       prijs: €11.65
       opm:   Macération pelliculaire
       
+    - naam:  San Vito'13
+      ref:   
+      app:   D.O.C. Timorasso
+      type:  Bianco
+      cep:   Timorasso
+      prijs: €14.87
+
     - naam:  Diogene'13
+      ref:   
+      app:   D.O.C. Dolcetto
+      type:  Rosso
+      cep:   Dolcetto
+      prijs: €9.38
+      
+    - naam:  Diogene'14
       ref:   
       app:   D.O.C. Dolcetto
       type:  Rosso
@@ -35,6 +57,14 @@ wijnen:
       type:  Rosso
       cep:   Barbera
       prijs: €9.38
+      
+    - naam:  Gaitu'14
+      ref:   
+      app:   D.O.C. Barbera
+      type:  Rosso
+      cep:   Barbera
+      prijs: €9.38 
+
 ---
 Valli Unite is een cooperatie tussen verschillende personen, een bedrijf in polycultuur gelegen in de 'Colli Tortonesi' nabij het het stadje Tortona in Piëmonte. 
 Tortona ligt zo'n 110 km ten oosten van Torino en 80km ten noorden van Genova.
