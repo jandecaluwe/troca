@@ -1,7 +1,7 @@
 ---
 title: Winebox 
 layout: page
-photo: /img/troca_logo.jpg
+photo: /img/la bohème.jpg
 ---
 Wijnpakket binnen zeer kort.
 Winebox soon ...
