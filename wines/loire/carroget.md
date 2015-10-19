@@ -12,9 +12,9 @@ wijnen:
       type:  Blanc sec
       cep:   Melon de Bourgogne
       prijs: €7.29 
-      opm: the last bottles
+      opm:   the last bottles
     
-    - naam:  Ca c'est du Groslot'09
+    - naam:  Ca C'est du Groslot'09
       ref:   Loi 0908
       app:   Vin de France
       type:  Vin gris
