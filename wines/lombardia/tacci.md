@@ -5,57 +5,47 @@ layout: wijnhuis
 photo: Martilde photo.jpg
 
 wijnen:
-    - naam:  Piume'11
+    - naam:  Piume'14
       ref:   
       app:   I.G.T.
       type:  Bianco
       cep:   Malvasia
-      prijs: 11.00€
+      prijs: €11.00
 
     - naam:  Dedica'10
       ref:   
       app:   I.G.T.
       type:  Bianco
       cep:   Malvasia
-      prijs: 14.65€
-      
-    - naam:  Barbera'11
-      ref:   
-      app:   D.O.C. Oltrepo Pavese
-      type:  Rosso
-      cep:   Barbera
-      prijs: 
-      opm:   da noi tra poco
+      prijs: €14.65
       
     - naam:  Barbera'12
       ref:   
       app:   D.O.C. Oltrepo Pavese
       type:  Rosso
       cep:   Barbera
-      prijs: 9.80€
-      opm:   the last bottles
+      prijs: €9.80
       
     - naam:  Bonarda'12
       ref:   
       app:   D.O.C. Oltrepo Pavese
       type:  Rosso
       cep:   Croatina
-      prijs: 
-      opm:   da noi tra poco
+      prijs: €9.80
     
     - naam:  Zaffo'06
       ref:   
       app:   D.O.C. Oltrepo Pavese
       type:  Rosso
       cep:   Croatina
-      prijs: 13.95€
+      prijs: €13.95
     
     - naam:  Il Gigante'11
       ref:   
       app:   I.G.T.
       type:  Rosso
       cep:   Croatina
-      prijs: 14.65€
+      prijs: €14.65
 ---
 Antonella Tacci en Raimondo Lombardi leerden we toevallig kennen op een wijnbeursje. Het gebeurt soms dat bepaalde mensen je aantrekken en dat was hier duidelijk het geval.
 Dit koppel liep elkaar tegen het lijf bij IBM-Italy en dit meer dan 30 jaar geleden. 
