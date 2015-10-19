@@ -74,10 +74,10 @@ wijnen:
       cep:   Muscat
       prijs: €17.67
       
-    - naam:  Pinot gris Hinterberg'10
-      ref:   Als 1011
+    - naam:  Côtes d'Ammerschwihr'12
+      ref:   
       app:   A.O.C. Alsace
-      type:  Blanc tendre
+      type:  Blanc sec S.Soufre
       cep:   Auxerrois, Riesling, Pinot gris, Gewurztraminer en coplantation
       prijs: €16.74
       
