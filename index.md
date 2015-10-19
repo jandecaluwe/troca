@@ -9,4 +9,5 @@ content:
     - wines
     - agenda
     - contact
+    - winebox
 ---
