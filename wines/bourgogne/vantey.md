@@ -7,40 +7,27 @@ regio: Bourgogne
 photo: vantey.png
 
 wijnen:
-    - naam:  Hautes Côtes de Beaune'11
-      ref:   
-      app:   A.O.C. Hautes Côtes de Beaune
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €15.20
 
-    - naam:  Maranges'11
-      ref:   
-      app:   A.O.C. Maranges 
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €17.25
-
-    - naam:  Maranges "Vigne Blanche" '12
+    - naam:  Maranges'12
       ref:   
       app:   A.O.C. Maranges
       type:  Rouge
       cep:   Pinot noir
-      prijs: €17.75
+      prijs: €18.50
     
-    - naam:  Maranges "1e Cru 'Clos Roussots' '12 "
+    - naam:  Bourgogne Hautes Côtes de Beaune'13
       ref:   
-      app:   A.O.C. Maranges 1'Cru
+      app:   A.O.C. Hautes Côtes de Beaune
       type:  Rouge
       cep:   Pinot noir
-      prijs: €24.17
+      prijs: €15.43
       
-    - naam:  Maranges "1e Cru 'La Fussière' '12 "
+    - naam:  Maranges "Vieilles Vignes'13"
       ref:   
-      app:   A.O.C. Maranges 1'Cru
+      app:   A.O.C. Maranges
       type:  Rouge
       cep:   Pinot noir
-      prijs: €27.52
+      prijs: €20.45
 ---   
 Een klein maar fijn domein opgericht in 1998. Voor die tijd was o.a. Jean-Yves actief als D.J. in de ski-gebieden ergens in de Alpen. Een andere tijd beweert hij...
 Het is trouwens daar dat hij Isabelle, een Zwitserse, heeft ontmoet.
