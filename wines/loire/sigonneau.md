@@ -11,14 +11,6 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc
       prijs: 10.42€
-
-    - naam:  Cuvée X'11
-      ref:   Loi 1105
-      app:   A.O.C. Chinon
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: 9.39€
-      opm: the last bottles
          
     - naam:  Les 5 Eléments'12
       ref:   
