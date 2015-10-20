@@ -63,8 +63,8 @@ Intrigerende mensen, mooie mensen ...
 
 * **Piume'11**: een frisse Malvasia met zeer sappige aciditeit en lengte.
 * **Dedica'10**: Malvasia met schilmaceratie gedurende 6 maanden. Ellenlange boeiende wijn.
-* **Barbera'11**: cuvewijn met enorm veel sap en rondeur. Drinkplezier tot en met ...
-* **Bonarda**: identieke vinificatie maar een iets meer donkere wijn dan de Barbera. Sappig en vlezig!
+* **Barbera'12**: cuvewijn met enorm veel sap en rondeur. Drinkplezier tot en met ...
+* **Bonarda'12**: identieke vinificatie maar een iets meer donkere wijn dan de Barbera. Sappig en vlezig!
 * **Zaffo'06**: lange opvoeding in "botte" (foudres). Stijlvolle wijn, mineraal en doortimmerd. Edele tannines, gaaf en puur.
 * **Il Gigante'11**: overrijpe Croatina, sterk gelijkend op een top-Amarone uit Valpolicella. Het prijskaartje is echter bescheidener.
 
