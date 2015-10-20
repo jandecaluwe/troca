@@ -1,7 +1,7 @@
 ---
 title: Winebox 
 layout: page
-photo: /img/promo_trocavn_1.jpg
+photo: /img/la_boheme.jpg
 ---
 Wijnpakket binnen zeer kort.
 Winebox soon ...
