@@ -74,4 +74,5 @@ def validate_wijnhuis(item):
 validators= {}
 
 validators['wijnhuis'] = validate_wijnhuis 
+validators['winebox'] = validate_wijnhuis 
 

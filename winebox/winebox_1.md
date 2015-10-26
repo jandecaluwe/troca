@@ -1,7 +1,7 @@
 ﻿---
-title:  Winebox_1
+title:  "Winebox 1: Alsace"
 photo:  winebox_1.jpg
-layout: winebox_1
+layout: winebox
 
 
 wijnen:
