@@ -5,34 +5,53 @@ layout: winebox_1
 
 
 wijnen:
-    - naam: Sylvaner'13
+    - naam: La Bohème'14
       ref:    
-      app:  A.O.C. Alsace
+      app:  Vin de France
       type: Blanc sec
-      cep:  Sylvaner
-      prijs: €8.34
+      cep:  Melon de Bourgogne
+      prijs: €10.94
+      opm: Pays Nantais (Loire/France)
     
-    - naam: Riesling'13
+    - naam: Ciapè'14
       ref:   
-      app:  A.O.C. Alsace
+      app:  D.O.C. Cortese 
+      type: Vino bianco
+      cep:  Cortese
+      prijs: €9.53
+      opm: Colli Tortonesi (Piemonte/Italia)
+    
+    - naam: Cuvée 100 Noms'12
+      ref:   
+      app:  Vin de France
       type: Blanc sec
-      cep:  Riesling
-      prijs: €9.71
-    
-    - naam: Pin'Aux'13
+      cep:  Ugni blanc/Colombard
+      prijs: €7.09
+      opm: Gers (Sud-Ouest/France)
+      
+    - naam: Hanami'14
       ref:   
-      app:  A.O.C. Alsace
-      type: Blanc sec
-      cep:  Pinot blanc & Auxerrois
-      prijs: €12.08
-      opm: vinification naturelle 
-    
-    - naam: Pinot noir'13
-      ref:   
-      app:  A.O.C. Alsace
+      app:  A.O.C. Saumur Champigny
       type: Rouge
-      cep:  Pinot noir
-      prijs: €11.26
+      cep:  Cabernet Franc
+      prijs: €12.59
+      opm: Loire/France
+      
+    - naam: Tombé du Ciel'13
+      ref:   
+      app:  Vin de France
+      type: Rouge
+      cep:  Carignan/Syrah/Granache
+      prijs: €9.53
+      opm: Pyrénées Orientales (Roussillon/France)
+      
+    - naam: Barbera del Monferrato'12
+      ref:   
+      app:  D.O.C. Barbera del Monferrato
+      type: Rosso
+      cep:  Barbera
+      prijs: €10.47
+      opm: Monferrato Casalese (Piemonte/Italia)
 ---
 Soon
    
