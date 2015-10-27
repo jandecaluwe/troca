@@ -53,7 +53,7 @@ wijnen:
       prijs: €10.47
       opm: Monferrato Casalese (Piemonte/Italia)
 ---
-Soon
+Winebox_1 is een 1e mooie kennismaking met het begrip natuurwijn.
    
 
 
