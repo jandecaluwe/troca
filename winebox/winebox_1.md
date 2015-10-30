@@ -54,6 +54,7 @@ wijnen:
       opm: Monferrato Casalese (Piemonte/Italia)
 ---
 Winebox_1 is een 1e mooie kennismaking met het begrip natuurwijn.
+Meer uitleg volgt.
    
 
 
