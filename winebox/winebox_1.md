@@ -70,9 +70,7 @@ Kostprijs: 72.78€ (excl. transport)
 * U betaalt.
 * U ontvangt de wijn na afspraak.
 
-(<350€ transportkost 15€ incl.)
-
-(>350€ franco levering)
+<350€ transportkost 15€ incl./>350€ franco levering
  
    
 
