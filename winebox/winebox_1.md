@@ -53,8 +53,21 @@ wijnen:
       prijs: €10.47
       opm: Monferrato Casalese (Piemonte/Italia)
 ---
-Winebox_1 is een 1e mooie kennismaking met het begrip natuurwijn.
-Meer uitleg volgt!
+Een beetje uitleg ...
+Deze "winebox_1" biedt U een assortiment van elegante en tegelijkertijd zeer zuivere wijnen.
+We zochten de 6 wijnen uit diverse wijnstreken.
+Het zijn natuurwijnen van een eenvoudig en "laagdrempelig" niveau uiteraard vrij van smaakbeïnvloedende en vulgaire ingrepen.
+Absentie van sulfietexces, chaptalisatie en van gebruik van gecultiveerde gistculturen.
+Deze box is een leuke intro in de wereld van natuurwijn.
+Meer uitleg over de specifieke wijnbouwers en hun wijnen vindt U gemakkelijk wanneer U navigeert naar "wines".
+
+U bestelt via jacques@trocavn.eu 
+U ontvangt de factuur. 
+U betaalt.
+U ontvangt de wijn na afspraak.
+(<350€ transportkost 15€ incl.)
+(>350€ franco levering)
+ 
    
 
 
