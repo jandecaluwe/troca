@@ -63,6 +63,8 @@ Absentie van sulfietexces, chaptalisatie en van gebruik van gecultiveerde gistcu
 Deze box is een leuke intro in de wereld van natuurwijn.
 Meer uitleg over de specifieke wijnbouwers en hun wijnen vindt U gemakkelijk wanneer U navigeert naar "wines".
 
+Kostprijs: 72.78€ (excl. transport)
+
 * U bestelt via jacques@trocavn.eu 
 * U ontvangt de factuur.
 * U betaalt.
