@@ -25,6 +25,12 @@ November
 * Za 21/11 van 13.00u tot 19.00u
 * Zo 22/11 van 10.00u tot 19.00u
 
+zijn aanwezig:
+--------------
+* Mevr. Thomas Carsin van het Dom. du Clos de l'Elu uit Anjou.
+* Mevr. Sonia Torretta voor Tenuta 2201 (Monferrato Casalese/Piemonte) en Tenuta Migliavacca (Monferrato Cassalese/Piemonte)
+
+
 
 Ons bezoeken:
 =============
