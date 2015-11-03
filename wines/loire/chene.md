@@ -6,6 +6,13 @@ photo:  chene.jpg
 layout: wijnhuis 
 
 wijnen:
+    - naam: Eureka'12
+      ref:   
+      app:  Vin de France
+      type: Pétillant naturel
+      cep:  Chenin blanc
+      prijs: €
+      
     - naam: Panier de Fruits'13
       ref:   
       app:  Vin de France
@@ -13,33 +20,48 @@ wijnen:
       cep:  Chenin blanc
       prijs: €
     
+    - naam: Panier de Fruits'12
+      ref:   
+      app:  Vin de France
+      type: Rouge
+      cep:  Grolleau noir
+      prijs: €
+      opm: Magnum (150cl)
+      
     - naam: Panier de Fruits'10
       ref:   
       app:  Vin de France
       type: Blanc sec
       cep:  Chenin blanc
-      prijs: €13.20
+      prijs: €
     
     - naam: O2 Vigne
       ref:   
       app:  Vin de France
       type: Blanc sec oxidatif
       cep:  Chenin blanc
-      prijs: €26.00
+      prijs: €
       
     - naam: Le Boit sans soif'12
       ref:   
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €11.20
-      
+      prijs: €
+    
+    - naam: Le Boit sans soif'13
+      ref:   
+      app:  Vin de France
+      type: Rouge
+      cep:  Grolleau noir
+      prijs: €
+       
     - naam: Les Joues Rouges'13
       ref:   
       app:  Vin de France
       type: Rouge
       cep:  Cabernet franc
-      prijs: €12.62
+      prijs: €
           
 ---
 @Troca V.N. 03/11/15
