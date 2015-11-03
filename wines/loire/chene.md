@@ -33,21 +33,22 @@ wijnen:
       app:  Vin de France
       type: Blanc sec
       cep:  Chenin blanc
-      prijs: €
+      prijs: €13.34
     
-    - naam: O2 Vigne
+    - naam: O2 Vigne'11
       ref:   
       app:  Vin de France
       type: Blanc sec oxidatif
       cep:  Chenin blanc
-      prijs: €
+      prijs: €26.14
       
     - naam: Le Boit sans soif'12
       ref:   
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €
+      prijs: €11.34
+      opm: the last bottles
     
     - naam: Le Boit sans soif'13
       ref:   
@@ -61,7 +62,7 @@ wijnen:
       app:  Vin de France
       type: Rouge
       cep:  Cabernet franc
-      prijs: €
+      prijs: €12.76
           
 ---
 @Troca V.N. 03/11/15
