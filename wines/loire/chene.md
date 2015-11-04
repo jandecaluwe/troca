@@ -23,7 +23,7 @@ wijnen:
     - naam: Panier de Fruits'12
       ref:   
       app:  Vin de France
-      type: Rouge
+      type: Blanc sec
       cep:  Grolleau noir
       prijs: €27.50
       opm: Magnum (150cl)
