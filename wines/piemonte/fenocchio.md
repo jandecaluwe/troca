@@ -12,42 +12,35 @@ wijnen:
       app:   D.O.C. Dolcetto d'Alba
       type:  Rosso
       cep:   Dolcetto
-      prijs: €10.00
+      prijs: €10.14
 
     - naam:  Barbera d'Alba'13
       ref:   
       app:   D.O.C Barbera d'Alba 
       type:  Rosso
       cep:   Barbera 
-      prijs: €11.98
+      prijs: €12.12
       
-    - naam:  Langhe Nebbiolo'13 
-      ref:   
-      app:   D.O.C. Langhe Nebbiolo 
-      type:  Rosso
-      cep:   Nebbiolo
-      prijs: €13.56 
-
     - naam:  Barolo Villero'09
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €34.50
+      prijs: €34.64
     
     - naam:  Barolo Bussia'09 
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €34.50
+      prijs: €34.64
       
     - naam:  Barolo Bussia'10 
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €34.50
+      prijs: €34.64
     
     - naam:  Barolo Villero'11
       ref:   
@@ -61,35 +54,35 @@ wijnen:
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €36.75
+      prijs: €36.89
       
     - naam:  Barolo Bussia Riserva'07
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €42.50
+      prijs: €42.64
       
     - naam:  Barolo Villero'10 magnum 
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €79.85
+      prijs: €80.13
       
     - naam:  Barolo Bussia'10 magnum 
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €79.85
+      prijs: €80.13
       
     - naam:  Barolo Bussia'11 magnum 
       ref:   
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €81.85
+      prijs: €82.13
       
     - naam:  Barolo Villero'11 magnum 
       ref:   

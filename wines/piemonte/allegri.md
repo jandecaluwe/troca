@@ -12,14 +12,14 @@ wijnen:
       app:   D.O.C.P. Grignolino del Monferrato Casalese
       type:  Rosso
       cep:   Grignolino
-      prijs: €10.00
+      prijs: €10.14
       
     - naam:  Barbera del Monferrato'12
       ref:   
       app:   D.O.C Barbera del Monferrato 
       type:  Rosso
       cep:   Barbera 
-      prijs: €10.33
+      prijs: €10.47
       
 
 ---
