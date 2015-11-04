@@ -14,6 +14,7 @@ wijnen:
       type:  Rosso
       cep:   Barbera/Grignolino/Freisa
       prijs: €13.23
+      opm:   Magnum (150cl)
     
     - naam:  Grignolino'13
       ref:   
