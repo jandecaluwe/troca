@@ -11,21 +11,21 @@ wijnen:
       app:  Vin de France
       type: Pétillant naturel
       cep:  Chenin blanc
-      prijs: €
+      prijs: €16.25
       
     - naam: Panier de Fruits'13
       ref:   
       app:  Vin de France
       type: Blanc sec
       cep:  Chenin blanc
-      prijs: €
+      prijs: €13.34
     
     - naam: Panier de Fruits'12
       ref:   
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €
+      prijs: €27.50
       opm: Magnum (150cl)
       
     - naam: Panier de Fruits'10
@@ -35,12 +35,12 @@ wijnen:
       cep:  Chenin blanc
       prijs: €13.34
     
-    - naam: O2 Vigne'11
+    - naam: l'O2 Vigne'09
       ref:   
       app:  Vin de France
       type: Blanc sec oxidatif
       cep:  Chenin blanc
-      prijs: €26.14
+      prijs: €27.50
       
     - naam: Le Boit sans soif'12
       ref:   
@@ -55,7 +55,7 @@ wijnen:
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €
+      prijs: €12.30
        
     - naam: Les Joues Rouges'13
       ref:   
