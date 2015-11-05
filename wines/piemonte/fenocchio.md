@@ -47,7 +47,7 @@ wijnen:
       app:   D.O.C.G. Barolo
       type:  Rosso
       cep:   Nebbiolo
-      prijs: €38.75
+      prijs: €38.89
     
     - naam:  Barolo Bussia'11
       ref:   
