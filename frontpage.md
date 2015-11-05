@@ -28,7 +28,7 @@ November
 zijn aanwezig:
 --------------
 * Mevr. Thomas Carsin van het Dom. du Clos de l'Elu uit Anjou.
-* Mevr. Sonia Torretta voor Tenuta 2201 (Monferrato Casalese/Piemonte) en Tenuta Migliavacca (Monferrato Cassalese/Piemonte)
+* Mevr. Sonia Torretta voor Tenuta 2201 (Monferrato Casalese/Piemonte) en Tenuta Migliavacca (Monferrato Casalese/Piemonte)
 
 
 
