@@ -14,7 +14,7 @@ wijnen:
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €14.90
+      prijs: €15.04
       opm:   Calcaire Portlandien
       
     - naam:  Akmèniné'11
@@ -22,7 +22,7 @@ wijnen:
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €16.73
+      prijs: €16.87
       opm:   Calcaire Portlandien
       
     - naam:  Auksinis'10
@@ -30,7 +30,7 @@ wijnen:
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €22.95
+      prijs: €23.09
       opm:   Calcaire Portlandien
       
     - naam:  Auksinis Macération '12
@@ -38,7 +38,7 @@ wijnen:
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €22.95
+      prijs: €23.09
       opm:   Calcaire Portlandien
       
     - naam:  Saulétas'10
@@ -46,7 +46,7 @@ wijnen:
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €22.95
+      prijs: €23.09
       opm:   Calcaire Kimméridjien
       
     - naam:  Skeveldra'10
@@ -54,7 +54,7 @@ wijnen:
       app:   A.O.C. Sancerre
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €22.95
+      prijs: €23.09
       opm:   Argile à Silex
     
 
