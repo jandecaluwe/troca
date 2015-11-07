@@ -11,21 +11,14 @@ wijnen:
       app: A.O.C. Montlouis
       type: Blanc sec
       cep:  Chenin blanc
-      prijs: €12.83
+      prijs: €12.97
     
     - naam: Les Pêchers'13
       ref:   
       app:  A.O.C. Montlouis  
       type: Blanc sec tendre
       cep:  Chenin blanc
-      prijs: €13.38
-    
-    - naam: Les Pions'13
-      ref:   
-      app:  A.O.C. Montlouis
-      type: Pétillant Naturel
-      cep:  Chenin blanc
-      prijs: €13.98
+      prijs: €13.52
       
 ---
 Het domein evenals de wijngaarden van Ludovic Chanson zijn gelegen in het dorpje Husseau naast Montlouis-sur-Loire. Conversie naar biowijnbouw werd aangevat in 2003 om 3 jaar later in 2006 
@@ -44,7 +37,6 @@ De wijnen:
 ----------
 * Les Cabotines'13: droge Chenin blanc, veel karakter, diepe minerale wijn en discreet fruitig. Proeft geweldig op dit moment.
 * Les Pêchers'13: half zoete wijn, zijdezacht, zinderd lang. Fantastische wijn. 
-* Les Pions'13: Pétillant naturel of anders genoemd, méthode ancestrale. Intens fruitige wijn met schitterende lengte. Zeer fijne pareling. Deze wijn werd uiteraard niet gedoseerd.
 
    
 
