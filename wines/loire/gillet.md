@@ -6,19 +6,19 @@ photo: gillet.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Silènes'13
+    - naam:  Silène'13
       ref:   
       app:   Vin de France
       type:  Blanc sec
       cep:   Sauvignon blanc 
-      prijs: €13.49
+      prijs: €13.63
     
-    - naam:  Uccello
+    - naam:  Uccello'13
       ref:   
       app:   Vin de France
       type:  Pétillant naturel
       cep:   Chardonnay
-      prijs: €16.25
+      prijs: €16.75
       Opm:   the last bottles
     
     - naam:  Le Dernier Né'13
@@ -26,21 +26,21 @@ wijnen:
       app:   Vin de France
       type:  Rouge
       cep:   Pineau d'Aunis/Gamay
-      prijs: €12.95
+      prijs: €13.09
        
     - naam:  Erèbe'13
       ref:   Loi 0821
       app:   Vin de France
       type:  Rouge
       cep:   50%Côt/50%Cabernet franc
-      prijs: €13.49
+      prijs: €13.63
     
     - naam:  R2L'O '13
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   40% Pinot noir/40% Gamay/20% Pineau d'Aunis
-      prijs: €14.47   
+      prijs: €14.61   
      
     
 ---
