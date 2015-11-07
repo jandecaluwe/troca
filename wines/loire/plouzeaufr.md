@@ -7,34 +7,34 @@ photo: plouzeaufr.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Le Blanc de La Mariée'12
+    - naam:  Le Blanc de La Mariée'13
       ref:   Loi 
       app:   A.O.C. Touraine
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €9.38
-      opm:   the last bottles
+      prijs: €9.52
+      
       
     - naam:  Le Chenin de La Colline'12
       ref:   
       app:   A.O.C. Touraine
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €10.32
+      prijs: €10.46
       
-    - naam:  Le Rosé'13
+    - naam:  Le Rosé'14
       ref:   
       app:   A.O.C. Touraine
       type:  Rosé sec
       cep:   Cabernet franc
-      prijs: €8.65
+      prijs: €8.90
       
     - naam:  Gamay sans Tralala'13
       ref:  
       app:   A.O.C. Touraine
       type:  Rouge
       cep:   Gamay
-      prijs: €10.45
+      prijs: €10.59
       
     
       
