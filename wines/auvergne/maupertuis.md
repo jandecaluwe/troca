@@ -12,35 +12,35 @@ wijnen:
       app:  Vin de France
       type: Blanc sec 
       cep:  Chardonnay 
-      prijs: €11.25
+      prijs: €11.39
       
     - naam: Pink Bulles'14
       ref:   
       app:  Vin de France  
       type: Pétillant naturel
       cep:  Gamay d'Auvergne
-      prijs: €12.75
+      prijs: €13.25
    
     - naam:  Les Pierres Noires'14
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   Gamay d'Auvergne
-      prijs: €11.25
+      prijs: €11.39
 
     - naam:  La Plage'14
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   Gamay d'Auvergne
-      prijs: €11.25
+      prijs: €11.39
 
     - naam:  Neyrou'14
       ref:   
       app:   I.G.P. Puy de Dôme
       type:  Rouge
       cep:   Pinot noir
-      prijs: €12.75
+      prijs: €12.89
 ---
 28 mei 2015
 
