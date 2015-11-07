@@ -12,42 +12,21 @@ wijnen:
       app:   Vin de France
       type:  Petillant naturel
       cep:   Grolleau noir
-      prijs: €11.20
-    
-    - naam:  Sauvignon'13
-      ref:   
-      app:   Vin de France
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: 7.51€
-      
-    - naam:  Chenin blanc sec'13
-      ref:   
-      app:   A.O.C. Azay-Le-Rideau
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: €7.65
+      prijs: €11.70
       
     - naam:  Chenin blanc sec tendre'06
       ref:   
       app:   A.O.C. Azay-Le Rideau
       type:  Blanc sec tendre
       cep:   Chenin blanc
-      prijs: €7.93
+      prijs: €8.07
       
     - naam:  Gamay'13  
       ref:   
       app:   Vin de France 
       type:  Rouge 
       cep:   Gamay à jus blanc
-      prijs: 7.51€
-      
-    - naam:  Le Revins-Y
-      ref:   
-      app:   Vin de France
-      type:  Rouge
-      cep:   Grolleau noir
-      prijs: 7.51€
+      prijs: €7.65
       
     - naam:  l'Héritage d'Aziaum'13
       ref:   
@@ -55,13 +34,6 @@ wijnen:
       type:  Rouge
       cep:   75% Côt/20% Cabernet franc/5% Gamay
       prijs: €8.50
-      
-    - naam:  Moelleux'09  
-      ref:   
-      app:   A.O.C. Azay-Le-Rideau
-      type:  Blanc moelleux
-      cep:   Chenin blanc
-      prijs: €11.65
    
 
 ---
