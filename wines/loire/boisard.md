@@ -12,14 +12,14 @@ wijnen:
       app:   Vin de France
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €17.23
+      prijs: €17.37
      
     - naam:  Des Pieds et Mains'06
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €17.23
+      prijs: €17.37
     
     
 ---
