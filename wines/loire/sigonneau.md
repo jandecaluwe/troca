@@ -5,47 +5,54 @@ photo: sigonneau.jpg
 layout: wijnhuis 
 
 wijnen:
+    - naam:  La Fille de l'R'14
+      ref:   
+      app:   A.O.C. Chinon
+      type:  Rosé
+      cep:   Cabernet franc
+      prijs: 9.94€
+    
     - naam:  Le Canal des Grands Pièces'13
       ref:   
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 10.42€
+      prijs: 10.56€
          
     - naam:  Les 5 Eléments'12
       ref:   
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 11.94€
+      prijs: 12.08€
       
-    - naam:  SO2'12
+    - naam:  SO2'13
       ref:   
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 13.38€
+      prijs: 13.52€
       
     - naam:  La Familia'12
       ref:   
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 11.94€
+      prijs: 12.08€
       
     - naam:  Les Folies du Noyer Vert'11
       ref:   Loi 1143
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 15.53€
+      prijs: 15.67€
     
     - naam:  Les Folies du Noyer Vert'12
       ref:   Loi 1143
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 15.80€
+      prijs: 15.94€
     
 
     
