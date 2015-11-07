@@ -11,57 +11,42 @@ wijnen:
       app: Vin de France   
       type: Pétillant Naturel 
       cep: Chenin blanc   
-      prijs: 14.65€
-      
-    - naam:  You are so lovely'11
-      ref:   
-      app:   Vin de France
-      type:  Rosé tendre
-      cep:   Grenache/Syrah
-      prijs: 7.51€
+      prijs: €15.15
       
     - naam:  Patapon blanc'08
       ref:   
       app:   A.O.C. Coteaux du Loir
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: 14.00€
+      prijs: 14.14€
       
     - naam:  Le Briseau'08  
       ref:   
       app:   A.O.C. Coteaux du Loir
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: 20.08€
+      prijs: 20.22€
       
     - naam:  Karakther'09  
       ref:   
       app:   A.O.C. Jasnières
       type:  Blanc Sec tendre
       cep:   Chenin blanc
-      prijs: 20.08€
-      
-    - naam:  Karakther'12  
-      ref:   
-      app:   A.O.C. Coteaux du Loir
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: 15.99€
-      opm:   the last bottles
+      prijs: 20.22€
  
     - naam:  Les Longues Vignes'12  
       ref:   
       app:   A.O.C. Coteaux du Loir
       type:  Rouge
       cep:   Pineau d'Aunis 
-      prijs: 14.95€
+      prijs: 15.09€
       
     - naam:  Côte d'Alerte'09
       ref:   
       app:   A.O.C. Coteaux du Loir
       type:  Rouge
       cep:   Côt
-      prijs: 14.00€
+      prijs: 14.14€
       
     - naam:  CôtéCoeur'11  
       ref:   
@@ -75,7 +60,7 @@ wijnen:
       app:   A.O.C. Coteaux du Loir
       type:  Rouge
       cep:   Pineau d'Aunis
-      prijs: 20.00€
+      prijs: 20.14€
 ---
 Nathalie Gaubicher, het vrouwtje van wijlen Christian Chaussard, timmert kranig verder aan de weg.
 Chaussard verongelukte in september 2013. Een tragisch ongeval met de tractor rukte deze zo belangrijke wijnbouwer weg uit het leven.
