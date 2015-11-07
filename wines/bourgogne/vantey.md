@@ -13,21 +13,21 @@ wijnen:
       app:   A.O.C. Maranges
       type:  Rouge
       cep:   Pinot noir
-      prijs: €18.50
+      prijs: €18.64
     
     - naam:  Bourgogne Hautes Côtes de Beaune'13
       ref:   
       app:   A.O.C. Hautes Côtes de Beaune
       type:  Rouge
       cep:   Pinot noir
-      prijs: €15.43
+      prijs: €15.57
       
     - naam:  Maranges "Vieilles Vignes'13"
       ref:   
       app:   A.O.C. Maranges
       type:  Rouge
       cep:   Pinot noir
-      prijs: €20.45
+      prijs: €20.59
 ---   
 Een klein maar fijn domein opgericht in 1998. Voor die tijd was o.a. Jean-Yves actief als D.J. in de ski-gebieden ergens in de Alpen. Een andere tijd beweert hij...
 Het is trouwens daar dat hij Isabelle, een Zwitserse, heeft ontmoet.
