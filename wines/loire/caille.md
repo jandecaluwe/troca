@@ -11,14 +11,14 @@ wijnen:
       app:  V.D.Q.S. Gros Plant du Pays Nantais
       type: Blanc sec
       cep:  Folle blanche 
-      prijs: 6.15€
+      prijs: 6.28€
     
-    - naam: Je t'aime mais j'ai soif'14 
+    - naam: En Attendant'15 
       ref:   
       app:  Vin de France  
       type: Blanc Sec
       cep:  Melon de Bourgogne
-      prijs: 7.30€
+      prijs: 7.66€
       opm:  new wine
     
     - naam: Muscadet'09 (La Part du Colibri)
@@ -26,7 +26,7 @@ wijnen:
       app:  A.O.C. Muscadet de Sèvre et Maine
       type: Blanc sec
       cep:  Melon de Bourgogne 
-      prijs: 6.36€
+      prijs: 6.50€
       opm: the last bottles
     
     - naam: Muscadet'13 (La Part du Colibri)
@@ -34,14 +34,14 @@ wijnen:
       app:  A.O.C. Muscadet de Sèvre et Maine
       type: Blanc sec
       cep:  Melon de Bourgogne 
-      prijs: 7.51€
+      prijs: 7.65€
      
     - naam:  Clos de La Févrie'13
       ref:   
       app:   A.O.C. Muscadet de Sèvre et Maine
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: 9.91€
+      prijs: 10.05€
      
     - naam:  Muscadet Vieilles Vignes'09 
       ref:   
@@ -56,14 +56,14 @@ wijnen:
       app:   A.O.C. Muscadet de Sèvre et Maine
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: 10.00€
+      prijs: 8.75€
     
     - naam:  Monnières-Saint Fiacre'10
       ref:   
       app:   A.O.C. Muscadet de Sèvre et Maine
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: 13.60€
+      prijs: 13.74€
       opm:   48 mois d'élevage sur lies fines
     
 ---
