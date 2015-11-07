@@ -11,21 +11,21 @@ wijnen:
       app:   A.O.C. Saumur Champigny
       type:  Rouge
       cep:   Cabernet franc 
-      prijs: €12.45
+      prijs: €12.59
     
     - naam:  Ruben'12
       ref:   
       app:   A.O.C. Saumur Champigny
       type:  Rouge
       cep:   Cabernet franc 
-      prijs: €14.31
+      prijs: €14.45
     
     - naam:  Amatéüs Bobi'13
       ref:   
       app:   A.O.C. Saumur Champigny
       type:  Rouge
       cep:   Cabernet franc 
-      prijs: €18.03
+      prijs: €18.17
    
    
 ---
