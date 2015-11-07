@@ -11,21 +11,21 @@ wijnen:
       app:  Vin de France
       type: Blanc sec
       cep:  Colombard/Ugni blanc
-      prijs: 6.95€
+      prijs: 7.09€
     
     - naam: Vaïhana'11
       ref:   
       app:  Vin de France
       type: Blanc sec
       cep:  Colombard
-      prijs: 7.51€
+      prijs: 7.65€
     
     - naam: Dulcinée'12 (50cl)
       ref:   
       app:  Moût partiellement fermenté
       type: Blanc liquoreux
       cep:  Colombard
-      prijs: 20.00€
+      prijs: 24.29€
       
     
 ---
