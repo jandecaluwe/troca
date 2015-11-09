@@ -40,7 +40,7 @@ wijnen:
       app:  Vin de France
       type: Blanc sec oxidatif
       cep:  Chenin blanc
-      prijs: €27.50
+      prijs: €24.17
       
     - naam: Le Boit sans soif'12
       ref:   
