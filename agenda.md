@@ -17,6 +17,7 @@ Degustatie gaat door @Troca V.N. Westrozebekestraat 75 8840 Oostnieuwkerke
 
 Ons bezoeken:
 -------------
+* Gesloten op 14/11/4/15
 * Op zaterdag geopend tss. 14.30u en 18.00u.
 * Tijdens de week bent U eveneens welkom na afspraak.
 
