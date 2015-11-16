@@ -22,15 +22,18 @@ Bubbels
 
 Blanc sec
 ---------
-* Vincent Caillé/En Attendant'15 (Melon de Bourgogne) Loire
-* Vincent et Tania Carême/Spring'13 (Chenin blanc) Loire
-* Laurent et Céline Tripoz/Les Chênes'12 (Chardonnay) Bourgogne
+* Vincent Caillé/En Attendant'15 (Melon de Bourgogne) Muscadet
+* Vincent et Tania Carême/Spring'13 (Chenin blanc) Muscadet
+* Laurent et Céline Tripoz/Les Chênes'12 (Chardonnay) Maconnais
 * Claude Buchot/Château Beaufort'13 (Chardonnay) Jura
 * Marc Pesnot/La Bohème'14 (Melon de Bourgogne) Loire
-* Vincent Caillé/Muscadet Vieilles Vignes'13 (Melon de Bourgogne) Loire
-* Christian Venier/Les Carteries'13 (Sauvignon blanc/Chardonnay) Loire
-* Hervé Villemade/La Bodice'13 (Sauvignon blanc/Chardonnay) Loire
-* Jean-François Chéné/Panier de Fruits'13 (Chenin blanc) Loire
+* Vincent Caillé/Muscadet Vieilles Vignes'13 (Melon de Bourgogne) Muscadet
+* Christian Venier/Les Carteries'13 (Sauvignon blanc/Chardonnay) Cheverny
+* Hervé Villemade/La Bodice'13 (Sauvignon blanc/Chardonnay) Cheverny
+* Sébastien Riffault/Les Quarterons'12 (Sauvignon blanc) Sancerre
+* Sébastien Riffault/Akmèniné'11 (Sauvignon blanc sans soufre) Sancerre
+* Sébastien Riffault/Auksinis'11 (Sauvignon blanc V.V. sans soufre) Sancerre
+* Jean-François Chéné/Panier de Fruits'13 (Chenin blanc) Anjou
 * Floréal Roméro/Cuvée 100 Noms'12 (Colombard/Ugni blanc) Gers
 * Floréal Roméro/Vaihana'11 (Ugni blanc) Gers
 * Valli Unite/Ciapè'14 (Cortese) Piemonte
