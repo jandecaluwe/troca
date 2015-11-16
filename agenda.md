@@ -89,6 +89,8 @@ Vins Rouges/Rossi
 * Daniele Rosselini/Sangiovese'12 (Sangiovese) Toscana
 * Valli Unite/Diogene'14 (Dolcetto) Colli Tortonesi/Piemonte
 * Valli Unite/Gaitu'14 (Barbera) Colli Tortonesi/Piemonte
+* Claude Buchot/Pinot noir'12 Jura
+* Claude Buchot/Poulsard'14 Jura
 * Claudio Fenocchio/Barbera d'Alba'13 (Barbera) Piemonte
 * Claudio Fenocchio/Barolo Villero'11 (Nebbiolo) Piemonte
 * Claudio Fenocchio/Barolo Bussia'11 (Nebbiolo) Piemonte 
