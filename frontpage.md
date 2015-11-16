@@ -25,8 +25,8 @@ November
 * Za 21/11 van 13.00u tot 19.00u
 * Zo 22/11 van 10.00u tot 19.00u
 
-zijn aanwezig:
---------------
+Present:
+--------
 * Mme. Charlotte Carsin du Dom. du Clos de l'Elu (Anjou)
 * Sig.ra Sonia Torretta/Tenuta Migliavacca di Francesco Brezza (Monferrato Casalese/Piemonte)
 * Sig. Pier Luca Allegri/Tenuta 2201 (Monferrato Casalese/Piemonte)
