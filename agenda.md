@@ -9,10 +9,32 @@ Te proeven November
 * Za 21/11 van 13.00u tot 19.00u
 * Zo 22/11 van 10.00u tot 19.00u
 
-Aanwezig Mevr. Charlotte Carsin van het Dom. du Clos de l'Elu en Mevr. Sonia Torretta die de beide
-huizen Tenuta 2201 van Pier Luca Allegri en Tenuta Migliavacca van Francesco Brezza uit de Monferrato Casalese/Piemonte vertegenwoordigt.
+Aanwezig Mme. Charlotte Carsin/Dom. du Clos de l'Elu en Sig.ra Sonia Torretta/Tenuta Migliavacca di Francesco Brezza uit de Monferrato Casalese/Piemonte, alsook Sig. Pier Luca Allegri/Tenuta 2201 eveneens
+uit de Monferrato Casalese/Piemonte.
 
 Degustatie gaat door @Troca V.N. Westrozebekestraat 75 8840 Oostnieuwkerke
+
+Mme. Charlotte Carsin/Domaine du Clos de l'Elu Anjou
+----------------------------------------------------
+* Terre'14 (Sauvignon blanc)
+* Bastingage'14 (Chenin blanc)
+* Ephata'12 (Chenin blanc)
+* Indigène'13 (Grolleau)
+* l'Aiglerie'13 (Cabernet franc)
+* Magellan'13 (Cabernet franc)
+* Espérance'13 (Pineau d'Aunis)
+
+Sig.ra Sonia Torretta/Tenuta Migliavacca di Francesco Brezza (Monferrato Casalese/Piemonte)
+-------------------------------------------------------------------------------------------
+* Vino Rosso'14 (Freais/Grignolino e Barbera in magnum)
+* Grignolino del Monferrato'14
+* Barbera del Monferrato'13
+* Barbera del Monferrato'14
+
+Sig. Pier Luca Allegri/Tenuta 2201 (Monferrato Casalesi/Piemonte)
+------------------------------------------------------------------
+* Grignolino del Monferrato'13
+* Barbera del Monferraoto'12
 
 Bubbels
 -------
