@@ -109,7 +109,14 @@ wijnen:
       type:  Rouge
       cep:   Pinot noir
       prijs: €55.95
-      
+    
+    - naam:  Francesco Brezza-Vino Rosso
+      ref:
+      app:   D.O.C. Rosso di Monferrato
+      type:  Rosso
+      cep:   Barbera/Freisa/Grignolino
+      prijs: €13.23
+
     - naam:  Az. Agri. Giacomo Fenocchio-Bussia'10
       ref:
       app:   D.O.C.G. Barolo
