@@ -4,6 +4,14 @@ layout: wijnhuis
 photo: magnum2.jpg
 
 wijnen:
+
+    - naam:  J.F. Chéné (Anjou)
+      ref:   
+      app:   Vin de France
+      type:  Blanc sec
+      cep:   Chenin blanc
+      prijs: €27.50
+    
     - naam:  Ferme de La Sansonnière-Mark Angéli-La Lune'09
       ref:   
       app:   A.O.C. Anjou
