@@ -21,7 +21,7 @@ wijnen:
       
     - naam:  La Coulée de Serrant'13
       ref:   
-      app:   A.O.C. Coulée-de-Serrant'13
+      app:   A.O.C. Coulée de Serrant
       type:  Blanc sec
       cep:   Chenin blanc
       prijs: 
