@@ -14,6 +14,7 @@ content:
     - gaubicher
     - gillet
     - gourdon
+    - joly
     - pibaleau
     - plouzeau
     - plouzeaufr
