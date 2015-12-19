@@ -11,7 +11,7 @@ wijnen:
       cep:   Pinot noir 
       prijs: €44.00
     
-    - naam:  Blanc d'Argile 
+    - naam:  Blanc d'Argile'11 
       ref:   
       app:   A.O.C. Champagne
       cep:   Chardonnay
