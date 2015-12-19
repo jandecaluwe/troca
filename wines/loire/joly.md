@@ -10,7 +10,7 @@ wijnen:
       app:   A.O.C. Savennières
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €25.22
+      prijs: €25.21
       
     - naam:  Clos de La Bergerie'13
       ref:   
