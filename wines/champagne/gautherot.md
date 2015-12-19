@@ -10,12 +10,24 @@ wijnen:
       app:   A.O.C. Champagne
       cep:   Pinot noir 
       prijs: €43.50
-      
+    
+    - naam:  Blanc d'Argile 
+      ref:   
+      app:   A.O.C. Champagne
+      cep:   Chardonnay
+      prijs: 
+    
     - naam:  Fidèle’11 (magnum)
       ref:   Cha 10-- 
       app:   A.O.C. Champagne
       cep:   Pinot noir
       prijs: €88.95
+      
+    - naam:  Blanc d'Argile'11 (magnum) 
+      ref:   
+      app:   A.O.C. Champagne
+      cep:   Chardonnay 
+      prijs: 
 
     - naam:  Saignée de Sorbée’06
       ref:   Cha 0602 
