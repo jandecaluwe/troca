@@ -1,6 +1,6 @@
 ﻿---
 title: Nicolas Joly
-regio: A.O.C. Savennières/A.O.C. Savennières-Roche-Aux-Moines/A.O.C. Savennières-Couléede Serrant
+regio: A.O.C. Savennières/A.O.C. Savennières-Roche-Aux-Moines/A.O.C. Savennières-Coulée de Serrant
 photo: joly.jpg
 layout: wijnhuis 
 
