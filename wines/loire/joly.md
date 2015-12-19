@@ -10,21 +10,21 @@ wijnen:
       app:   A.O.C. Savennières
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: 
+      prijs: €25.20
       
     - naam:  Clos de La Bergerie'13
       ref:   
       app:   A.O.C. Roches-Aux-Moines
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: 
+      prijs: €38.43
       
     - naam:  La Coulée de Serrant'13
       ref:   
       app:   A.O.C. Coulée de Serrant
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: 
+      prijs: €59.50
       
       
      
