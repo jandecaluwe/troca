@@ -32,8 +32,15 @@ wijnen:
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €45.14
-      
+      prijs: €39.70
+    
+    - naam:  Ephata'13
+      ref:   Loi 12-- 
+      app:   A.O.C. Anjou
+      type:  Blanc sec
+      cep:   Chenin blanc
+      prijs: €39.70
+    
     - naam:  Indigène'09
       ref:   
       app:   V.D.P. du Maine et Loire
@@ -77,6 +84,20 @@ wijnen:
       type:  Rouge
       cep:   Cabernet franc
       prijs: €13.89
+    
+    - naam:  Magellan'12
+      ref:   
+      app:   A.O.C. Anjou
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €29.92
+    
+    - naam:  Magellan'13
+      ref:   
+      app:   A.O.C. Anjou
+      type:  Rouge
+      cep:   Cabernet franc
+      prijs: €29.92
       
     - naam:  Magellan'10
       ref:   Loi 1079
