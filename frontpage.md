@@ -29,9 +29,8 @@ Winebox:
 ========
 Surf even naar "Winebox" en bestel ...
 
-Onze openflessen dagen 2016
-===========================
-
+Onze openflessen dagen 2016:
+============================
 * Za 27/02 van 13.00u tot 19.00u
 * Zo 28/02 van 10.00u tot 19.00u
 
