@@ -21,6 +21,7 @@ E: jonas@trocavn.eu
 Ons bezoeken:
 =============
 * Op zaterdag 02/01 zijn wij geopend na afspraak. 
+* Op zaterdag 30/01 en 09/04 zijn wij uitzonderlijk gesloten.
 * Op zaterdag geopend tss. 14.30u en 18.00u.
 * Eveneens tijdens de week bent U welkom na afspraak.
 
