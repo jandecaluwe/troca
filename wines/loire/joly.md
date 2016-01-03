@@ -29,7 +29,7 @@ wijnen:
       
      
 ---
-Roeselare, 03/01/15
+Roeselare, 03/01/16
 
 Nicolas Joly en zijn dochter Virginie Joly, La Coulée de Serrant in Savennières.
 
