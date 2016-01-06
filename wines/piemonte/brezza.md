@@ -10,7 +10,7 @@ wijnen:
     
     - naam:  Vino Rosso'14
       ref:   
-      app:   D.O.C Barbera del Monferrato 
+      app:   Vino da Tavola
       type:  Rosso
       cep:   Barbera/Grignolino/Freisa
       prijs: €13.23
