@@ -45,14 +45,14 @@ wijnen:
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 15.67€
+      prijs: 16.85€
     
     - naam:  Les Folies du Noyer Vert'12
       ref:   Loi 1143
       app:   A.O.C. Chinon
       type:  Rouge
       cep:   Cabernet franc
-      prijs: 15.94€
+      prijs: 16.85€
     
 
     
