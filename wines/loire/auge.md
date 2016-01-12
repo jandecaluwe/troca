@@ -19,21 +19,21 @@ wijnen:
       app:   Vin de France
       type:  Blanc Sec
       cep:   Sauvignon blanc
-      prijs: €13.49
+      prijs: €14.16
 
     - naam:  Poussière de Lune’12
       ref:   Loi 12..
       app:   Vin de France
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €15.59
+      prijs: €16.37
 
     - naam:  L’Eau g’aime’09
       ref:   Loi 09996
       app:   Vin de France
       type:  Rouge
       cep:   Pinot noir/Gamay
-      prijs: €14.39
+      prijs: €15.11
       opm:   De laatsten/Les dernières
 
     - naam:  L’Erèbe’10
@@ -41,49 +41,49 @@ wijnen:
       app:   Vin de France
       type:  Rouge
       cep:   Cabernet franc/Côt
-      prijs: €12.59
+      prijs: €13.74
 
     - naam:  L’Erèbe’11
       ref:   Loi 1165
       app:   Vin de France
       type:  Rouge
       cep:   Cabernet franc/Côt
-      prijs: €12.59
+      prijs: €13.74
 
     - naam:  L’Erèbe’12
       ref:   Loi 12..
       app:   Vin de France
       type:  Rouge
       cep:   Cabernet franc/Côt
-      prijs: €12.59
+      prijs: €13.74
 
     - naam:  Le Herdeleau’10
       ref:   Loi 1074 
       app:   Vin de France
       type:  Rouge 
       cep:   Pinot noir/Gamay 
-      prijs: €12.59
+      prijs: €13.74
 
     - naam:  L’Art de l’Eau’11
       ref:   Loi 1164
       app:   Vin de France
       type:  Rouge 
       cep:   Pinot noir/Gamay/Pineau d'Aunis 
-      prijs: €13.09 
+      prijs: €13.74
 
     - naam:  L’Art de l’Eau’12
       ref:   Loi 12.. 
       app:   Vin de France
       type:  Rouge 
       cep:   Pinot noir/Gamay/Pineau d'Aunis 
-      prijs: €13.09 
+      prijs: €13.74
 
     - naam:  Noire’10
       ref:   Loi 10-- 
       app:   Vin de France
       type:  Rouge 
       cep:   Pinot noir/Gamay/Pineau d’Aunis/Cabernet franc/Côt 
-      prijs: €15.59 
+      prijs: €16.40
 
     - naam:  30 Lunes’04 magnum
       ref:   Loi 0424 
