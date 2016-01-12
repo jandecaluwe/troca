@@ -13,7 +13,7 @@ wijnen:
       cep:  Folle blanche 
       prijs: 6.28€
     
-    - naam: En Attendant'15 
+    - naam: En t' Attendant'15 
       ref:   
       app:  Vin de France  
       type: Blanc Sec
@@ -21,15 +21,7 @@ wijnen:
       prijs: 7.66€
       opm:  new wine
     
-    - naam: Muscadet'09 (La Part du Colibri)
-      ref:   
-      app:  A.O.C. Muscadet de Sèvre et Maine
-      type: Blanc sec
-      cep:  Melon de Bourgogne 
-      prijs: 6.50€
-      opm: the last bottles
-    
-    - naam: Muscadet'13 (La Part du Colibri)
+    - naam: Muscadet'14 (La Part du Colibri)
       ref:   
       app:  A.O.C. Muscadet de Sèvre et Maine
       type: Blanc sec
@@ -50,13 +42,6 @@ wijnen:
       cep:   Melon de Bourgogne
       prijs: 8.75€
       opm:   the last bottles
-    
-    - naam:  Muscadet Vieilles Vignes'13
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 8.75€
     
     - naam:  Monnières-Saint Fiacre'10
       ref:   
