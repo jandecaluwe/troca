@@ -8,26 +8,63 @@ photo: vantey.png
 
 wijnen:
 
-    - naam:  Maranges'12
+    
+    - naam:  Envol'14
       ref:   
       app:   A.O.C. Maranges
       type:  Rouge
       cep:   Pinot noir
-      prijs: €18.64
+      prijs: €13.40
     
     - naam:  Bourgogne Hautes Côtes de Beaune'13
       ref:   
       app:   A.O.C. Hautes Côtes de Beaune
       type:  Rouge
       cep:   Pinot noir
-      prijs: €15.57
+      prijs: €16.34
       
-    - naam:  Maranges "Vieilles Vignes'13"
+    - naam:  Bourgogne Hautes Côtes de Beaune'14
+      ref:   
+      app:   A.O.C. Hautes Côtes de Beaune
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €16.34
+    
+    - naam:  Santenay'14
+      ref:   
+      app:   A.O.C. Santenay
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €22.31 
+      
+    - naam:  Maranges'12
+      ref:   
+      app:   A.O.C. Maranges
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €18.64 
+    
+    - naam:  Maranges 'Vieilles Vignes'13 '
       ref:   
       app:   A.O.C. Maranges
       type:  Rouge
       cep:   Pinot noir
       prijs: €20.59
+     
+    - naam:  Maranges 1e Cru 'Clos Roussots'14 '
+      ref:   
+      app:   A.O.C. Maranges 1e Cru
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €25.10
+
+    - naam:  Maranges 1e Cru 'La Fussière'14 '
+      ref:   
+      app:   A.O.C. Maranges
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €27.52 
+    
 ---   
 Een klein maar fijn domein opgericht in 1998. Voor die tijd was o.a. Jean-Yves actief als D.J. in de ski-gebieden ergens in de Alpen. Een andere tijd beweert hij...
 Het is trouwens daar dat hij Isabelle, een Zwitserse, heeft ontmoet.
