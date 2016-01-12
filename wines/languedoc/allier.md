@@ -26,7 +26,7 @@ wijnen:
       app:   Vin de France 
       type:  Rouge
       cep:   60% Syrah/40% Grenache
-      prijs: €9.50
+      prijs: €10.59
     
     - naam:  Cacous'14
       ref:   
@@ -42,12 +42,19 @@ wijnen:
       cep:   90% Cinsault/10% Grenache
       prijs: €10.14
       
-    - naam:  Pitchounet'14
+    - naam:  Aqui Lou'14
       ref:    
       app:   Vin de France 
       type:  Rouge
-      cep:   90% Cinsault/10% Grenache
-      prijs: €10.59
+      cep:   Grenache
+      prijs: €11.33
+      
+    - naam:  Tracassier'14
+      ref:    
+      app:   Vin de France 
+      type:  Rouge
+      cep:   Grenache
+      prijs: €12.35
       
 ---
 Soon
