@@ -27,13 +27,6 @@ wijnen:
       cep:  Grolleau noir
       prijs: €27.50
       opm: Magnum (150cl)
-      
-    - naam: Panier de Fruits'10
-      ref:   
-      app:  Vin de France
-      type: Blanc sec
-      cep:  Chenin blanc
-      prijs: €13.34
     
     - naam: l'O2 Vigne'09
       ref:   
@@ -47,7 +40,7 @@ wijnen:
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €11.34
+      prijs: €12.30
       opm: the last bottles
     
     - naam: Le Boit sans soif'13
