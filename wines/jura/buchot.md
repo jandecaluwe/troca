@@ -20,7 +20,7 @@ wijnen:
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec ouillé
       cep:   Chardonnay
-      prijs: €11.40
+      prijs: €12.95
       opm:   new wine
     
     - naam:  Cuvée Charles Beaudelaire'11
@@ -51,33 +51,26 @@ wijnen:
       cep:   Savagnin
       prijs: €41.36
 
-    - naam:  Poulsard'12
-      ref:   
-      app:   A.O.C. Côtes de Jura
-      type:  Rouge
-      cep:   Poulsard
-      prijs: €10.85
-
     - naam:  Poulsard'14
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Rouge
       cep:   Poulsard
-      prijs: €10.85
+      prijs: €10.99
     
     - naam:  Pinot noir'12
       ref:    
       app:   A.O.C. Côtes de Jura
       type:  Rouge 
       cep:   Pinot noir
-      prijs: €10.85  
+      prijs: €10.99  
       
     - naam:  Union des 2 Cépages'13
       ref:    
       app:   A.O.C. Côtes de Jura
       type:  Rouge 
       cep:   Pinot noiR/Poulsard
-      prijs: €10.85
+      prijs: €10.99
       opm:   new wine
 
     - naam:  Macvin
@@ -85,7 +78,7 @@ wijnen:
       app:   Côtes de Jura
       type:  Vin muté 
       cep:    
-      prijs: €17.50 
+      prijs: €18.75 
 
     - naam:  Vin de Paille'08
       ref:   
