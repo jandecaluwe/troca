@@ -17,14 +17,14 @@ wijnen:
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €35,12
+      prijs: €37.17
       
     - naam:  Damien Laureau-Les Genets'05
       ref:
       app:   A.O.C. Savennières
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €31.79
+      prijs: €33.38
       
     - naam:  Pascal Simonutti-Je Bois du Vin de Table Même Quand Y'A Pas de Table'08 
       ref:
