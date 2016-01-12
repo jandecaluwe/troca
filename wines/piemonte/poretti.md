@@ -29,13 +29,6 @@ wijnen:
       cep:   Timorasso
       prijs: €11.79
       opm:   Macération pelliculaire
-      
-    - naam:  San Vito'13
-      ref:   
-      app:   D.O.C. Timorasso
-      type:  Bianco
-      cep:   Timorasso
-      prijs: €15.01
 
     - naam:  Diogene'13
       ref:   
