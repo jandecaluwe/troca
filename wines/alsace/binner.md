@@ -30,6 +30,7 @@ wijnen:
       type:  Blanc sec
       cep:   Riesling
       prijs: €15.01
+      opm:   the last bottles
     
     - naam:  Riesling Ammerschwihr'13
       ref:   Als 13--
@@ -37,6 +38,7 @@ wijnen:
       type:  Blanc sec
       cep:   Riesling
       prijs: €13.14
+      opm:   the last bottles
 
     - naam:  Riesling Schlossberg'04 (Grand Cru)
       ref:   Als 0407
@@ -44,6 +46,7 @@ wijnen:
       type:  Blanc sec
       cep:   Riesling
       prijs: €19.31
+      opm:   the last bottles
 
     - naam:  Riesling Bildstoecklé'10 
       ref:   Als 1009
@@ -51,7 +54,7 @@ wijnen:
       type:  Blanc sec
       cep:   Riesling
       prijs: €20.59
-      opm:   Last bottles
+      opm:   the last bottles
       
     - naam:  Riesling Kaefferkoph V.T.'98
       ref:   Als 9801
@@ -79,28 +82,28 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Blanc sec S.Soufre
       cep:   Auxerrois, Riesling, Pinot gris, Gewurztraminer en coplantation
-      prijs: €16.88
+      prijs: €17.38
       
     - naam:  Gewurztraminer non-filtré, non-sulfité'12
       ref:   
       app:   A.O.C. Alsace
       type:  Blanc sec 
       cep:   Gewurztraminer
-      prijs: €15.01
+      prijs: €15.46
    
     - naam:  Auxerrois Hinterberg'08
       ref:   Als 0807
       app:   A.O.C. Alsace
       type:  Blanc sec (sans soufre)
       cep:   Auxerrois
-      prijs: €15.74
+      prijs: €16.52
       
     - naam:  Auxerrois Hinterberg'08 (magnum)
       ref:   Als 0809
       app:   A.O.C. Alsace
       type:  Blanc sec (sans soufre)
       cep:   Auxerrois
-      prijs: €31.78
+      prijs: €33.37
 
     - naam:  Crémant d'Alsace KB'08 (extra brut)
       ref:   Als 12--
@@ -144,42 +147,42 @@ wijnen:
       app:   
       type:  
       cep:   
-      prijs: €36.03
+      prijs: €37.18
       
     - naam:  Eau de Vie de Marc de Gewurztraminer V.T.
       ref:   
       app:   
       type:  
       cep:   
-      prijs: €40.68
+      prijs: €41.83
      
     - naam:  Eau de Vie de Mirabelle
       ref:   
       app:   
       type:  
       cep:   
-      prijs: €49.70
+      prijs: €50.85
        
     - naam:  Eau de Vie de Coing
       ref:   
       app:   
       type:  
       cep:   
-      prijs: €49.70
+      prijs: €50.85
       
     - naam:  Eau de Vie de Quetsch
       ref:   
       app:   
       type:  
       cep:   
-      prijs: €42.18
+      prijs: €45.18
       
     - naam:  Eau de Vie de Poire Williams
       ref:   
       app:   
       type:  
       cep:   
-      prijs: €49.70
+      prijs: €50.85
 ---
 Een gevestigde waarde in Alsace. Dat is het minste dat men hierover kan zeggen. Momenteel verbouwt de familie Binner 11 hectaren rond het dorpje Ammerschwihr. De meeste wijngaarden zijn gesitueerd rond de gekende wijnbergen Kaefferkopf, Schlossberg en Wineck-Schlossberg. De wijngaarden hier kennen geen onkruidverdelgers en kunstmestoffen sinds meer dan 25 jaar. Tussen de ranken krijgt begrassing de vrije loop dit om erosie te vermijden en eveneens ter stimulatie van het leven in de bodem. Bij Binner is het rendement behoorlijk beperkt, dit door allerlei factoren. Korte snoei, biodynamie alsook de ouderdom van de stokken zijn er enkele. Het jaarlijkse doel is om rijp en gezond fruit te oogsten. Het kelderverhaal is er één van non-interventionisme. Zachte en trage pneumatische persing, fermentaties bij lage temperatuur, geen oenologische interventies en/of toevoegingen. Weinig of geen sulfiettoevoegingen al naargelang de cuvée/jaargang.
 Een wijn van Christian Binner is vandaag een echte beleving. Het zijn complexe, rijk geschakkeerde wijnexpressies. Het zijn wijnen die zinderen en doen nadenken. Riesling, Pinot noir of Auxerrois ... of Muscat, Pinot gris ... whatever ...    
