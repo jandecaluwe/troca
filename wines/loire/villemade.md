@@ -87,14 +87,14 @@ wijnen:
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir
-      prijs: €48.16
+      prijs: €52.11
 
     - naam:  Désiré Magnum'11/150cl  
       ref:   
       app:   A.O.C. Cheverny
       type:  Rouge
       cep:   Pinot noir 
-      prijs: €49.63
+      prijs: €52.11
       
     - naam:  Vouvray Moelleux'03  
       ref:   
