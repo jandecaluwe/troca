@@ -28,6 +28,13 @@ wijnen:
       type:  blanc
       cep:   Chardonnay
       prijs: €13.09
+      
+    - naam:  Les Chênes'13
+      ref:   
+      app:   A.O.C. Macon-Loché
+      type:  blanc
+      cep:   Chardonnay
+      prijs: €14.50
 
     - naam:  Fleur d'Aligoté
       ref:   
@@ -55,14 +62,14 @@ wijnen:
       app:   A.O.C. Macon
       type:  rouge
       cep:   Gamay
-      prijs: €11.64
+      prijs: €12.22
     
     - naam:  Le Chant de La Tour'08
       ref:   
       app:   A.O.C. Bourgogne
       type:  rouge
       cep:   Pinot noir
-      prijs: €13.79
+      prijs: €14.47
       
     - naam:  Le Chant de La Tour'12
       ref:   
@@ -71,4 +78,4 @@ wijnen:
       cep:   Pinot noir
       prijs: €13.79
 ---
-Uitleg over de wijnbouwer...
+Soon...
