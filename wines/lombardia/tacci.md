@@ -19,13 +19,6 @@ wijnen:
       cep:   Malvasia
       prijs: €14.79
       
-    - naam:  Barbera'12
-      ref:   
-      app:   D.O.C. Oltrepo Pavese
-      type:  Rosso
-      cep:   Barbera
-      prijs: €9.94
-      
     - naam:  Zaffo'06
       ref:   
       app:   D.O.C. Oltrepo Pavese

@@ -11,13 +11,6 @@ wijnen:
       type:  Rosso
       cep:   70%Sangiovese//30% Cabernet Sauvignon/Merlot
       prijs: 9.99€
-
-    - naam:  Montecucco Sangiovese'11
-      ref:   
-      app:   D.O.C. Montecucco Sangiovese
-      type:  Rosso
-      cep:   Sangiovese
-      prijs: 13.89€
       
     - naam:  Montecucco Sangiovese'12
       ref:   
