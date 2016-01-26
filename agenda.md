@@ -5,7 +5,6 @@ layout: page
  
 Ons bezoeken:
 -------------
-* Op zaterdag 02/01 zijn we geopend na afspraak.
 * Op zaterdag 30/01 en 09/04 zijn wij uitzonderlijk gesloten.
 * Op zaterdag geopend tss. 14.30u en 18.00u.
 * Tijdens de week bent U eveneens welkom na afspraak.
