@@ -46,7 +46,7 @@ Onze openflessen dagen 2016:
 
 Over natuurwijn:
 ================
-Er bestaan tal van zeer goede tot exellente wijnen zonder toegevoegd sulfiet. Wijnen zonder toegevoegd sulfiet kunnen ettelijke jaren ouderen 
+Er bestaan tal van zeer goede tot excellente wijnen zonder toegevoegd sulfiet. Wijnen zonder toegevoegd sulfiet kunnen ettelijke jaren ouderen 
 in een goede kelder. 
 
 De meningen rond het begrip "natuurwijn" verschillen echter bij de wijnbouwers. Wat wel en wat niet?!
