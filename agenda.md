@@ -2,6 +2,12 @@
 title: Agenda 
 layout: page
 ---
+Coming up:
+----------
+* Di 15/03/16 Aanwezig: Hervé Villemade dégustatie + een 'stevige' tafel @Troca V.N.
+* Ma 18/04/16 Aanwezig: Michel Augé dégustatie + een 'stevige' tafel @Troca V.N.
+* Di 19/04/16 Aanwezig: Michel Augé dégustatie + diner in Rest. Het Land aan de Overkant (Heverlee)
+* Details hieromtrent verschijnen eerstdaags.
  
 Ons bezoeken:
 -------------
