@@ -18,6 +18,12 @@ E: jonas@trocavn.eu
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
 
+Coming up:
+==========
+* aanwezig Hervé Villemade (Cheverny) 15/03/16
+* aanwezig Michel Augé (Loir et Cher) 18/04 & 19/04
+* Bekijk details in onze agenda (navigatie)
+
 Ons bezoeken:
 =============
 * Op zaterdag 02/01 zijn wij geopend na afspraak. 
