@@ -14,26 +14,12 @@ wijnen:
       cep:   Grolleau noir
       prijs: €11.70
       
-    - naam:  Chenin blanc sec tendre'06
-      ref:   
-      app:   A.O.C. Azay-Le Rideau
-      type:  Blanc sec tendre
-      cep:   Chenin blanc
-      prijs: €8.07
-      
     - naam:  Gamay'13  
       ref:   
       app:   Vin de France 
       type:  Rouge 
       cep:   Gamay à jus blanc
       prijs: €7.65
-      
-    - naam:  l'Héritage d'Aziaum'13
-      ref:   
-      app:   A.O.C. Azay-Le-Rideau
-      type:  Rouge
-      cep:   75% Côt/20% Cabernet franc/5% Gamay
-      prijs: €8.50
    
 
 ---
