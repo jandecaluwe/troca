@@ -15,7 +15,9 @@ Coming up:
     een betonnen 'ei' en sinds vorig jaar 2 amphoren uit Georgië. De resultaten uit deze laatsten zijn zo verbluffend dat er nog eens 8 extra zijn besteld.
     Het zit zeer goed 'op de rit' bij Hervé Villemade en toen we hem enkele weken 'voorzichtig weg' vroegen om naar België te komen was het antwoord onmiddellijk 'JA'.
     Wij stevenen af op een mega-degustatie. U heeft onze garantie ... 
-    Surf naar http://www.troca-vn.be/wines/loire/villemade.html voor meer info over dit domein.
+    Surf naar onderstaande link voor meer info over dit domein. 
+    
+    http://www.troca-vn.be/wines/loire/villemade.html
     
     Deelname: 85€    
 
