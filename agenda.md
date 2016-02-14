@@ -47,7 +47,9 @@ Coming up:
     Michel Augé is geen actief wijnbouwer meer doch zal actief met het wereldje betrokken blijven.
     
     Niet te missen, denken wij ...
-    Surf naar http://www.troca-vn.be/wines/loire/auge.html voor meer info over dit domein.
+    Surf naar onderstaande link voor meer info over dit domein. 
+    
+    http://www.troca-vn.be/wines/loire/auge.html
 
     
 Ons bezoeken:
