@@ -5,6 +5,7 @@ layout: page
 Coming up:
 ----------
 * Di 15/03/16 Aanwezig: Hervé Villemade (Cheverny/Loire) dégustatie + een 'stevige' tafel @Troca V.N.
+-----------------------------------------------------------------------------------------------------
 
     Deelname: 85€ 
 
@@ -22,10 +23,12 @@ Coming up:
     http://www.troca-vn.be/wines/loire/villemade.html   
 
 * Ma 18/04/16 Aanwezig: Michel Augé dégustatie + een 'stevige' tafel @Troca V.N.
+--------------------------------------------------------------------------------
     
     Deelname: 90€
 
 * Di 19/04/16 Aanwezig: Michel Augé dégustatie + diner (5 gangen) in Rest. Het Land aan de Overkant (Heverlee)
+--------------------------------------------------------------------------------------------------------------
     
     Deelname: 125€
     
