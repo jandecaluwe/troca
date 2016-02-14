@@ -15,7 +15,8 @@ Coming up:
     een betonnen 'ei' en sinds vorig jaar 2 amphoren uit Georgië. De resultaten uit deze laatsten zijn zo verbluffend dat er nog eens 8 extra zijn besteld.
     Het zit zeer goed 'op de rit' bij Hervé Villemade en toen we hem enkele weken 'voorzichtig weg' vroegen om naar België te komen was het antwoord onmiddellijk 'JA'.
     Wij stevenen af op een mega-degustatie. U heeft onze garantie ... 
-    Surf naar voor meer info over dit domein.
+    Surf naar http://www.troca-vn.be/wines/loire/villemade.html voor meer info over dit domein.
+    
     Deelname: 85€    
 
     * Ma 18/04/16 Aanwezig: Michel Augé dégustatie + een 'stevige' tafel @Troca V.N.
@@ -44,6 +45,7 @@ Coming up:
     Michel Augé is geen actief wijnbouwer meer doch zal actief met het wereldje betrokken blijven.
     
     Niet te missen, denken wij ...
+    Surf naar http://www.troca-vn.be/wines/loire/auge.html voor meer info over dit domein.
 
     
 Ons bezoeken:
