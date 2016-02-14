@@ -4,7 +4,9 @@ layout: page
 ---
 Coming up:
 ----------
-* Di 15/03/16 Aanwezig: Hervé Villemade (Cheverny/Loire) dégustatie + een 'stevige' tafel @Troca V.N. 
+* Di 15/03/16 Aanwezig: Hervé Villemade (Cheverny/Loire) dégustatie + een 'stevige' tafel @Troca V.N.
+
+    Deelname: 85€ 
 
     Hervé Villemade is geen onbekende voor ons. 10 jaar geleden gingen we aan de slag toen hij nog voor 'aankoop van druiven' geassocieerd was met Olivier Lemasson.
     Ondertussen heeft deze kranige man het geschopt tot een domein van 25 ha en in 2010 tot de realisatie van een volledig nieuwe kelder van ongeveer 600m2.
@@ -17,15 +19,13 @@ Coming up:
     Wij stevenen af op een mega-degustatie. U heeft onze garantie ... 
     Surf naar onderstaande link voor meer info over dit domein. 
     
-    http://www.troca-vn.be/wines/loire/villemade.html
-    
-    Deelname: 85€    
+    http://www.troca-vn.be/wines/loire/villemade.html   
 
-    * Ma 18/04/16 Aanwezig: Michel Augé dégustatie + een 'stevige' tafel @Troca V.N.
+* Ma 18/04/16 Aanwezig: Michel Augé dégustatie + een 'stevige' tafel @Troca V.N.
     
     Deelname: 90€
 
-    * Di 19/04/16 Aanwezig: Michel Augé dégustatie + diner (5 gangen) in Rest. Het Land aan de Overkant (Heverlee)
+* Di 19/04/16 Aanwezig: Michel Augé dégustatie + diner (5 gangen) in Rest. Het Land aan de Overkant (Heverlee)
     
     Deelname: 125€
     
