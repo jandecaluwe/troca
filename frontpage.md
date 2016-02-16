@@ -11,9 +11,9 @@ Mobile Jacques Masy: +32.476.88.32.15
  
 Mobile Jonas Van Thillo: +32.478.43.58.24
  
-E: jacques@trocavn.eu
+E: <jacques@trocavn.eu>
 
-E: jonas@trocavn.eu
+E: <jonas@trocavn.eu>
 
 [Volg ons op Facebook!](http://www.facebook.be/TrocaVinsNaturels)
 {: .text-info }
