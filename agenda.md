@@ -2,6 +2,32 @@
 title: Agenda 
 layout: page
 ---
+
+tasting list 27&28/02 @Troca V.N.
+---------------------------------
+* LES BULLES
+* Marc Plouzeau/Perle Sauvage'14 
+* Philippe Gourdon/Saumur Brut 2002 (10 ans de lattes)
+* Christian Binner/Crémant KB'08 (6 ans de lattes)
+* BLANC SEC TRANQUILLE
+* Marc Plouzeau/Fine S'15/Sauvignon blanc
+* Hervé Villemade/Sauvignon blanc'15
+* Hervé Villemade/La Bodice'12/Cheverny/Sauvignon-Chardonnay
+* Vincent Caillé/Monnières St-Fiacre'10/Melon de Bourgogne (42 mois d'élevage)
+* Joël Ménard/Le Saule'11/Grand Chenin d'Anjou
+* Vincent Carême/Vouvray Sec'11
+* Vincent Carême/Le Peu Morier'12/Chenin blanc
+* Michel Issaly/Le Grand Millésime'11/Gaillac/Mausac vert
+* Valli Unite/Montesoro'13/Piemonte/Timorasso maceratione
+* Nicolas Joly/Les Vieux Clos'13/Savennières/Chenin blanc
+* Nicolas Joly/Clos de La Bergerie'13/Roches Aux Moines
+* Nicolas Joly/Coulée de Serrant'12/Chenin blanc
+* Pascal Clairet/Fleur de Savagnin'11/Jura
+* Sébastien Riffault/Akmèniné'11/Sancerre/Sauvignon blanc
+* Christian Binner/Côtes d'Ammerschwihr'12/Alsace
+
+
+
 Coming up:
 ----------
 * Di 15/03/16 Aanwezig: Hervé Villemade (Cheverny/Loire) dégustatie + een 'stevige' tafel @Troca V.N.
