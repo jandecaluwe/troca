@@ -25,6 +25,24 @@ tasting list 27&28/02 @Troca V.N.
 * Pascal Clairet/Fleur de Savagnin'11/Jura
 * Sébastien Riffault/Akmèniné'11/Sancerre/Sauvignon blanc
 * Christian Binner/Côtes d'Ammerschwihr'12/Alsace
+* LES ROUGES
+* Jacques Carroget/Simplement Gamay'13/Coteaux d'Ancenis
+* Laurent Tripoz/Les Perrières'08/Maconnais/Gamay
+* Laurent Tripoz/Le Chant de La Tour'12/Bourgogne/Pinot noir
+* Jean-Yves Vantey/Envol'14/Bourgogne/Pinot noir
+* Christian Binner/Pinot noir non filtré'13/Alsace
+* Olivier Bellanger/Mon Tout Rouge'13/Côt-Gamay
+* Hervé Villemade/Pivoine'11/Côt-Gamay
+* Alain Allier/Aqui Lou'14/Gard/Grenache-Merlot
+* Paul Gilet/Le Dernier Né/Loire/Pinot noir-Pineau d'Aunis
+* Jean-Yves Vantey/Santenay'14/Pinot noir
+* Thomas Carsin/Espérance'13/Anjou/Pineau d'Aunis
+* Fabien Boisard/Pieds et Mains'09/Cabernet franc
+* Thomas Carsin/l'Aiglerie'12/Anjou Cabernet franc
+* Michel Issaly/Le Combe d'Aves'08/Gaillac/Duras-Braucol
+* Michel Issaly/Le Grand Tertre'11/Prunelard-Braucol
+* Antonella Tacci/Zaffo'06/Oltrepo Pavese/Croatina
+* Claudio Fenocchio/Barolo Bussia'11/Nebbiolo
 
 
 
