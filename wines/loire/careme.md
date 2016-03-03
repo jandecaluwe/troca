@@ -27,12 +27,19 @@ wijnen:
       cep:   Chenin blanc
       prijs: €14.77
       
-    - naam:  Cuvée Ancestrale'11
+    - naam:  Cuvée Ancestrale'13
       ref:   
       app:   A.O.C. Vouvray
       type:  Blanc mousseux
       cep:   Chenin blanc
-      prijs: €14.77
+      prijs: €16.00
+    
+    - naam:  Cuvée Ancestrale'14
+      ref:   
+      app:   A.O.C. Vouvray
+      type:  Blanc mousseux
+      cep:   Chenin blanc
+      prijs: €16.45
       
     - naam:  Spring'13
       ref:   
