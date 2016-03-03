@@ -10,7 +10,7 @@ wijnen:
       app:   V.D.P du Val de Loire
       type:  Blanc sec
       cep:   Sauvignon blanc
-      prijs: €10.64
+      prijs: €11.17
       
     - naam:  Bastingage'14
       ref:   Loi 1225
