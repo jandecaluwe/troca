@@ -1,3 +1,8 @@
+---
+title: Agenda
+layout: page
+---
+
 Coming up:
 ----------
 * Di 15/03/16 Aanwezig: Hervé Villemade (Cheverny/Loire) dégustatie + een 'stevige' tafel @Troca V.N.
