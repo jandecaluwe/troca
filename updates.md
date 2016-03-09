@@ -33,7 +33,7 @@ Zie onderstaand de doorgevoerde updates betreffende de wijnlijst.
 * 21/09/15 Alsace-Bannwarth-Wines
 * 21/09/15 Alsace-Binner-Wines
 * 03/01/16 Loire-Nicolas Joly
-*
+
 
     
   
