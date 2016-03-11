@@ -62,8 +62,8 @@ Ons bezoeken:
 Onze openflessen dagen 2016:
 ----------------------------
 * Mei
-* Za 07/05 van 13.00u tot 19.00u
-* Zo 08/05 van 10.00u tot 19.00u
+* Za 21/05 van 13.00u tot 19.00u
+* Zo 22/05 van 10.00u tot 19.00u
 * Oktober
 * Za 01/10 van 13.00u tot 19.00u
 * Zo 02/10 van 10.00u tot 19.00u
