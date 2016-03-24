@@ -2,18 +2,6 @@
 from __future__ import unicode_literals
 
 import re
-from distutils.version import StrictVersion
-import urubu
-
-urubu_version_required = "0.3"
-
-urubu_version_error = """\
-Urubu version should be >= {}
-Upgrade with: "pip install --upgrade urubu"
-""".format(urubu_version_required)
-
-if StrictVersion(urubu.__version__) < StrictVersion(urubu_version_required):
-    raise AssertionError(urubu_version_error) 
 
 undefined_key = "'{}' not defined in '{}'"
 
@@ -70,9 +58,8 @@ def validate_wijnhuis(item):
             prijs = "{:.2f}".format(prijs)
             wijn['prijs'] = prijs
 
-
-validators= {}
-
-validators['wijnhuis'] = validate_wijnhuis 
-validators['winebox'] = validate_wijnhuis 
-
+def process_info(info, site):
+    if info['layout'] == 'wijnhuis':
+        validate_wijnhuis(info)
+    if info['layout'] == 'winebox':
+        validate_wijnhuis(info)
