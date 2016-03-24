@@ -20,7 +20,6 @@ E: <jonas@trocavn.eu>
 
 Coming up:
 ==========
-* aanwezig Hervé Villemade (Cheverny) 15/03/16
 * aanwezig Michel Augé (Loir et Cher) 18/04 & 19/04
 * Bekijk details in onze agenda (navigatie)
 
