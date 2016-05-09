@@ -30,7 +30,7 @@ Onze openflessen dagen 2016:
 * Mei
 * Za 21/05 van 13.00u tot 19.00u
 * Zo 22/05 van 10.00u tot 19.00u
-* Eerstdaags heeft U alle info over proeflijst en nieuwe domeinen. 
+* Eerstdaags heeft U alle info over onze proeflijst en nieuwe domeinen. 
 * Oktober
 * Za 01/10 van 13.00u tot 19.00u
 * Zo 02/10 van 10.00u tot 19.00u
