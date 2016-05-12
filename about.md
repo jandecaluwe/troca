@@ -19,10 +19,10 @@ Ik denk dat er slechts 300 bezoekers kwamen opdagen gedurende 2 dagen.
 Op het einde van dag 1, bleek er één tafel druk bezocht en dit door zowaar bijna enkel wijnbouwers.
 Ik proefde daar mijn eerste natuurwijnen. Natuurwijnen van het huis Domaine du Peyra uit de Auvergne.
 
-De ervaring was dermate boeiend, de sensatie, de vraagtekens in mijn hoofd, de nieuwsgierigheid ...
+De ervaring was dermate boeiend, de sensatie, de vraagtekens in mijn hoofd, de nieuwsgierigheid, …
 Dit contact zorgde voor een fundamentele wending betreffende mijn visie op "een goed glas wijn".
 
-La Dive Bouteille is volgend jaar aan editie 15 toe.
+La Dive Bouteille is volgend jaar aan editie nr 15 toe.
 
 2007
 ----
