@@ -1,4 +1,4 @@
-﻿---
+---
 title: Denis Robert et Sébastien Pradal
 huis:  Mas d'Intras
 dept:  Ardeche
@@ -7,13 +7,6 @@ photo: masdintras.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam: Chardonnay'14
-      ref:   
-      app:  I.G.P. Ardèche
-      type: Blanc sec
-      cep:  Chardonnay
-      prijs: €8.48
-      opm: sans soufre
     
     - naam: Trace Nègre'14
       ref:   
