@@ -1,4 +1,4 @@
-﻿---
+---
 title: Alain Allier
 huis: Mouressipe
 regio: Languedoc
@@ -22,13 +22,6 @@ wijnen:
       prijs: €10.59
     
     - naam:  Cacous'06
-      ref:   
-      app:   Vin de France 
-      type:  Rouge
-      cep:   60% Syrah/40% Grenache
-      prijs: €10.59
-    
-    - naam:  Cacous'14
       ref:   
       app:   Vin de France 
       type:  Rouge
