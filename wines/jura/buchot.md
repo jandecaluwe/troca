@@ -1,4 +1,4 @@
-﻿---
+---
 title: Claude Buchot
 huis:  Dom. Claude Buchot
 dept:  Jura
@@ -21,7 +21,6 @@ wijnen:
       type:  Blanc sec ouillé
       cep:   Chardonnay
       prijs: €12.95
-      opm:   new wine
     
     - naam:  Cuvée Charles Beaudelaire'11
       ref:   
