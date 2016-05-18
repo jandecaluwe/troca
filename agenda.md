@@ -3,6 +3,17 @@ title: Agenda
 layout: page
 ---
 
+Open Flessen Weekend:
+=====================
+
+Te proeven:
+
+Bubbels:
+———————-
+* Vincent Caillé	X-Bulle’14 (Melon de Bourgogne)
+* Marc Plouzeau		Perle Sauvage’14 (Chenin blanc)
+* Olivier Bellanger	Gazouille blanc’15 (Chardo/Chenin/Menu Pineau)
+
 Ons bezoeken:
 ============
 * Op zaterdag geopend tss. 14.30u en 18.00u.
