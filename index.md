@@ -8,6 +8,5 @@ content:
     - updates
     - wines
     - agenda
-    - winebox
     - contact
 ---
