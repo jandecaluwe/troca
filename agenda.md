@@ -9,7 +9,8 @@ Open Flessen Weekend:
 Te proeven:
 
 Bubbels:
-———————-
+--------
+
 * Vincent Caillé	X-Bulle’14 (Melon de Bourgogne)
 * Marc Plouzeau		Perle Sauvage’14 (Chenin blanc)
 * Olivier Bellanger	Gazouille blanc’15 (Chardo/Chenin/Menu Pineau)
