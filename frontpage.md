@@ -23,7 +23,7 @@ Ons bezoeken:
 ============= 
 * Op zaterdag geopend tss. 14.30u en 18.00u.
 * Eveneens tijdens de week bent U welkom na afspraak.
-* Bezoek onze webshop via deze link <www.troca-vn-shop.be>
+* Bezoek onze webshop via deze link <http://www.troca-vn-shop.be>
 
 
 Onze openflessen dagen 2016:
