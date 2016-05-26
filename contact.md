@@ -3,8 +3,8 @@ title: Contact
 layout: page
 ---
 
-Coördinaten
------------
+Coördinaten:
+------------
 
 Westrozebekestraat 75  
 8840 Oostnieuwkerke
@@ -12,14 +12,14 @@ Gsm: 0032.476.88.32.15
 Skype: maver.bvba  
 e.mail: <jacques@trocavn.eu>
 
-Openingsuren
-------------
+Openingsuren:
+-------------
 
 Open op zaterdagnamiddag van 14.30u tot 18.00u.  
 Tijdens de week na afspraak.  
 
 
-Facturatiegegevens  
+Facturatiegegevens: 
 -------------------
   
 Maver bvba  
