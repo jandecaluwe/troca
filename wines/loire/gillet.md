@@ -1,4 +1,4 @@
-﻿---
+---
 title: Paul et Corinne Gillet
 huis: Dom. des Maisons Brûlées
 regio: Vallée du Cher
@@ -6,42 +6,50 @@ photo: gillet.jpg
 layout: wijnhuis
 
 wijnen:
-    - naam:  Silène'13
+    - naam:  Altérité’14-15
       ref:   
       app:   Vin de France
-      type:  Blanc sec
-      cep:   Sauvignon blanc 
-      prijs: €13.63
-    
-    - naam:  Uccello'13
-      ref:   
-      app:   Vin de France
-      type:  Pétillant naturel
-      cep:   Chardonnay
-      prijs: €16.75
-      Opm:   the last bottles
-    
+      type:  Rouge
+      cep:   Gamay
+      prijs: €14.34
+
     - naam:  Le Dernier Né'13
       ref:   Loi 0821
       app:   Vin de France
       type:  Rouge
       cep:   Pineau d'Aunis/Gamay
-      prijs: €13.09
-       
-    - naam:  Erèbe'13
-      ref:   Loi 0821
-      app:   Vin de France
-      type:  Rouge
-      cep:   50%Côt/50%Cabernet franc
-      prijs: €13.63
-    
-    - naam:  R2L'O '13
+      prijs: €13.10
+
+    - naam:  R2L'O '14
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   40% Pinot noir/40% Gamay/20% Pineau d'Aunis
-      prijs: €14.61   
-     
+      prijs: €14.63   
+    
+    - naam:  Erèbe'13
+      ref:   
+      app:   Vin de France
+      type:  Rouge
+      cep:   50%Côt/50%Cabernet franc
+      prijs: €28.97
+      opm:   magnum/150cl
+    
+    - naam:  Silène’13
+      ref:   
+      app:   Vin de France
+      type:  Blanc sec
+      cep:   Sauvignon blanc
+      prijs: €28.97
+      opm:   Magnum/150cl 
+  
+    - naam:  Ca Me’14
+      ref:   
+      app:   Vin de France
+      type:  Blanc de Maceration
+      cep:   Sauvignon blanc
+      prijs: €12.36
+
     
 ---
 Paul en Sandrine Gillet (rechts op de foto), een mooi koppel afkomstig uit Mulhouse (Haut-Rhin), hebben zich recent bekeerd tot de natuurwijnbouw.
