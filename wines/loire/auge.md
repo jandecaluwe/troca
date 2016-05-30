@@ -14,6 +14,13 @@ wijnen:
       cep:   Cabernet sauvignon
       prijs: €15.00
 
+    - naam:  Le Petit Uccello’09
+      ref:   
+      app:   Vin de France
+      type:  Petillant Naturel (sec)
+      cep:   Chardonnay
+      prijs: €16.40
+
     - naam:  Poussière de Lune’12
       ref:   Loi 12..
       app:   Vin de France
