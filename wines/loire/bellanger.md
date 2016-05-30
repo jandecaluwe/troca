@@ -1,4 +1,4 @@
-﻿---
+---
 title: Olivier Bellanger
 huis:  Dom. de La Piffaudière
 regio: A.O.C. Touraine
@@ -6,33 +6,48 @@ photo: bellanger.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: Mon Tout Rouge'14
+    
+    - naam: Gazouille’15
+      ref:   
+      app:  Vin de France
+      type: Méthode Ancestrale
+      cep:  Chenin blanc/Chardonnay/Menu Pineau
+      prijs: €12.98
+
+    - naam: Sauvignon blanc’15
+      ref:   
+      app:  A.O.C. Touraine
+      type: Blanc sec
+      cep:  Sauvignon blanc
+      prijs: €10.33
+
+    - naam: Mon Tout Rouge'13
       ref:   
       app:  A.O.C. Touraine
       type: Rouge
       cep:  60% Côt/40% Gamay à Jus Blanc
       prijs: €10.58
+
+    - naam: Mon Tout Rouge'15
+      ref:   
+      app:  Vin de France
+      type: Rouge
+      cep:  65% Pineau d’Aunis/35% Gamay
+      prijs: €11.57
       
-    - naam: Gamay'13
+    - naam: Gamay'15
       ref:   
       app:  A.O.C. Touraine
       type: Rouge
       cep:  Gamay à Jus Blanc
-      prijs: €11.17
-    
-    - naam: Pineau d'Aunis'13
-      ref:   
-      app:  Vin de France
-      type: Rouge
-      cep:  Pineau d'Aunis
-      prijs: €13.58
+      prijs: €11.20
       
     - naam: Toucheronde'12
       ref:   
       app:  A.O.C. Touraine
       type: Rouge
       cep:  Gamay/Pineau d'Aunis
-      prijs: €13.58
+      prijs: €13.60
      
     
     
