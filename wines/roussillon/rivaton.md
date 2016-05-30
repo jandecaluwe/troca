@@ -1,4 +1,4 @@
-﻿---
+---
 title: Frédéric Rivaton
 huis:  Domaine Rivaton
 dept:  Pyrenées Orientales
@@ -8,26 +8,26 @@ layout: wijnhuis
 
 wijnen:
 
-    - naam:  Blanc Bec'13
+    - naam:  Blanc Bec'14
       ref:   
       app:   Vin de France
       type:  Blanc Sec
       cep:   50% Macabeo, 30% Carignan blanc, 20% Grenache gris
-      prijs: €14.70
+      prijs: €14.71
       
     - naam:  Panoramix'14
       ref:   
       app:   Vin de France
       type:  Pet.Nat.Rosé 
       cep:   Syrah
-      prijs: €12.09
+      prijs: €13.10
       
     - naam:  Tombé du Ciel'13
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   60% Syrah/40% Carignan
-      prijs: €9.52
+      prijs: €9.55
       
     - naam:  Vieilles Bouilles'14 
       ref:   
@@ -36,14 +36,6 @@ wijnen:
       cep:   70% Carignan/20% Syrah/10% Grenache
       prijs: €13.74
     
-    - naam:  Gribouille"10
-      ref:   Rous 1001
-      app:   Vin de France
-      type:  Rouge
-      cep:   70% Carignan/15% Syrah/15% Grenache
-      prijs: €15.95
-      opm:   the last bottles
-      
     - naam:  Jus de Raisin (25 cl)
       ref:   
       app:   
