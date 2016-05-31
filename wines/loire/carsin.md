@@ -1,52 +1,38 @@
-﻿---
+---
 title: Thomas Carsin
 regio: Anjou noir
 photo: carsin.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam:  Terre'14
-      ref:   
-      app:   V.D.P du Val de Loire
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €11.17
       
     - naam:  Bastingage'14
       ref:   Loi 1225
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €14.24
-      
-    - naam:  Galerne'12
-      ref:   Loi 1226
-      app:   A.O.C. Anjou
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: €14.09
-      opm:   the last bottles
+      prijs: €14.59
     
     - naam:  Ephata'12
       ref:   Loi 12-- 
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €39.70
+      prijs: €39.75
     
     - naam:  Ephata'13
-      ref:   Loi 12-- 
+      ref:   
       app:   A.O.C. Anjou
       type:  Blanc sec
       cep:   Chenin blanc
-      prijs: €39.70
+      prijs: €39.75
     
     - naam:  Indigène'09
       ref:   
       app:   V.D.P. du Maine et Loire
       type:  Rouge
       cep:   Grolleau noir/Gamay
-      prijs: €8.64 
+      prijs: €8.51
       opm:   the last bottles
     
     - naam:  Indigène'11
@@ -54,7 +40,7 @@ wijnen:
       app:   V.D.P. du Maine et Loire
       type:  Rouge
       cep:   Grolleau noir/Gamay
-      prijs: €9.99
+      prijs: €9.88
       opm:   the last bottles
 
     - naam:  Indigène'12
@@ -62,35 +48,29 @@ wijnen:
       app:   V.D.P. du Maine et Loire
       type:  Rouge
       cep:   Grolleau noir/Gamay
-      prijs: €10.88
+      prijs: €10.87
+      ops:   the last bottles
       
-    - naam:  Indigène'13
+    - naam:  Indigène'14
       ref:   
       app:   V.D.P. du Maine et Loire
       type:  Rouge
       cep:   Grolleau noir/Gamay
-      prijs: €12.18
+      prijs: €11.16
 
     - naam:  l'Aiglerie'12
       ref:   Loi 1232
       app:   A.O.C. Anjou
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €13.89
+      prijs: €13.84
       
     - naam:  l'Aiglerie'13
       ref:   
       app:   A.O.C. Anjou
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €13.89
-    
-    - naam:  Magellan'12
-      ref:   
-      app:   A.O.C. Anjou
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: €29.92
+      prijs: €13.84
     
     - naam:  Magellan'13
       ref:   
@@ -104,37 +84,30 @@ wijnen:
       app:   A.O.C. Anjou
       type:  Rouge
       cep:   Cabernet franc
-      prijs: €46.14
-      opm:   Magnum
+      prijs: €46.16
+      opm:   Magnum/150cl
       
     - naam:  Magellan'12
-      ref:   Loi 1079
+      ref:   
       app:   A.O.C. Anjou
       type:  Rouge
       cep:   Cabernet franc
       prijs: €54.13
-      opm:   Magnum
+      opm:   Magnum/150cl
       
     - naam:  Espérance'13
       ref:   
       app:   Vin de France
       type:  Rouge
       cep:   Pineau d'Aunis
-      prijs: €23.09
+      prijs: €23.10
       
     - naam:  Dames de Nage'11
       ref:   Loi 1172
       app:   A.O.C. Crémant de Loire
       type:  Méthode Ancestrale
       cep:   Grolleau gris
-      prijs: €15.46
-      
-    - naam:  Coteau du Layon'11
-      ref:   Loi 1125
-      app:   A.O.C. Coteaux du Layon
-      type:  Blanc moelleux
-      cep:   Chenin blanc
-      prijs: €16.41
+      prijs: €15.54
       
      
 ---
