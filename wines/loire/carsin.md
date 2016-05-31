@@ -33,7 +33,7 @@ wijnen:
       type:  Blanc sec
       cep:   Chenin blanc
       prijs: €82.07
-      opm:   magnum/150cl
+      opm:   Magnum/150cl
 
     - naam:  Indigène'09
       ref:   
