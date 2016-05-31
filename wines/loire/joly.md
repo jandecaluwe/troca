@@ -1,4 +1,4 @@
-﻿---
+---
 title: Nicolas Joly
 regio: A.O.C. Savennières/A.O.C. Savennières-Roche-Aux-Moines/A.O.C. Savennières-Coulée de Serrant
 photo: joly.jpg
@@ -19,7 +19,7 @@ wijnen:
       cep:   Chenin blanc
       prijs: €38.43
       
-    - naam:  La Coulée de Serrant'13
+    - naam:  La Coulée de Serrant'14
       ref:   
       app:   A.O.C. Coulée de Serrant
       type:  Blanc sec
