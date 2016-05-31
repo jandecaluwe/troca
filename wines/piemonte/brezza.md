@@ -1,4 +1,4 @@
-﻿---
+---
 title: Francesco Brezza
 huis:  Tenuta Migliavacca
 dept:  
@@ -13,37 +13,30 @@ wijnen:
       app:   Vino da Tavola
       type:  Rosso
       cep:   Barbera/Grignolino/Freisa
-      prijs: €13.23
+      prijs: €13.22
       opm:   Magnum (150cl)
     
-    - naam:  Grignolino'13
+    - naam:  Vino Rosso'15
       ref:   
-      app:   D.O.C. Grignolino del Monferrato Casalese
+      app:   Vino da Tavola
       type:  Rosso
-      cep:   Grignolino
-      prijs: €13.09
-      opm:   Slechts enkele flessen/Que quelques bouteilles
-
-    - naam:  Grignolino'14
-      ref:   
-      app:   D.O.C. Grignolino del Monferrato Casalese
-      type:  Rosso
-      cep:   Grignolino
-      prijs: €13.09
+      cep:   Barbera/Grignolino/Freisa
+      prijs: 
+      opm:   Magnum (150cl)    
       
     - naam:  Barbera'13
       ref:   
       app:   D.O.C Barbera del Monferrato 
       type:  Rosso
       cep:   Barbera 
-      prijs: €10.98
+      prijs: €11.32
     
     - naam:  Barbera'14
       ref:   
       app:   D.O.C Barbera del Monferrato 
       type:  Rosso
       cep:   Barbera 
-      prijs: €10.98
+      prijs: €11.32
    
 ---
 Francesco Brezza, verloor zijn vader na een tractorongeval. Deze man was één van de oudste italiaanse biodynamisten.
