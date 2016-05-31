@@ -7,55 +7,55 @@ photo: buchot.jpg
 layout: wijnhuis
 
 wijnen:
+
+    - naam:  Crémant du Jura’14
+      ref:   
+      app:   A.O.C. Côtes de Jura
+      type:  non-dosé
+      cep:   Chardonnay
+      prijs: €14.67
     
-    - naam:  Terroir du Bry Tradition'11
+    - naam:  Terroir du Bry Tradition'12
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé
       cep:   Chardonnay
-      prijs: €11.95
+      prijs: €13.64
     
     - naam:  Château Beaufort'13
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec ouillé
       cep:   Chardonnay
-      prijs: €12.95
+      prijs: €14.46
     
     - naam:  Cuvée Charles Beaudelaire'11
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé
       cep:   Chardonnay/Savagnin
-      prijs: €13.95
-
-    - naam:  Savagnin'10
-      ref:   
-      app:   A.O.C. Côtes de Jura
-      type:  Blanc sec non ouillé sous voile
-      cep:   Savagnin
-      prijs: €18.25
+      prijs: €15.04
       
     - naam:  Vin Jaune'04
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé sous voile
       cep:   Savagnin
-      prijs: €41.36
+      prijs: €41.49
 
     - naam:  Vin Jaune'06
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Blanc sec non ouillé sous voile
       cep:   Savagnin
-      prijs: €41.36
+      prijs: €41.49
 
     - naam:  Poulsard'14
       ref:   
       app:   A.O.C. Côtes de Jura
       type:  Rouge
       cep:   Poulsard
-      prijs: €10.99
+      prijs: €12.48
     
     - naam:  Pinot noir'12
       ref:    
@@ -77,14 +77,14 @@ wijnen:
       app:   Côtes de Jura
       type:  Vin muté 
       cep:    
-      prijs: €18.75 
+      prijs: €18.76
 
     - naam:  Vin de Paille'08
       ref:   
       app:   Côtes de Jura
       type:  Vin Liquoreux 
       cep:   Chardonnay/Poulsard
-      prijs: €23.20 
+      prijs: €23.35
 
     
 ---
