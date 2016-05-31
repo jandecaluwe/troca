@@ -5,7 +5,6 @@ layout: wijnhuis
 photo: laherte.jpg
 
 wijnen:
-    
     - naam:  Ultradition Brut
       ref:   
       app:   A.O.C. Champagne
