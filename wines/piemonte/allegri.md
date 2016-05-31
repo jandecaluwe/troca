@@ -1,4 +1,4 @@
-﻿---
+---
 title: Pier Luca Allegri
 huis:  Tenuta 2201
 dept:  
@@ -12,14 +12,14 @@ wijnen:
       app:   D.O.C.P. Grignolino del Monferrato Casalese
       type:  Rosso
       cep:   Grignolino
-      prijs: €10.14
+      prijs: €10.21
       
     - naam:  Barbera del Monferrato'12
       ref:   
       app:   D.O.C Barbera del Monferrato 
       type:  Rosso
       cep:   Barbera 
-      prijs: €10.47
+      prijs: €10.54
       
 
 ---
