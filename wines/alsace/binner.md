@@ -1,4 +1,4 @@
-﻿---
+---
 title: Christian Binner
 huis:  Domaine Binner
 dept:  Haut-Rhin
@@ -7,45 +7,13 @@ photo: binner.jpg
 layout: wijnhuis
 
 wijnen:
-    
-    - naam:  Riesling Ammerschwirh'05
-      ref:   Als 05--
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Riesling
-      prijs: €11.64
-      opm: the last bottles
-    
-    - naam:  Riesling'07
-      ref:   Als 12--
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Riesling
-      prijs: €11.64
-      opm: the last bottles
       
     - naam:  Riesling'12
       ref:   Als 12--
       app:   A.O.C. Alsace
       type:  Blanc sec
       cep:   Riesling
-      prijs: €15.01
-      opm:   the last bottles
-    
-    - naam:  Riesling Ammerschwihr'13
-      ref:   Als 13--
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Riesling
-      prijs: €13.14
-      opm:   the last bottles
-
-    - naam:  Riesling Schlossberg'04 (Grand Cru)
-      ref:   Als 0407
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Riesling
-      prijs: €19.31
+      prijs: €15.00
       opm:   the last bottles
 
     - naam:  Riesling Bildstoecklé'10 
@@ -53,7 +21,7 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Blanc sec
       cep:   Riesling
-      prijs: €20.59
+      prijs: €20.58
       opm:   the last bottles
       
     - naam:  Riesling Kaefferkoph V.T.'98
@@ -61,14 +29,14 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Vendange Tardive
       cep:   Riesling
-      prijs: €18.74
+      prijs: €25.37
 
     - naam:  Muscat'04
       ref:   Als 0404
       app:   A.O.C. Alsace
       type:  Blanc sec
       cep:   Muscat
-      prijs: €13.71
+      prijs: €13.72
 
     - naam:  Muscat Cuvée Béatrice'02 
       ref:   Als 0203
@@ -82,7 +50,7 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Blanc sec S.Soufre
       cep:   Auxerrois, Riesling, Pinot gris, Gewurztraminer en coplantation
-      prijs: €17.38
+      prijs: €17.36
       
     - naam:  Gewurztraminer non-filtré, non-sulfité'12
       ref:   
@@ -96,21 +64,21 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Blanc sec (sans soufre)
       cep:   Auxerrois
-      prijs: €16.52
+      prijs: €16.53
       
     - naam:  Auxerrois Hinterberg'08 (magnum)
       ref:   Als 0809
       app:   A.O.C. Alsace
       type:  Blanc sec (sans soufre)
       cep:   Auxerrois
-      prijs: €33.37
+      prijs: €33.39
 
     - naam:  Crémant d'Alsace KB'08 (extra brut)
       ref:   Als 12--
       app:   A.O.C. Alsace
       type:  Méthode traditionelle
       cep:   Riesling, Pinot gris
-      prijs: €20.02
+      prijs: €20.04
       
     - naam:  Blanc des Noirs'07 (37.5cl)
       ref:   Als 0709
@@ -124,15 +92,23 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Rouge
       cep:   Pinot noir
-      prijs: €14.81
+      prijs: €14.84
       opm:   the last bottles
+      
+    - naam:  Pinot noir'11
+      ref:   
+      app:   A.O.C. Alsace
+      type:  Rouge
+      cep:   Pinot noir
+      prijs: €15.41
+      opm:   argilo-calcaire
       
     - naam:  Pinot noir'12 non-filtré (sans soufre)
       ref:   Als 12--
       app:   A.O.C. Alsace
       type:  Rouge
       cep:   Pinot noir
-      prijs: €15.01
+      prijs: €15.00
       opm:   argilo-calcaire
       
     - naam:  Pinot noir'13 non-filtré (sans soufre)
@@ -140,7 +116,7 @@ wijnen:
       app:   A.O.C. Alsace
       type:  Rouge
       cep:   Pinot noir
-      prijs: €15.24
+      prijs: €15.25
       
     - naam:  Eau de Vie de Vieux Marc de Pinot gris V.T.
       ref:   Als 9801
