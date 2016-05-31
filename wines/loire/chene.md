@@ -1,4 +1,4 @@
-﻿---
+---
 title:  Jean-François Chéné
 huis:   La Coulée d'Ambrosia
 regio:  A.O.C. Anjou
@@ -6,26 +6,20 @@ photo:  chene.jpg
 layout: wijnhuis 
 
 wijnen:
-    - naam: Eureka'12
-      ref:   
-      app:  Vin de France
-      type: Pétillant naturel
-      cep:  Chenin blanc
-      prijs: €16.25
       
     - naam: Panier de Fruits'13
       ref:   
       app:  Vin de France
       type: Blanc sec
       cep:  Chenin blanc
-      prijs: €13.34
+      prijs: €13.35
     
     - naam: Panier de Fruits'12
       ref:   
       app:  Vin de France
       type: Blanc sec
       cep:  Grolleau noir
-      prijs: €27.50
+      prijs: €27.52
       opm: Magnum (150cl)
     
     - naam: l'O2 Vigne'09
@@ -40,7 +34,7 @@ wijnen:
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €12.30
+      prijs: €12.31
       opm: the last bottles
     
     - naam: Le Boit sans soif'13
@@ -48,19 +42,19 @@ wijnen:
       app:  Vin de France
       type: Rouge
       cep:  Grolleau noir
-      prijs: €12.30
+      prijs: €12.31
        
     - naam: Les Joues Rouges'13
       ref:   
       app:  Vin de France
       type: Rouge
       cep:  Cabernet franc
-      prijs: €12.76
+      prijs: €12.77
           
 ---
 @Troca V.N. 03/11/15
 
-Johanna en Jean-François Chéné komen op bezoek op 11 november as. 
+Jean-François Chéné ...
 
 Wij kennen deze jonge wijnbouwer uit Anjou sinds verschillende jaren. Panier de Fruits 2005 was immers door ons het 1e aangekochte millésime.
 
