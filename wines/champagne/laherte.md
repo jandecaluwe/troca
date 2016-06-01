@@ -1,6 +1,5 @@
 ---
 title: Laherte Frères
-
 layout: wijnhuis
 photo: laherte.jpg
 
@@ -10,14 +9,14 @@ wijnen:
       app:   A.O.C. Champagne
       cep:   60%Pinot Meunier/30%Chardonnay/10% Pinot noir
       prijs: €24.38
-      opm:   "Millésime: 50%2012/50%2013”
-    
+      opm:   "Millésime: 50%2012/50%2013"
+ 
     - naam:  Ultradition Extra-Brut
       ref:   
       app:   A.O.C. Champagne
       cep:   60%Pinot Meunier/30%Chardonnay/10% Pinot noir
       prijs: €24.38
-      opm:   "Millésime: 50%2012/50%2013”    
+      opm:   "Millésime: 50%2012/50%2013"    
 
     - naam:  Blanc des Blancs Brut nature (non-dosé)
       ref:   
