@@ -24,6 +24,7 @@ Ons bezoeken:
 * Op zaterdag geopend tss. 14.30u en 18.00u.
 * Eveneens tijdens de week bent U welkom na afspraak.
 * Bezoek onze webshop via deze link <http://www.troca-vn-shop.be>
+* Google Maps: zoek naar “Troca V.N.”
 
 
 Onze Open Proef Dagen 2016:
