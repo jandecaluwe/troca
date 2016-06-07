@@ -8,21 +8,13 @@ layout: wijnhuis
 
 wijnen:
     
-    - naam:  Vino Rosso'14
-      ref:   
-      app:   Vino da Tavola
-      type:  Rosso
-      cep:   Barbera/Grignolino/Freisa
-      prijs: €13.22
-      opm:   Magnum (150cl)
-    
     - naam:  Vino Rosso'15
       ref:   
       app:   Vino da Tavola
       type:  Rosso
       cep:   Barbera/Grignolino/Freisa
-      prijs: 
-      opm:   Magnum (150cl)    
+      prijs: €15.91
+      opm:   Magnum (150cl)   
       
     - naam:  Barbera'13
       ref:   
