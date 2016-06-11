@@ -20,7 +20,7 @@ wijnen:
       app:   A.O.C. Arbois
       type:  Blanc sec ouillé
       cep:   Savagnin
-      prijs: 
+      prijs: €16.73
     
     - naam:  Orange 2015
       ref:   
