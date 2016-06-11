@@ -59,6 +59,7 @@ wijnen:
        
 ---
 Tekst: 11 juni 2016
+
 Patrice Beguet, zo heet de man! Een ex-informaticus van opleiding die er enkele jaren geleden de brui aan gaf om van zijn passie zijn beroep te maken. 
 Hij besloot eerst een diploma wijnbouw te halen (Beaune) en nadien een 2e, dat van oenoloog in Montpellier.
 
