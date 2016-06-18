@@ -21,7 +21,8 @@ E: <jonas@trocavn.eu>
 
 Ons bezoeken:
 ============= 
-* Op zaterdag geopend tss. 14.30u en 18.00u.
+* Op zaterdag geopend tss. 14.30u en 18.00u. 
+* Uitzonderlijk gesloten op 18/06
 * Eveneens tijdens de week bent U welkom na afspraak.
 * Bezoek onze webshop via deze link <http://www.troca-vn-shop.be>
 * Google Maps: zoek naar “Troca V.N.”

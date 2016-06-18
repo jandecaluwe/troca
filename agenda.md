@@ -6,6 +6,7 @@ layout: page
 Ons bezoeken:
 ============
 * Op zaterdag geopend tss. 14.30u en 18.00u.
+* Uitzonderlijk gesloten op 18/06.
 * Tijdens de week bent U eveneens welkom na afspraak.
 
 Onze Open Proef Dagen 2016:
