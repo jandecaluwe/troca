@@ -6,7 +6,7 @@ photo: gautherot.jpg
 
 wijnen:
     
-    - naam:  Fidèle’12 
+    - naam:  Fidèle’13 
       ref:   
       app:   A.O.C. Champagne
       cep:   Pinot noir 
