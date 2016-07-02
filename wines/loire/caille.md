@@ -1,4 +1,4 @@
-﻿---
+---
 title: Vincent Caillé
 huis:  Le Fay d'Homme
 regio: A.O.C. Muscadet de Sèvre et Maine
@@ -13,12 +13,12 @@ wijnen:
       cep:  Folle blanche 
       prijs: 6.28€
     
-    - naam: En t' Attendant'15 
+    - naam: Je t’Aime Mais j’Ai Soif’15 
       ref:   
       app:  Vin de France  
       type: Blanc Sec
       cep:  Melon de Bourgogne
-      prijs: 7.66€
+      prijs: 7.69€
       opm:  new wine
     
     - naam: Muscadet'14 (La Part du Colibri)
@@ -26,14 +26,14 @@ wijnen:
       app:  A.O.C. Muscadet de Sèvre et Maine
       type: Blanc sec
       cep:  Melon de Bourgogne 
-      prijs: 7.65€
+      prijs: 7.69€
      
-    - naam:  Clos de La Févrie'13
+    - naam:  Clos de La Févrie'15
       ref:   
       app:   A.O.C. Muscadet de Sèvre et Maine
       type:  Blanc sec
       cep:   Melon de Bourgogne
-      prijs: 10.05€
+      prijs: 10.58€
      
     - naam:  Muscadet Vieilles Vignes'09 
       ref:   
@@ -43,6 +43,13 @@ wijnen:
       prijs: 8.75€
       opm:   the last bottles
     
+    - naam:  Fief des Coteaux’14
+      ref:   
+      app:   A.O.C. Muscadet de Sèvre et Maine
+      type:  Blanc sec
+      cep:   Melon de Bourgogne
+      prijs: 9.17€
+      
     - naam:  Monnières-Saint Fiacre'10
       ref:   
       app:   A.O.C. Muscadet de Sèvre et Maine
