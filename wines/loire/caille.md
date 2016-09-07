@@ -7,14 +7,14 @@ layout: wijnhuis
 
 wijnen:
     - naam: Gros Plant'13 (La Part du Colibri)
-      ref:   
+      ref:
       app:  V.D.Q.S. Gros Plant du Pays Nantais
       type: Blanc sec
       cep:  Folle blanche 
       prijs: 6.28€
     
-    - naam: Je t’Aime Mais j’Ai Soif’15 
-      ref:   
+    - naam: Je t’Aime Mais j’Ai Soif'15 
+      ref:
       app:  Vin de France  
       type: Blanc Sec
       cep:  Melon de Bourgogne
@@ -22,7 +22,7 @@ wijnen:
       opm:  new wine
     
     - naam: Muscadet'14 (La Part du Colibri)
-      ref:   
+      ref:  
       app:  A.O.C. Muscadet de Sèvre et Maine
       type: Blanc sec
       cep:  Melon de Bourgogne 
@@ -43,7 +43,7 @@ wijnen:
       prijs: 8.75€
       opm:   the last bottles
     
-    - naam:  Fief des Coteaux’14
+    - naam:  Fief des Coteaux'15 
       ref:   
       app:   A.O.C. Muscadet de Sèvre et Maine
       type:  Blanc sec
@@ -56,6 +56,14 @@ wijnen:
       type:  Blanc sec
       cep:   Melon de Bourgogne
       prijs: 13.74€
+      opm:   48 mois d'élevage sur lies fines
+
+    - naam:  Gorges'12
+      ref:   
+      app:   A.O.C. Muscadet de Sèvre et Maine
+      type:  Blanc sec
+      cep:   Melon de Bourgogne
+      prijs: 14.13€
       opm:   48 mois d'élevage sur lies fines
     
 ---
@@ -72,16 +80,17 @@ Gelukkig wordt deze laatste groep steeds groter.
 
 Iets over de wijnen:
 --------------------
--"La Part du Colibri" Gros Plant: Oude Folle Blanche stokken. Een minerale wijn, spits doch sappig.
+- La Part du Colibri Gros Plant: Oude Folle Blanche stokken. Een minerale wijn, spits doch sappig.
 
--"La Part du Colibri" Muscadet: zeer zuivere basismuscadet. Eerlijk en lekker. Bodem: Orthogneiss
+- La Part du Colibri Muscadet: zeer zuivere basismuscadet. Eerlijk en lekker. Bodem: Orthogneiss
 
--"Clos de La Févrie" Oude Melon de Bourgogne stokken vanop een Orthogneiss-bodem. Rijk gevulde wijn, rijp en toch fris met de nodige anijsgeuren en smaken.
+- Clos de La Févrie: Oude Melon de Bourgogne stokken vanop een Orthogneiss-bodem. Rijk gevulde wijn, rijp en toch fris met de nodige anijsgeuren en smaken.
 
--'Vieilles Vignes" Oude Melon de Bourgogne van op Gabbro-bodem. Geeft zich zoals steeds moeilijker tijdens de jeugd doch evolueert fantastisch. Zeer mooie wijn. 
+- Vieilles Vignes: Oude Melon de Bourgogne van op Gabbro-bodem. Geeft zich zoals steeds moeilijker tijdens de jeugd doch evolueert fantastisch. Zeer mooie wijn. 
 
--'Monnières-Saint Fiacre: Oude Melon de Bourgogne van op Gneiss-bodem. Monnières-Saint Fiacre is een dorpsappellatie. Het decreet schrijft minimaal 24 maanden élevage voor.
+- Monnières-Saint Fiacre: Oude Melon de Bourgogne van op Gneiss-bodem. Monnières-Saint Fiacre is een dorpsappellatie. Het decreet schrijft minimaal 24 maanden élevage voor.
 Elevage is het contact van de jonge wijn met zijn gistdroesem. Vincent Caillé eleveert echter 48 maanden. Op deze manier bekomt men een zeer elegante, complexe en doortimmerde wijn.
+
 
 De wijnen van Vincent Caillé zijn breed inzetbaar op elke tafel of type keuken. Ze blijven eveneens meer dan betaalbaar.
 

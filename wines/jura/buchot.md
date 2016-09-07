@@ -35,13 +35,6 @@ wijnen:
       type:  Blanc sec non ouillé
       cep:   Chardonnay/Savagnin
       prijs: €15.04
-      
-    - naam:  Vin Jaune'04
-      ref:   
-      app:   A.O.C. Côtes de Jura
-      type:  Blanc sec non ouillé sous voile
-      cep:   Savagnin
-      prijs: €41.49
 
     - naam:  Vin Jaune'06
       ref:   
