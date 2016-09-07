@@ -21,6 +21,13 @@ wijnen:
       cep:   Barbera 
       prijs: €12.15
       
+    - naam:  Barbera d'Alba’14
+      ref:   
+      app:   D.O.C Barbera d'Alba 
+      type:  Rosso
+      cep:   Barbera 
+      prijs:     
+
     - naam:  Barolo Villero'09
       ref:   
       app:   D.O.C.G. Barolo
