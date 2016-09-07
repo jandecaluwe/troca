@@ -17,8 +17,8 @@ Oktober
 
 November
 --------
-* Za 19/11 van 13.00u tot 19.00u
-* Zo 20/11 van 10.00u tot 19.00u
+* Za 12/11 van 13.00u tot 19.00u
+* Zo 13/11 van 10.00u tot 19.00u
 
 
 
