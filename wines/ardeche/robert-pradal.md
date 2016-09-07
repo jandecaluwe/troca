@@ -8,27 +8,43 @@ layout: wijnhuis
 
 wijnen:
     
-    - naam: Trace Nègre'14
+    - naam: Chardonnay’15
+      ref:   
+      app:  I.G.P. Ardèche
+      type: Rouge
+      cep:  Chardonnay
+      prijs: 
+      opm: sans soufre   
+      
+    - naam: Viognier’15
+      ref:   
+      app:  I.G.P. Ardèche
+      type: Rouge
+      cep:  Chardonnay
+      prijs: 
+      opm: sans soufre     
+
+    - naam: Trace Nègre’14
       ref:   
       app:  I.G.P. Ardèche
       type: Rouge
       cep:  Grenache
       prijs: €8.00
     
-    - naam: Carignan'14
+    - naam: Carignan'15
       ref:   
       app:  I.G.P. Ardèche
       type: Rouge
       cep:  Carignan
-      prijs: €8.48
+      prijs: €
       opm: sans soufre
    
-    - naam:  Grenache'14
+    - naam:  Grenache'15
       ref:   
       app:   I.G.P. Ardèche
       type:  Rouge
       cep:   Grenache noir
-      prijs: €8.48
+      prijs: €
       opm: sans soufre
 ---
 Denis Robert
