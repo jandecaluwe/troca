@@ -39,6 +39,11 @@ Te proeven op 01/10 & 02/10:
 * Sébastien Riffault/Akmèniné’11 (Sauvignon blanc/Sancerre)
 * Sébastien Riffault/Saulétas’11 (Sauvignon/Sancerre)
 * Paul Gillet/Ca Me’14 (Sauvignon macération/Vallée du Cher)
+* Bubbles
+* Folicello/Foli’14 (Pignoletto/Emiglia Romagna)
+* Folicello/Lambrusco’14 (Lambrusco Grasparossa di Castelvetro)
+* Vincent Carême/Brut’12 (Chenin/Vouvray)
+* Christian Binner/Crémant K.B.’08 (Riesling/Pinot gris//Alsace)
 
 
 
