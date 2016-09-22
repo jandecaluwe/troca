@@ -22,8 +22,24 @@ November
 
 Te proeven op 01/10 & 02/10:
 ============================
-* Thomas Carsin/Terre’15
-* Valli Unite/Fiurin’14
+* Stil wit
+* Vincent Caillé/La Part du Colibri’15 (Melon de Bourgogne/Muscadet)
+* Stéphane Bannwarth/ Riesling’14 (Alsace)
+* Stéphane Bannwarth/ Pin’ Aux’13 (Pinot blanc/Auxerrois)
+* Thomas Carsin/Terre’15 (Sauvignon/Anjou)
+* J.F. Chéné/Panier de Fruits’13 (Chenin/Anjou)
+* Nicolas Joly/Les Vieux Clos’14 (Chenin/Savennières)
+* Nicolas Joly/Clos de La Bergerie’14 (Chenin/Roche-Aux-Moines)
+* Hervé Villemade/Les Châtaigniers’14 (Romorantin/Cour-Cheverny)
+* Floréal Romero/Maeva’14 (Colombard/Sud-Ouest)
+* Folicello/Gocce d’Ambra’14 (Pignoletto/Emiglia Romagna)
+* Alessandro Poretti/Fiurin’14 (Cortese/Timorasso//Piemonte)
+* Alessandro Poretti/Derthona’14 (Timorasso//Piemonte)
+* Sébastien Riffault/Les Quarterons’13 (Sauvignon blanc/Sancerre)
+* Sébastien Riffault/Akmèniné’11 (Sauvignon blanc/Sancerre)
+* Sébastien Riffault/Saulétas’11 (Sauvignon/Sancerre)
+* Paul Gillet/Ca Me’14 (Sauvignon macération/Vallée du Cher)
+
 
 
 
