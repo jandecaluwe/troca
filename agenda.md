@@ -14,6 +14,7 @@ Oktober
 -------
 * Za 01/10 van 13.00u tot 19.00u
 * Zo 02/10 van 10.00u tot 19.00u
+* In tegenstelling van wat de nieuwsbrief zegt van 22/10 bent U op zondag welkom vanaf 10.00u iplv 13.00u
 
 November
 --------
