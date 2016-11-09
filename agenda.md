@@ -18,7 +18,6 @@ November
 Te proeven op 01/10 & 02/10:
 ============================
 * Stil wit
-* Vincent Caillé/La Part du Colibri’15 (Melon de Bourgogne/Muscadet)
 * Marc Pesnot/Chapeau Melon’15 (Melon de Bourgogne/Muscadet)
 * Stéphane Bannwarth/ Riesling’14 (Alsace)
 * Stéphane Bannwarth/ Pin’ Aux’13 (Pinot blanc/Auxerrois)
