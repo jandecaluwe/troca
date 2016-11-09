@@ -18,14 +18,11 @@ November
 Te proeven op 01/10 & 02/10:
 ============================
 * Stil wit
-* Marc Pesnot/Chapeau Melon’15 (Melon de Bourgogne/Muscadet)
 * Stéphane Bannwarth/ Riesling’14 (Alsace)
-* Stéphane Bannwarth/ Pin’ Aux’13 (Pinot blanc/Auxerrois)
 * Thomas Carsin/Terre’15 (Sauvignon/Anjou)
 * J.F. Chéné/Panier de Fruits’13 (Chenin/Anjou)
 * Nicolas Joly/Les Vieux Clos’14 (Chenin/Savennières)
 * Nicolas Joly/Clos de La Bergerie’14 (Chenin/Roche-Aux-Moines)
-* Hervé Villemade/Les Châtaigniers’14 (Romorantin/Cour-Cheverny)
 * Floréal Romero/Maeva’14 (Colombard/Sud-Ouest)
 * Folicello/Gocce d’Ambra’14 (Pignoletto/Emiglia Romagna)
 * Alessandro Poretti/Fiurin’14 (Cortese/Timorasso//Piemonte)
