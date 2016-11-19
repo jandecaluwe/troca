@@ -22,7 +22,7 @@ E: <jonas@trocavn.eu>
 Ons bezoeken:
 ============= 
 
-* Juli en Augustus: U bent welkom na afspraak.
+* Vandaag za 19/11 zijn wij uitzonderlijk gesloten.
 * Bezoek onze webshop via deze link <http://www.troca-vn-shop.be>
 * Google Maps: zoek naar “Troca V.N.”
 
