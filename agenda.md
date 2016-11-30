@@ -14,8 +14,8 @@ He will join us at next organised events ...
 These great chefs will prepare outstanding food to celebrate his visit.
 Please join us if you want to after sending an email at <jacques@trocavn.eu> 
 
-http://www.sanscravate.be
-http://www.humphreyrestaurant.com
+<http://www.sanscravate.be>
+<http://www.humphreyrestaurant.com>
 
  
 
