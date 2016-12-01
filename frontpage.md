@@ -38,7 +38,6 @@ Please join us if you want to after sending an email at <jacques@trocavn.eu>
 Ons bezoeken:
 ============= 
 
-* Vandaag za 19/11 zijn wij uitzonderlijk gesloten.
 * Bezoek onze webshop via deze link <http://www.troca-vn-shop.be>
 * Google Maps: zoek naar “Troca V.N.”
 
