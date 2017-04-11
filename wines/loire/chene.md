@@ -5,52 +5,7 @@ regio:  A.O.C. Anjou
 photo:  chene.jpg
 layout: wijnhuis 
 
-wijnen:
-      
-    - naam: Panier de Fruits'13
-      ref:   
-      app:  Vin de France
-      type: Blanc sec
-      cep:  Chenin blanc
-      prijs: €13.35
-    
-    - naam: Panier de Fruits'12
-      ref:   
-      app:  Vin de France
-      type: Blanc sec
-      cep:  Grolleau noir
-      prijs: €27.52
-      opm: Magnum (150cl)
-    
-    - naam: l'O2 Vigne'09
-      ref:   
-      app:  Vin de France
-      type: Blanc sec oxidatif
-      cep:  Chenin blanc
-      prijs: €24.17
-      
-    - naam: Le Boit sans soif'12
-      ref:   
-      app:  Vin de France
-      type: Rouge
-      cep:  Grolleau noir
-      prijs: €12.31
-      opm: the last bottles
-    
-    - naam: Le Boit sans soif'13
-      ref:   
-      app:  Vin de France
-      type: Rouge
-      cep:  Grolleau noir
-      prijs: €12.31
-       
-    - naam: Les Joues Rouges'13
-      ref:   
-      app:  Vin de France
-      type: Rouge
-      cep:  Cabernet franc
-      prijs: €12.77
-          
+
 ---
 @Troca V.N. 03/11/15
 

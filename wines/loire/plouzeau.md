@@ -1,4 +1,4 @@
-﻿---
+---
 title: Marc Plouzeau
 huis:  Dom. de La Bonnelière
 dept:  Indre et Loire
@@ -6,45 +6,7 @@ regio: Touraine
 photo: plouzeau.jpg
 layout: wijnhuis
 
-wijnen:
-    - naam:  Les Devants'14
-      ref:   
-      app:   A.O.C. Touraine
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €8.07
-      
-      
-    - naam:  Le Chenin'12
-      ref:   
-      app:   A.O.C. Touraine
-      type:  Blanc sec
-      cep:   Chenin blanc
-      prijs: €9.42
-      
-    - naam:  Rive Gauche'12
-      ref:   
-      app:   A.O.C. Chinon
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: €7.65
-      
-    - naam:  Rive Gauche'08 (37.5cl)
-      ref:   
-      app:   A.O.C. Chinon
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: €4.13
-      opm:   the last bottles
-      
-    - naam:  La Chapelle'07
-      ref:   
-      app:   A.O.C. Chinon
-      type:  Rouge
-      cep:   Cabernet franc
-      prijs: €11.44
-      opm:   the last bottles
-      
+
       
       
 

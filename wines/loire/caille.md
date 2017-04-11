@@ -5,67 +5,7 @@ regio: A.O.C. Muscadet de Sèvre et Maine
 photo: caille.jpg
 layout: wijnhuis 
 
-wijnen:
-    - naam: Gros Plant'13 (La Part du Colibri)
-      ref:
-      app:  V.D.Q.S. Gros Plant du Pays Nantais
-      type: Blanc sec
-      cep:  Folle blanche 
-      prijs: 6.28€
-    
-    - naam: Je t’Aime Mais j’Ai Soif'15 
-      ref:
-      app:  Vin de France  
-      type: Blanc Sec
-      cep:  Melon de Bourgogne
-      prijs: 7.69€
-      opm:  new wine
-    
-    - naam: Muscadet'14 (La Part du Colibri)
-      ref:  
-      app:  A.O.C. Muscadet de Sèvre et Maine
-      type: Blanc sec
-      cep:  Melon de Bourgogne 
-      prijs: 7.69€
-     
-    - naam:  Clos de La Févrie'15
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 10.58€
-     
-    - naam:  Muscadet Vieilles Vignes'09 
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 8.75€
-      opm:   the last bottles
-    
-    - naam:  Fief des Coteaux'15 
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 9.17€
-      
-    - naam:  Monnières-Saint Fiacre'10
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 13.74€
-      opm:   48 mois d'élevage sur lies fines
 
-    - naam:  Gorges'12
-      ref:   
-      app:   A.O.C. Muscadet de Sèvre et Maine
-      type:  Blanc sec
-      cep:   Melon de Bourgogne
-      prijs: 14.13€
-      opm:   48 mois d'élevage sur lies fines
-    
 ---
 Vincent Caillé (5e generatie) verbouwt 27 hectaren wijngaard in de grootste Muscadetregio (Sèvre et Maine) vlakbij het dorpje Monnières.
 Deze man is één van de hartnekkige en koppige wijnbouwers daar in het verre westen die zonder toegevingen aan zuivere wijnbouw doet.

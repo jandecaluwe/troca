@@ -5,36 +5,8 @@ regio: A.O.C. Alsace
 photo: hausherr.jpg
 layout: wijnhuis 
 
-wijnen:
-    
-    - naam:  Lieu-dit "Sunngass" '11
-      ref:   
-      app:  A.O.C. Alsace
-      type: Blanc sec
-      cep:  78% Riesling/22% Pinot gris
-      prijs: €13.14
       
-    - naam:  Cuvée "Sui Generis" '12
-      ref:   
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Gewurztraminer
-      prijs: €13.72
-
-    - naam:  Cuvée "Sui Generis" '13
-      ref:   
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   Gewurztraminer
-      prijs: €14.34
-      
-    - naam:  Cuvée "La Colline Céleste" '12
-      ref:   
-      app:   A.O.C. Alsace
-      type:  Blanc sec
-      cep:   72% Gewurztraminer/17% Riesling/11% Pinot gris
-      prijs: €15.21
-      
+   
     
 ---
 Hubert en Heidi Hausherr ...

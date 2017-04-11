@@ -6,36 +6,7 @@ regio: Arbois
 photo: hughes-beguet.jpg
 layout: wijnhuis
 
-wijnen:
-    
-    - naam:  Oh Yeah 2015
-      ref:   
-      app:   A.O.C. Arbois
-      type:  Blanc sec ouillé
-      cep:   Savagnin
-      prijs: €16.73
-    
-    - naam:  Ploussard 2015
-      ref:   
-      app:   A.O.C. Arbois
-      type:  Rouge
-      cep:   Ploussard
-      prijs: €12.35
 
-    - naam:  Côte de Feule 2015
-      ref:   
-      app:   A.O.C. Arbois-Pupillin
-      type:  Rouge
-      cep:   Ploussard
-      prijs: €16.36
-
-    - naam:  So True 2015
-      ref:   
-      app:   A.O.C. Arbois
-      type:  Rouge
-      cep:   Trousseau
-      prijs: €16.36
-       
 ---
 Tekst: 11 juni 2016
 

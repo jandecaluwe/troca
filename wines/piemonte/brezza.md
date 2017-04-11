@@ -6,30 +6,7 @@ regio: Piemonte
 photo: brezza.jpg
 layout: wijnhuis
 
-wijnen:
-    
-    - naam:  Vino Rosso'15
-      ref:   
-      app:   Vino da Tavola
-      type:  Rosso
-      cep:   Barbera/Grignolino/Freisa
-      prijs: €15.91
-      opm:   Magnum (150cl)   
-      
-    - naam:  Barbera'13
-      ref:   
-      app:   D.O.C Barbera del Monferrato 
-      type:  Rosso
-      cep:   Barbera 
-      prijs: €11.32
-    
-    - naam:  Barbera'14
-      ref:   
-      app:   D.O.C Barbera del Monferrato 
-      type:  Rosso
-      cep:   Barbera 
-      prijs: €11.32
-   
+
 ---
 Francesco Brezza, verloor zijn vader na een tractorongeval. Deze man was één van de oudste italiaanse biodynamisten.
 Hij nam verscheidene jonge wijnbouwers onder de arm en maakte hun wegwijs. Stefano Bellotti van het domein 'Cascina degli Olivi' was één van hen.

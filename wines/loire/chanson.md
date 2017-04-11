@@ -1,24 +1,11 @@
-﻿---
+---
 title:  Ludovic Chanson
 huis:   Dom. Chanson
 regio:  A.O.C. Montlouis-sur-Loire
 photo:  chanson.jpg
 layout: wijnhuis 
 
-wijnen:
-    - naam: Les Cabotines'13
-      ref:   
-      app: A.O.C. Montlouis
-      type: Blanc sec
-      cep:  Chenin blanc
-      prijs: €12.97
-    
-    - naam: Les Pêchers'13
-      ref:   
-      app:  A.O.C. Montlouis  
-      type: Blanc sec tendre
-      cep:  Chenin blanc
-      prijs: €13.52
+
       
 ---
 Het domein evenals de wijngaarden van Ludovic Chanson zijn gelegen in het dorpje Husseau naast Montlouis-sur-Loire. Conversie naar biowijnbouw werd aangevat in 2003 om 3 jaar later in 2006 

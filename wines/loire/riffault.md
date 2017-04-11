@@ -1,62 +1,10 @@
-﻿---
+---
 title: Sébastien Riffault
 huis:  Dom. Sébastien Riffault
 dept:  Cher
 regio: Centre (Loire)
 photo: riffault.jpg
 layout: wijnhuis
-
-wijnen:
-    
-      
-    - naam:  Les Quarterons'12
-      ref:   Loi 12--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €15.04
-      opm:   Calcaire Portlandien
-      
-    - naam:  Akmèniné'11
-      ref:   Loi 11--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €16.87
-      opm:   Calcaire Portlandien
-      
-    - naam:  Auksinis'10
-      ref:   Loi 10--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €23.09
-      opm:   Calcaire Portlandien
-      
-    - naam:  Auksinis Macération '12
-      ref:   Loi 12--
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €23.09
-      opm:   Calcaire Portlandien
-      
-    - naam:  Saulétas'10
-      ref:   Loi 1183
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €23.09
-      opm:   Calcaire Kimméridjien
-      
-    - naam:  Skeveldra'10
-      ref:   Loi 1085
-      app:   A.O.C. Sancerre
-      type:  Blanc sec
-      cep:   Sauvignon blanc
-      prijs: €23.09
-      opm:   Argile à Silex
-    
 
 ---
 Departement Cher

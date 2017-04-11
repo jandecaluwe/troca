@@ -6,43 +6,6 @@ regio: Roussillon
 photo: rivaton.jpg
 layout: wijnhuis
 
-wijnen:
-
-    - naam:  Blanc Bec'14
-      ref:   
-      app:   Vin de France
-      type:  Blanc Sec
-      cep:   50% Macabeo, 30% Carignan blanc, 20% Grenache gris
-      prijs: €14.71
-      
-    - naam:  Panoramix'14
-      ref:   
-      app:   Vin de France
-      type:  Pet.Nat.Rosé 
-      cep:   Syrah
-      prijs: €13.10
-      
-    - naam:  Tombé du Ciel'13
-      ref:   
-      app:   Vin de France
-      type:  Rouge
-      cep:   60% Syrah/40% Carignan
-      prijs: €9.55
-      
-    - naam:  Vieilles Bouilles'14 
-      ref:   
-      app:   Vin de France
-      type:  Rouge
-      cep:   70% Carignan/20% Syrah/10% Grenache
-      prijs: €13.74
-    
-    - naam:  Jus de Raisin (25 cl)
-      ref:   
-      app:   
-      type:  
-      cep:   Carignan
-      prijs: €2.81
-
 ---
 Het domein van Frédéric Rivaton is gelegen op een boogscheut van de spaanse grens in de oostelijke Pyrénéen. 
 12 hectaren, bestaand uit voornamelijk oude Syrah, Carignan en Grenache op een ondergrond van leisteen en gneiss.

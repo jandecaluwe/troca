@@ -6,51 +6,7 @@ dept:  Côtes d'Or
 regio: Bourgogne
 photo: vantey.png
 
-wijnen:
 
-    
-    - naam:  Envol'14
-      ref:   
-      app:   A.O.C. Bourgogne
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €13.39
-    
-    - naam:  Bourgogne Hautes Côtes de Beaune'13
-      ref:   
-      app:   A.O.C. Hautes Côtes de Beaune
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €16.36
-      
-    - naam:  Bourgogne Hautes Côtes de Beaune'14
-      ref:   
-      app:   A.O.C. Hautes Côtes de Beaune
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €16.36
-    
-    - naam:  Santenay'14
-      ref:   
-      app:   A.O.C. Santenay
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €22.31 
-    
-    - naam:  Maranges 'Vieilles Vignes'13 '
-      ref:   
-      app:   A.O.C. Maranges
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €20.59
-     
-    - naam:  Maranges 1e Cru 'Clos Roussots'14 '
-      ref:   
-      app:   A.O.C. Maranges 1e Cru
-      type:  Rouge
-      cep:   Pinot noir
-      prijs: €25.12
-    
 ---   
 Een klein maar fijn domein opgericht in 1998. Voor die tijd was o.a. Jean-Yves actief als D.J. in de ski-gebieden ergens in de Alpen. Een andere tijd beweert hij...
 Het is trouwens daar dat hij Isabelle, een Zwitserse, heeft ontmoet.

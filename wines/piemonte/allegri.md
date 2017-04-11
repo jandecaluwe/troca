@@ -6,20 +6,7 @@ regio: Piemonte
 photo: allegri.jpg
 layout: wijnhuis
 
-wijnen:
-    - naam:  Grignolino'13
-      ref:   
-      app:   D.O.C.P. Grignolino del Monferrato Casalese
-      type:  Rosso
-      cep:   Grignolino
-      prijs: €10.21
-      
-    - naam:  Barbera del Monferrato'12
-      ref:   
-      app:   D.O.C Barbera del Monferrato 
-      type:  Rosso
-      cep:   Barbera 
-      prijs: €10.54
+
       
 
 ---

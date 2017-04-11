@@ -6,4 +6,5 @@ serve:
 	python -m urubu serve
 
 fixbuild:
-	find _build -name "*.html" -exec todos -o {} \;
+	find _build -name "*.html" -exec todos -o {} \; cd troca
+

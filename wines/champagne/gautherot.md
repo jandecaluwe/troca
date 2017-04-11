@@ -4,51 +4,7 @@ huis: Vouette et Sorbée
 layout: wijnhuis
 photo: gautherot.jpg
 
-wijnen:
-    
-    - naam:  Fidèle’13 
-      ref:   
-      app:   A.O.C. Champagne
-      cep:   Pinot noir 
-      prijs: €45.00
-    
-    - naam:  Fidèle’10 (magnum)
-      ref:   Cha 10-- 
-      app:   A.O.C. Champagne
-      cep:   Pinot noir
-      prijs: €87.35
-      
-    - naam:  Fidèle’11 (magnum)
-      ref:   Cha 10-- 
-      app:   A.O.C. Champagne
-      cep:   Pinot noir
-      prijs: €87.35
-      
-    - naam:  Blanc d'Argile'13 
-      ref:   
-      app:   A.O.C. Champagne
-      cep:   Chardonnay
-      prijs: €52.85
-      
-    - naam:  Blanc d'Argile'12 (magnum) 
-      ref:   
-      app:   A.O.C. Champagne
-      cep:   Chardonnay 
-      prijs: €98.45
 
-    - naam:  Saignée de Sorbée’06
-      ref:   Cha 0602 
-      app:   A.O.C. Champagne 
-      cep:   Pinot noir rosé 
-      prijs: €41.36
-      opm:   de laatsten/les dernières
-
-    - naam:  Saignée de Sorbée ‘08
-      ref:   Cha 0803 
-      app:   A.O.C. Champagne
-      cep:   Pinot noir rosé 
-      prijs: €43.35
-      opm:   de laatsten/les dernières
 ---
 Hélène en Bertrand Gautherot ...
 

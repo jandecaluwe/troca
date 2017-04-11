@@ -5,27 +5,7 @@ regio: Le Gers
 photo: romero.jpg
 layout: wijnhuis 
 
-wijnen:
-    - naam: La Cuvée 100 Noms'12 
-      ref:   
-      app:  Vin de France
-      type: Blanc sec
-      cep:  Colombard/Ugni blanc
-      prijs: 7.70€
-    
-    - naam: Maeva’14
-      ref:   
-      app:  Vin de France
-      type: Blanc sec
-      cep:  Colombard
-      prijs: 8.75€
-    
-    - naam: Dulcinée'12 (50cl)
-      ref:   
-      app:  Moût partiellement fermenté
-      type: Blanc liquoreux
-      cep:  Colombard
-      prijs: 24.29€
+
       
     
 ---
