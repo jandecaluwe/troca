@@ -30,7 +30,9 @@ red_re = re.compile(r'(rood|rouge|rosso)', re.I)
 prijs_re = re.compile(r'(\d+\.\d+|\d+)', re.I)
         
 def validate_wijnhuis(item):
-    check_keys(item, ['wijnen'])
+    # check_keys(item, ['wijnen'])
+    if 'wijnen' not in item:
+        item['wijnen'] = []
     for wijn in item['wijnen']:
         if not 'type' in wijn or not wijn['type']:
             continue

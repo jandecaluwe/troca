@@ -12,10 +12,8 @@ content:
     - jura
     - roussillon
     - sud-ouest
-    - lombardia
     - piemonte
     - sicilia
     - toscana
-    - magnum
 ---
 
