@@ -1,9 +1,9 @@
 all: build
 build:
-	python -m urubu build
+	python3 -m urubu build
 
 serve:
-	python -m urubu serve
+	python3 -m urubu serve
 
 fixbuild:
 	find _build -name "*.html" -exec todos -o {} \; 
