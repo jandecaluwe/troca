@@ -29,8 +29,7 @@ Over natuurwijn:
 Er bestaan tal van zeer goede tot excellente wijnen zonder toegevoegd sulfiet. Wijnen zonder toegevoegd sulfiet kunnen ettelijke jaren ouderen 
 in een goede kelder. 
 
-De meningen rond het begrip "natuurwijn" verschillen 
-echter bij de wijnbouwers. Wat wel en wat niet?!
+De meningen rond het begrip "natuurwijn" verschillen echter bij de wijnbouwers. Wat wel en wat niet?!
 
 Volgens velen is een minimum aan toegevoegd sulfiet (SO2) aanvaardbaar om natuurwijn te zijn.
 In orde van grootte betekent dit: max. 30 mg/Li of 3 gr/100Li aan toegevoegd sulfiet. Voor de harde kern onder hen echter, is enkel absentie 
